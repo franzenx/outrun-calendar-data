@@ -4,17 +4,18 @@ on:
     - cron: '0 0 * * 1'
   workflow_dispatch: 
 
+# FORCE PERMISSIONS FOR 2026 GITHUB STANDARDS
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
       
-      - name: Setup Python 2026
-        uses: actions/setup-python@v6
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           
@@ -28,8 +29,8 @@ jobs:
         
       - name: Deploy Live Data
         run: |
-          git config user.name "Outrun Bot"
-          git config user.email "bot@outrun.at"
+          git config --global user.name "Outrun Bot"
+          git config --global user.email "bot@outrun.at"
           git add data.json
-          git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')" || exit 0
-          git push
+          # Only commit if there are actually changes to avoid "Exit 1" errors
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')" && git push)
