@@ -1,15 +1,87 @@
 {
-    "dubai": [],
-    "singapore": [],
-    "london": [],
-    "paris": [],
-    "tokyo": [],
-    "miami": [],
+    "dubai": [
+        {
+            "name": "TOKEN2049 Dubai",
+            "id": "token2049-dubai",
+            "url": "https://lu.ma/token2049-dubai"
+        }
+    ],
+    "singapore": [
+        {
+            "name": "BLOCK71 Singapore",
+            "id": "b71singapore",
+            "url": "https://lu.ma/b71singapore"
+        }
+    ],
+    "london": [
+        {
+            "name": "Future: UK",
+            "id": "ldn",
+            "url": "https://lu.ma/ldn"
+        },
+        {
+            "name": "TechGames",
+            "id": "techgames",
+            "url": "https://lu.ma/techgames"
+        },
+        {
+            "name": "Granola",
+            "id": "granola",
+            "url": "https://lu.ma/granola"
+        }
+    ],
+    "paris": [
+        {
+            "name": "\ud83c\udfe1 - Ev\u00e9nements @ Climate House",
+            "id": "climate.house",
+            "url": "https://lu.ma/climate.house"
+        },
+        {
+            "name": "ArtVerse",
+            "id": "artverseparis",
+            "url": "https://lu.ma/artverseparis"
+        }
+    ],
+    "tokyo": [
+        {
+            "name": "Startup Calendar\uff5c\u30b9\u30bf\u30fc\u30c8\u30a2\u30c3\u30d7\u30ab\u30ec\u30f3\u30c0\u30fc",
+            "id": "startup-calendar",
+            "url": "https://lu.ma/startup-calendar"
+        },
+        {
+            "name": "Superteam Japan",
+            "id": "superteamJapan",
+            "url": "https://lu.ma/superteamJapan"
+        }
+    ],
+    "miami": [
+        {
+            "name": "hello_miami",
+            "id": "hello_miami",
+            "url": "https://lu.ma/hello_miami"
+        },
+        {
+            "name": "Les Femmes Social Club",
+            "id": "socialclublf",
+            "url": "https://lu.ma/socialclublf"
+        },
+        {
+            "name": "Miami AI Hub",
+            "id": "miamiaihub",
+            "url": "https://lu.ma/miamiaihub"
+        }
+    ],
     "berlin": [],
     "rio": [],
     "mexico-city": [],
     "sao-paulo": [],
     "copenhagen": [],
-    "lisbon": [],
+    "lisbon": [
+        {
+            "name": "OneThousandClub Lisbon",
+            "id": "onethousandclub_lisbon",
+            "url": "https://lu.ma/onethousandclub_lisbon"
+        }
+    ],
     "warsaw": []
 }
