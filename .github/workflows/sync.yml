@@ -12,8 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Setup Python 2026
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -31,6 +33,10 @@ jobs:
           git config --global user.name "Outrun Bot"
           git config --global user.email "bot@outrun.at"
           git add data.json
-          # The 'exit 0' ensures that if there's nothing to commit, the job still succeeds
-          git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')" || exit 0
-          git push
+          # Commit only if changes exist, then push using the built-in token
+          if ! git diff --cached --exit-code; then
+            git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')"
+            git push origin main
+          else
+            echo "No new events found. Skipping push."
+          fi
