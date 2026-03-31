@@ -1,0 +1,35 @@
+name: Weekly Event Sync
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Runs every Monday at 00:00 UTC
+  workflow_dispatch: # Allows you to trigger a manual refresh from the UI
+
+permissions:
+  contents: write # Essential for the action to update data.json
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python 2026
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          
+      - name: Install Scraping Engine
+        run: |
+          pip install playwright
+          playwright install chromium
+          
+      - name: Run Bi-Weekly Scraper
+        run: python scraper.py
+        
+      - name: Deploy Live Data
+        run: |
+          git config user.name "Outrun Bot"
+          git config user.email "bot@outrun.at"
+          git add data.json
+          git commit -m "Automated Data Refresh: $(date +'%Y-%m-%d')" || exit 0
+          git push
