@@ -24,7 +24,7 @@
         <div class="text-2xl font-bold italic tracking-tighter uppercase">O. <span class="text-[#bbf7d0]">OUTRUN</span></div>
         <div class="flex items-center gap-4">
             <span class="w-2 h-2 rounded-full bg-[#bbf7d0] animate-pulse"></span>
-            <div class="text-[10px] uppercase tracking-widest opacity-40 font-bold" x-text="statusText"></div>
+            <div class="text-[10px] uppercase tracking-widest opacity-40 font-bold" x-text="status">SYNCING...</div>
         </div>
     </nav>
 
@@ -34,12 +34,6 @@
     </header>
 
     <main class="max-w-7xl mx-auto px-6 py-20">
-        <template x-if="error">
-            <div class="p-4 border border-red-500/20 bg-red-500/10 text-red-400 rounded-xl mb-8 text-sm">
-                ⚠️ Sync Error: <span x-text="error"></span>. Check if data.json exists in your repo.
-            </div>
-        </template>
-
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <template x-if="loading">
                 <div class="col-span-full py-20 text-center opacity-30 text-xs font-bold uppercase tracking-widest">Initialising Stream...</div>
@@ -62,41 +56,25 @@
     <script>
         function outrunApp() {
             return {
-                events: {}, 
-                loading: true, 
-                statusText: '2026 Global Sync Active',
-                error: null,
+                events: {},
+                loading: true,
+                status: '2026 GLOBAL SYNC ACTIVE',
                 async init() {
-                    console.log("🚀 Outrun System Start");
                     try {
-                        // Use absolute path to bypass any GitHub Pages subdirectory issues
-                        const url = window.location.origin + window.location.pathname + 'data.json?t=' + Date.now();
-                        console.log("📂 Fetching from:", url);
-
-                        const res = await fetch(url);
+                        // THE "FORCE FETCH" - Direct link to your GitHub Data
+                        const dataUrl = 'https://raw.githubusercontent.com/franzenx/outrun-calendar-data/main/data.json';
+                        const res = await fetch(dataUrl);
                         
-                        if (!res.ok) {
-                            throw new Error(`HTTP ${res.status}: Data file not found`);
-                        }
-
-                        const data = await res.json();
+                        if (!res.ok) throw new Error("HTTP Error");
                         
-                        // Check if the robot actually found events
-                        const totalEvents = Object.values(data).flat().length;
-                        if (totalEvents === 0) {
-                            throw new Error("Scraper returned 0 events. Check scraper.py");
-                        }
-
-                        this.events = data;
-                        this.statusText = `Live: ${totalEvents} Events Synced`;
-                        console.log("✅ Sync Successful", data);
-
-                    } catch (e) { 
-                        this.error = e.message;
-                        this.statusText = 'Sync Offline';
-                        console.error("❌ Sync Error:", e);
-                    } finally { 
-                        this.loading = false; 
+                        this.events = await res.json();
+                        this.status = 'DATA ONLINE';
+                        console.log("✅ Data Load Success");
+                    } catch (e) {
+                        console.error("❌ Sync Error", e);
+                        this.status = 'SYNC OFFLINE';
+                    } finally {
+                        this.loading = false;
                     }
                 },
                 register(eventId) {
