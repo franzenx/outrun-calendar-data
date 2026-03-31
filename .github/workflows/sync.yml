@@ -4,7 +4,6 @@ on:
     - cron: '0 0 * * 1'
   workflow_dispatch: 
 
-# FORCE PERMISSIONS FOR 2026 GITHUB STANDARDS
 permissions:
   contents: write
 
@@ -14,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Setup Python
+      - name: Setup Python 2026
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -27,10 +26,11 @@ jobs:
       - name: Run Global Scraper
         run: python scraper.py
         
-      - name: Deploy Live Data
+      - name: Commit and Push Results
         run: |
           git config --global user.name "Outrun Bot"
           git config --global user.email "bot@outrun.at"
           git add data.json
-          # Only commit if there are actually changes to avoid "Exit 1" errors
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')" && git push)
+          # The 'exit 0' ensures that if there's nothing to commit, the job still succeeds
+          git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')" || exit 0
+          git push
