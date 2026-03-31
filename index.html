@@ -12,7 +12,7 @@
         :root { --mint: #bbf7d0; --dark: #0a0a0a; }
         body { background-color: var(--dark); font-family: 'Space Grotesk', sans-serif; color: white; margin: 0; }
         .mint-glow { text-shadow: 0 0 20px rgba(187, 247, 208, 0.4); }
-        .bento-card { background: #111; border: 1px solid rgba(255,255,255,0.05); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
+        .bento-card { background: #111; border: 1px solid rgba(255,255,255,0.05); transition: all 0.4s ease; }
         .bento-card:hover { border-color: var(--mint); transform: translateY(-6px); box-shadow: 0 0 40px rgba(187, 247, 208, 0.1); }
     </style>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
@@ -24,7 +24,7 @@
         <div class="text-2xl font-bold italic tracking-tighter uppercase">O. <span class="text-[#bbf7d0]">OUTRUN</span></div>
         <div class="flex items-center gap-4">
             <span class="w-2 h-2 rounded-full bg-[#bbf7d0] animate-pulse"></span>
-            <div class="text-[10px] uppercase tracking-widest opacity-40 font-bold">2026 Global Sync Active</div>
+            <div class="text-[10px] uppercase tracking-widest opacity-40 font-bold" x-text="statusText"></div>
         </div>
     </nav>
 
@@ -34,8 +34,17 @@
     </header>
 
     <main class="max-w-7xl mx-auto px-6 py-20">
+        <template x-if="error">
+            <div class="p-4 border border-red-500/20 bg-red-500/10 text-red-400 rounded-xl mb-8 text-sm">
+                ⚠️ Sync Error: <span x-text="error"></span>. Check if data.json exists in your repo.
+            </div>
+        </template>
+
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <template x-if="loading"><div class="col-span-full py-20 text-center opacity-30 text-xs font-bold uppercase tracking-widest">Syncing 2026 Stream...</div></template>
+            <template x-if="loading">
+                <div class="col-span-full py-20 text-center opacity-30 text-xs font-bold uppercase tracking-widest">Initialising Stream...</div>
+            </template>
+
             <template x-for="(cityEvents, cityName) in events" :key="cityName">
                 <template x-for="ev in cityEvents" :key="ev.id">
                     <div class="bento-card p-8 rounded-2xl flex flex-col justify-between h-80">
@@ -53,17 +62,49 @@
     <script>
         function outrunApp() {
             return {
-                events: {}, loading: true,
+                events: {}, 
+                loading: true, 
+                statusText: '2026 Global Sync Active',
+                error: null,
                 async init() {
+                    console.log("🚀 Outrun System Start");
                     try {
-                        const res = await fetch('./data.json?t=' + Date.now());
-                        this.events = await res.json();
-                    } catch (e) { console.log("Data sync pending..."); }
-                    finally { this.loading = false; }
+                        // Use absolute path to bypass any GitHub Pages subdirectory issues
+                        const url = window.location.origin + window.location.pathname + 'data.json?t=' + Date.now();
+                        console.log("📂 Fetching from:", url);
+
+                        const res = await fetch(url);
+                        
+                        if (!res.ok) {
+                            throw new Error(`HTTP ${res.status}: Data file not found`);
+                        }
+
+                        const data = await res.json();
+                        
+                        // Check if the robot actually found events
+                        const totalEvents = Object.values(data).flat().length;
+                        if (totalEvents === 0) {
+                            throw new Error("Scraper returned 0 events. Check scraper.py");
+                        }
+
+                        this.events = data;
+                        this.statusText = `Live: ${totalEvents} Events Synced`;
+                        console.log("✅ Sync Successful", data);
+
+                    } catch (e) { 
+                        this.error = e.message;
+                        this.statusText = 'Sync Offline';
+                        console.error("❌ Sync Error:", e);
+                    } finally { 
+                        this.loading = false; 
+                    }
                 },
                 register(eventId) {
-                    if (window.LumaCheckout) { LumaCheckout.open({ eventId: eventId }); }
-                    else { window.open(`https://lu.ma/${eventId}`, '_blank'); }
+                    if (window.LumaCheckout) { 
+                        LumaCheckout.open({ eventId: eventId }); 
+                    } else { 
+                        window.open(`https://lu.ma/${eventId}`, '_blank'); 
+                    }
                 }
             }
         }
