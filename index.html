@@ -6,75 +6,436 @@
     <title>Outrun 2026 | The Mint Calendar</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;700&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
+ 
     <style>
-        :root { --mint: #bbf7d0; --dark: #0a0a0a; }
-        body { background-color: var(--dark); font-family: 'Space Grotesk', sans-serif; color: white; margin: 0; }
-        .mint-glow { text-shadow: 0 0 20px rgba(187, 247, 208, 0.4); }
-        .bento-card { background: #111; border: 1px solid rgba(255,255,255,0.05); transition: all 0.3s ease; }
-        .bento-card:hover { border-color: var(--mint); transform: translateY(-4px); box-shadow: 0 10px 40px rgba(187, 247, 208, 0.05); }
+        :root {
+            --mint:      #bbf7d0;
+            --mint-dim:  rgba(187,247,208,0.08);
+            --dark:      #080808;
+            --surface:   #111111;
+            --border:    rgba(255,255,255,0.06);
+        }
+ 
+        * { box-sizing: border-box; }
+ 
+        body {
+            background-color: var(--dark);
+            font-family: 'Space Grotesk', sans-serif;
+            color: white;
+            margin: 0;
+        }
+ 
+        /* ── Hub Card (Level 1) ─────────────────────── */
+        .hub-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 1.5rem;
+            cursor: pointer;
+            transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
+        }
+        .hub-card:hover {
+            border-color: rgba(187,247,208,0.35);
+            box-shadow: 0 0 40px rgba(187,247,208,0.04);
+            transform: translateY(-3px);
+        }
+        .hub-card.active {
+            border-color: var(--mint);
+            box-shadow: 0 0 60px rgba(187,247,208,0.06);
+        }
+ 
+        /* ── Event Row (Level 2) ────────────────────── */
+        .event-row {
+            border-top: 1px solid var(--border);
+            transition: background 0.15s ease;
+        }
+        .event-row:first-child { border-top: none; }
+        .event-row:hover { background: rgba(255,255,255,0.025); }
+ 
+        /* ── Mint pill / tag ────────────────────────── */
+        .pill {
+            font-size: 0.6rem;
+            font-weight: 700;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            padding: 2px 8px;
+            border-radius: 999px;
+            border: 1px solid rgba(187,247,208,0.3);
+            color: var(--mint);
+            white-space: nowrap;
+        }
+ 
+        /* ── Sign-up button ─────────────────────────── */
+        .btn-signup {
+            background: var(--mint);
+            color: #000;
+            font-weight: 700;
+            font-size: 0.65rem;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            padding: 8px 18px;
+            border-radius: 999px;
+            border: none;
+            cursor: pointer;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            white-space: nowrap;
+        }
+        .btn-signup:hover {
+            transform: scale(1.04);
+            box-shadow: 0 4px 20px rgba(187,247,208,0.25);
+        }
+ 
+        /* ── Glow text ──────────────────────────────── */
+        .mint-glow { text-shadow: 0 0 30px rgba(187,247,208,0.5); }
+ 
+        /* ── Skeleton loader ────────────────────────── */
+        .skeleton {
+            background: linear-gradient(90deg, #1a1a1a 25%, #222 50%, #1a1a1a 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite;
+            border-radius: 0.5rem;
+        }
+        @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+ 
+        /* ── Event cover image ──────────────────────── */
+        .event-cover {
+            width: 44px;
+            height: 44px;
+            border-radius: 0.5rem;
+            object-fit: cover;
+            background: #1e1e1e;
+            flex-shrink: 0;
+        }
+ 
+        /* ── Expand/collapse chevron ────────────────── */
+        .chevron { transition: transform 0.25s ease; }
+        .chevron.open { transform: rotate(180deg); }
+ 
+        /* ── Scrollbar style ────────────────────────── */
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
     </style>
+ 
+    <!-- Alpine.js — defer so DOM is ready -->
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
+ 
 <body x-data="outrunApp()" x-init="init()">
-    
+ 
+    <!-- Luma Checkout widget (loaded async — falls back to window.open) -->
     <script src="https://lu.ma/checkout.js" id="luma-checkout" async></script>
-
-    <nav class="p-8 flex justify-between items-center max-w-7xl mx-auto">
-        <div class="text-2xl font-bold tracking-tighter uppercase italic">Outrun <span class="text-[#bbf7d0]">/ 2026</span></div>
-        <div class="text-[10px] font-bold opacity-30 tracking-widest uppercase">Verified Tier 1 Feed</div>
+ 
+    <!-- ── Navigation ───────────────────────────────────────────────────── -->
+    <nav class="px-6 md:px-10 py-7 flex justify-between items-center max-w-7xl mx-auto">
+        <div class="text-xl font-bold tracking-tighter uppercase italic">
+            Outrun <span class="text-[#bbf7d0]">/ 2026</span>
+        </div>
+        <div class="flex items-center gap-4">
+            <span class="text-[10px] font-bold opacity-20 tracking-widest uppercase hidden md:block">
+                Verified Tier 1 Feed
+            </span>
+            <!-- Last-updated badge -->
+            <span x-show="lastUpdated" class="pill opacity-60" x-text="lastUpdated"></span>
+        </div>
     </nav>
-
-    <header class="max-w-7xl mx-auto px-8 py-16">
-        <h1 class="text-6xl md:text-8xl font-bold tracking-tighter leading-none mb-4">
-            98% <span class="text-[#bbf7d0] mint-glow">COVERAGE</span>
+ 
+    <!-- ── Hero ─────────────────────────────────────────────────────────── -->
+    <header class="max-w-7xl mx-auto px-6 md:px-10 pt-10 pb-16">
+        <h1 class="text-5xl md:text-8xl font-bold tracking-tighter leading-none mb-4">
+            98%&nbsp;<span class="text-[#bbf7d0] mint-glow">COVERAGE</span>
         </h1>
-        <p class="text-lg opacity-40 max-w-lg">Scraping the depth of every Luma hub for your direct access.</p>
-    </header>
-
-    <main class="max-w-7xl mx-auto px-8 pb-32">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <template x-if="loading">
-                <div class="col-span-full py-20 text-center opacity-20 text-xs font-bold uppercase tracking-widest">Parsing Hub Data...</div>
-            </template>
-
-            <template x-for="(cityEvents, cityName) in events" :key="cityName">
-                <template x-for="ev in cityEvents" :key="ev.id">
-                    <div class="bento-card p-8 rounded-3xl flex flex-col justify-between h-80">
-                        <div>
-                            <div class="flex justify-between items-start mb-6">
-                                <span class="text-[10px] font-bold uppercase text-[#bbf7d0] border border-[#bbf7d0]/30 px-2 py-0.5 rounded" x-text="cityName"></span>
-                                <div class="w-1.5 h-1.5 rounded-full bg-[#bbf7d0] shadow-[0_0_10px_#bbf7d0]"></div>
-                            </div>
-                            <h3 class="text-xl font-bold leading-tight" x-text="ev.name"></h3>
-                        </div>
-                        <button @click="register(ev.id)" class="w-full bg-[#bbf7d0] text-black font-bold py-4 rounded-2xl hover:scale-[1.02] transition-transform text-xs uppercase tracking-widest">
-                            Sign Up Directly
-                        </button>
-                    </div>
-                </template>
+        <p class="text-base opacity-35 max-w-md mt-3">
+            Tier 1 event feed — scraped from every Luma hub. Select a conference to see all side events and sign up directly.
+        </p>
+ 
+        <!-- City filter pills -->
+        <div class="flex flex-wrap gap-2 mt-8" x-show="!loading">
+            <button
+                @click="activeCity = null"
+                :class="activeCity === null ? 'bg-[#bbf7d0] text-black border-transparent' : 'border-white/10 text-white/50 hover:border-white/20'"
+                class="pill border px-4 py-1.5 rounded-full cursor-pointer transition-colors text-xs">
+                All Cities
+            </button>
+            <template x-for="city in cities" :key="city">
+                <button
+                    @click="activeCity = activeCity === city ? null : city"
+                    :class="activeCity === city ? 'bg-[#bbf7d0] text-black border-transparent' : 'border-white/10 text-white/50 hover:border-white/20'"
+                    class="pill border px-4 py-1.5 rounded-full cursor-pointer transition-colors text-xs capitalize"
+                    x-text="city">
+                </button>
             </template>
         </div>
+    </header>
+ 
+    <!-- ── Main Grid ─────────────────────────────────────────────────────── -->
+    <main class="max-w-7xl mx-auto px-6 md:px-10 pb-32">
+ 
+        <!-- Loading skeletons -->
+        <template x-if="loading">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+                <template x-for="n in 6" :key="n">
+                    <div class="hub-card p-7 h-40">
+                        <div class="skeleton h-3 w-16 mb-5"></div>
+                        <div class="skeleton h-5 w-2/3 mb-3"></div>
+                        <div class="skeleton h-3 w-1/3"></div>
+                    </div>
+                </template>
+            </div>
+        </template>
+ 
+        <!-- Error state -->
+        <template x-if="!loading && error">
+            <div class="text-center py-24 opacity-40">
+                <p class="text-sm font-bold uppercase tracking-widest mb-2">Failed to load event data</p>
+                <p class="text-xs opacity-60" x-text="error"></p>
+                <button @click="init()" class="mt-6 btn-signup">Retry</button>
+            </div>
+        </template>
+ 
+        <!-- Empty state -->
+        <template x-if="!loading && !error && filteredHubs.length === 0">
+            <div class="text-center py-24 opacity-30">
+                <p class="text-sm font-bold uppercase tracking-widest">No hubs found for this city</p>
+            </div>
+        </template>
+ 
+        <!-- ── Level 1: Hub Cards ──────────────────────────────────────── -->
+        <template x-if="!loading && !error">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+ 
+                <template x-for="hub in filteredHubs" :key="hub.id + hub.city">
+ 
+                    <div
+                        class="hub-card overflow-hidden"
+                        :class="{ 'active': openHub === hub.id }"
+                    >
+                        <!-- Hub header (click to toggle Level 2) -->
+                        <div
+                            class="p-7 flex justify-between items-start gap-4"
+                            @click="toggleHub(hub.id)"
+                        >
+                            <div class="flex-1 min-w-0">
+                                <div class="flex items-center gap-2 mb-3 flex-wrap">
+                                    <span class="pill" x-text="hub.city"></span>
+                                    <span
+                                        class="pill opacity-60"
+                                        x-text="hub.events.length + ' events'"
+                                        x-show="hub.events.length > 0">
+                                    </span>
+                                    <span
+                                        class="pill opacity-30"
+                                        x-show="hub.events.length === 0">
+                                        No events scraped yet
+                                    </span>
+                                </div>
+                                <h3 class="text-lg font-bold leading-snug truncate" x-text="hub.name"></h3>
+                                <a
+                                    :href="hub.url"
+                                    target="_blank"
+                                    class="text-[11px] opacity-25 hover:opacity-50 transition-opacity mt-1 inline-block"
+                                    x-text="hub.url"
+                                    @click.stop>
+                                </a>
+                            </div>
+ 
+                            <!-- Expand chevron -->
+                            <div
+                                x-show="hub.events.length > 0"
+                                class="flex-shrink-0 mt-1"
+                            >
+                                <svg
+                                    class="chevron w-4 h-4 opacity-40"
+                                    :class="{ open: openHub === hub.id }"
+                                    fill="none" stroke="currentColor" stroke-width="2"
+                                    viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/>
+                                </svg>
+                            </div>
+                        </div>
+ 
+                        <!-- ── Level 2: Event List (collapsed by default) ── -->
+                        <div
+                            x-show="openHub === hub.id && hub.events.length > 0"
+                            x-transition:enter="transition ease-out duration-200"
+                            x-transition:enter-start="opacity-0 -translate-y-1"
+                            x-transition:enter-end="opacity-100 translate-y-0"
+                            class="border-t border-white/5"
+                        >
+                            <template x-for="ev in hub.events" :key="ev.api_id">
+                                <div class="event-row px-7 py-4 flex items-center gap-4">
+ 
+                                    <!-- Cover image or placeholder -->
+                                    <div class="flex-shrink-0">
+                                        <template x-if="ev.cover_url">
+                                            <img
+                                                :src="ev.cover_url"
+                                                :alt="ev.name"
+                                                class="event-cover"
+                                                loading="lazy"
+                                                onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+                                            >
+                                        </template>
+                                        <!-- Fallback placeholder -->
+                                        <div
+                                            class="event-cover flex items-center justify-center text-[10px] font-bold opacity-20"
+                                            :style="ev.cover_url ? 'display:none' : 'display:flex'"
+                                        >EVT</div>
+                                    </div>
+ 
+                                    <!-- Event details -->
+                                    <div class="flex-1 min-w-0">
+                                        <p class="text-sm font-medium leading-snug truncate" x-text="ev.name"></p>
+                                        <div class="flex items-center gap-3 mt-1 flex-wrap">
+                                            <span
+                                                x-show="ev.start_at"
+                                                class="text-[10px] opacity-35 font-mono"
+                                                x-text="formatDate(ev.start_at)">
+                                            </span>
+                                            <span
+                                                x-show="ev.location"
+                                                class="text-[10px] opacity-25 truncate max-w-[180px]"
+                                                x-text="ev.location">
+                                            </span>
+                                        </div>
+                                    </div>
+ 
+                                    <!-- Sign Up button -->
+                                    <button
+                                        class="btn-signup flex-shrink-0"
+                                        @click.stop="signUp(ev)">
+                                        Sign Up
+                                    </button>
+ 
+                                </div>
+                            </template>
+ 
+                            <!-- View on Luma footer -->
+                            <div class="px-7 py-3 border-t border-white/5 flex justify-end">
+                                <a
+                                    :href="hub.url"
+                                    target="_blank"
+                                    class="text-[10px] text-[#bbf7d0] opacity-40 hover:opacity-80 transition-opacity uppercase tracking-widest font-bold">
+                                    View all on Luma →
+                                </a>
+                            </div>
+                        </div>
+ 
+                    </div>
+ 
+                </template>
+            </div>
+        </template>
+ 
     </main>
-
+ 
+    <!-- ─────────────────────────────────────────────────────────────────── -->
     <script>
-        function outrunApp() {
-            return {
-                events: {},
-                loading: true,
-                async init() {
-                    try {
-                        const res = await fetch('https://franzenx.github.io/outrun-calendar-data/data.json?t=' + Date.now());
-                        this.events = await res.json();
-                    } catch (e) { console.error(e); } finally { this.loading = false; }
-                },
-                register(id) {
-                    if (window.LumaCheckout) { LumaCheckout.open({ eventId: id }); }
-                    else { window.open(`https://lu.ma/${id}`, '_blank'); }
+    function outrunApp() {
+        return {
+            // ── State ──────────────────────────────────────────────────
+            rawData:     {},          // Parsed data.json
+            loading:     true,
+            error:       null,
+            openHub:     null,        // ID of the currently expanded hub
+            activeCity:  null,        // City filter (null = show all)
+            lastUpdated: '',
+ 
+            // ── Computed ───────────────────────────────────────────────
+ 
+            /** Flat list of all hubs with their city injected */
+            get allHubs() {
+                const list = [];
+                // data.json shape: { hubs: { city: [ hubObj, ... ] } }
+                const hubs = this.rawData.hubs || this.rawData;
+                for (const [city, cityHubs] of Object.entries(hubs)) {
+                    for (const hub of (cityHubs || [])) {
+                        list.push({ ...hub, city });
+                    }
                 }
-            }
-        }
+                return list;
+            },
+ 
+            /** Hub list filtered by selected city */
+            get filteredHubs() {
+                if (!this.activeCity) return this.allHubs;
+                return this.allHubs.filter(h => h.city === this.activeCity);
+            },
+ 
+            /** Unique city names for the filter pills */
+            get cities() {
+                return [...new Set(this.allHubs.map(h => h.city))].sort();
+            },
+ 
+            // ── Methods ────────────────────────────────────────────────
+ 
+            async init() {
+                this.loading = true;
+                this.error   = null;
+                try {
+                    // Cache-busted fetch — replace URL with your GitHub Pages URL
+                    const url = 'https://franzenx.github.io/outrun-calendar-data/data.json?t=' + Date.now();
+                    const res = await fetch(url);
+                    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                    this.rawData = await res.json();
+ 
+                    // Show formatted last-updated timestamp if present
+                    if (this.rawData.last_updated) {
+                        const d = new Date(this.rawData.last_updated);
+                        this.lastUpdated = 'Updated ' + d.toLocaleDateString('en-GB', {
+                            day: 'numeric', month: 'short', year: 'numeric'
+                        });
+                    }
+                } catch (err) {
+                    console.error('[Outrun] Failed to fetch event data:', err);
+                    this.error = err.message;
+                } finally {
+                    this.loading = false;
+                }
+            },
+ 
+            /** Toggle Level 2 event list for a hub */
+            toggleHub(hubId) {
+                this.openHub = this.openHub === hubId ? null : hubId;
+            },
+ 
+            /**
+             * Sign up for an individual event.
+             * Uses the official Luma Checkout widget when available,
+             * which requires the internal evt-XXXX api_id.
+             * Falls back to opening lu.ma in a new tab.
+             */
+            signUp(ev) {
+                if (window.LumaCheckout && ev.api_id && ev.api_id.startsWith('evt-')) {
+                    window.LumaCheckout.open({ eventId: ev.api_id });
+                } else {
+                    window.open(ev.url, '_blank', 'noopener,noreferrer');
+                }
+            },
+ 
+            /**
+             * Format an ISO 8601 date string to a readable short form.
+             * e.g. "2026-04-30T10:00:00Z" → "30 Apr 2026 · 10:00"
+             */
+            formatDate(iso) {
+                if (!iso) return '';
+                try {
+                    const d = new Date(iso);
+                    const date = d.toLocaleDateString('en-GB', {
+                        day: 'numeric', month: 'short', year: 'numeric'
+                    });
+                    const time = d.toLocaleTimeString('en-GB', {
+                        hour: '2-digit', minute: '2-digit', timeZone: 'UTC'
+                    });
+                    return `${date} · ${time} UTC`;
+                } catch {
+                    return iso;
+                }
+            },
+        };
+    }
     </script>
+ 
 </body>
 </html>
