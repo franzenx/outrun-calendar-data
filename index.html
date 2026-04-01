@@ -1,38 +1,80 @@
-name: Weekly Event Sync
-on:
-  schedule:
-    - cron: '0 0 * * 1'
-  workflow_dispatch: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outrun 2026 | The Mint Calendar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root { --mint: #bbf7d0; --dark: #0a0a0a; }
+        body { background-color: var(--dark); font-family: 'Space Grotesk', sans-serif; color: white; margin: 0; }
+        .mint-glow { text-shadow: 0 0 20px rgba(187, 247, 208, 0.4); }
+        .bento-card { background: #111; border: 1px solid rgba(255,255,255,0.05); transition: all 0.3s ease; }
+        .bento-card:hover { border-color: var(--mint); transform: translateY(-4px); box-shadow: 0 10px 40px rgba(187, 247, 208, 0.05); }
+    </style>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body x-data="outrunApp()" x-init="init()">
+    
+    <script src="https://lu.ma/checkout.js" id="luma-checkout" async></script>
 
-permissions:
-  contents: write 
+    <nav class="p-8 flex justify-between items-center max-w-7xl mx-auto">
+        <div class="text-2xl font-bold tracking-tighter uppercase italic">Outrun <span class="text-[#bbf7d0]">/ 2026</span></div>
+        <div class="text-[10px] font-bold opacity-30 tracking-widest uppercase">Verified Tier 1 Feed</div>
+    </nav>
 
-jobs:
-  scrape:
-    runs-runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
-        with:
-          fetch-depth: 0 
-      
-      - name: Setup Python 2026
-        uses: actions/setup-python@v6
-        with:
-          python-version: '3.12'
-          
-      - name: Install Scraping Engine
-        run: |
-          pip install playwright
-          playwright install chromium
-          
-      - name: Run Bi-Weekly Scraper
-        run: python scraper.py
-        
-      - name: Deploy Live Data
-        run: |
-          git config user.name "Outrun Bot"
-          git config user.email "bot@outrun.at"
-          git pull origin main --rebase
-          git add data.json
-          git commit -m "Deep Scrape Refresh: $(date +'%Y-%m-%d')" || echo "No changes"
-          git push origin main
+    <header class="max-w-7xl mx-auto px-8 py-16">
+        <h1 class="text-6xl md:text-8xl font-bold tracking-tighter leading-none mb-4">
+            98% <span class="text-[#bbf7d0] mint-glow">COVERAGE</span>
+        </h1>
+        <p class="text-lg opacity-40 max-w-lg">Scraping the depth of every Luma hub for your direct access.</p>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-8 pb-32">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <template x-if="loading">
+                <div class="col-span-full py-20 text-center opacity-20 text-xs font-bold uppercase tracking-widest">Parsing Hub Data...</div>
+            </template>
+
+            <template x-for="(cityEvents, cityName) in events" :key="cityName">
+                <template x-for="ev in cityEvents" :key="ev.id">
+                    <div class="bento-card p-8 rounded-3xl flex flex-col justify-between h-80">
+                        <div>
+                            <div class="flex justify-between items-start mb-6">
+                                <span class="text-[10px] font-bold uppercase text-[#bbf7d0] border border-[#bbf7d0]/30 px-2 py-0.5 rounded" x-text="cityName"></span>
+                                <div class="w-1.5 h-1.5 rounded-full bg-[#bbf7d0] shadow-[0_0_10px_#bbf7d0]"></div>
+                            </div>
+                            <h3 class="text-xl font-bold leading-tight" x-text="ev.name"></h3>
+                        </div>
+                        <button @click="register(ev.id)" class="w-full bg-[#bbf7d0] text-black font-bold py-4 rounded-2xl hover:scale-[1.02] transition-transform text-xs uppercase tracking-widest">
+                            Sign Up Directly
+                        </button>
+                    </div>
+                </template>
+            </template>
+        </div>
+    </main>
+
+    <script>
+        function outrunApp() {
+            return {
+                events: {},
+                loading: true,
+                async init() {
+                    try {
+                        const res = await fetch('https://franzenx.github.io/outrun-calendar-data/data.json?t=' + Date.now());
+                        this.events = await res.json();
+                    } catch (e) { console.error(e); } finally { this.loading = false; }
+                },
+                register(id) {
+                    if (window.LumaCheckout) { LumaCheckout.open({ eventId: id }); }
+                    else { window.open(`https://lu.ma/${id}`, '_blank'); }
+                }
+            }
+        }
+    </script>
+</body>
+</html>
