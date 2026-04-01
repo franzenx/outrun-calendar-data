@@ -3,50 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outrun 2026 | Global Web3 Event Stack</title>
+    <title>Outrun 2026 | Web3 Event Stack</title>
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500;700&display=swap" rel="stylesheet">
+
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         :root { --mint: #bbf7d0; --dark: #0a0a0a; }
-        body { background-color: var(--dark); font-family: 'Space Grotesk', sans-serif; color: white; margin: 0; }
+        body { background-color: var(--dark); font-family: 'Space Grotesk', sans-serif; color: white; }
         .mint-glow { text-shadow: 0 0 20px rgba(187, 247, 208, 0.4); }
-        .bento-card { background: #111; border: 1px solid rgba(255,255,255,0.05); transition: all 0.4s ease; }
-        .bento-card:hover { border-color: var(--mint); transform: translateY(-6px); box-shadow: 0 0 40px rgba(187, 247, 208, 0.1); }
+        .bento-card { 
+            background: #111; 
+            border: 1px solid rgba(255,255,255,0.05); 
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); 
+        }
+        .bento-card:hover { 
+            border-color: var(--mint); 
+            box-shadow: 0 0 30px rgba(187, 247, 208, 0.1);
+            transform: translateY(-4px);
+        }
     </style>
+
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body x-data="outrunApp()" x-init="init()">
+
     <script src="https://lu.ma/checkout.js" id="luma-checkout" async></script>
-    
-    <nav class="p-6 flex justify-between items-center max-w-7xl mx-auto border-b border-white/5">
-        <div class="text-2xl font-bold italic tracking-tighter uppercase">O. <span class="text-[#bbf7d0]">OUTRUN</span></div>
-        <div class="flex items-center gap-4">
-            <span class="w-2 h-2 rounded-full bg-[#bbf7d0] animate-pulse"></span>
-            <div class="text-[10px] uppercase tracking-widest opacity-40 font-bold" x-text="status">SYNCING...</div>
-        </div>
+
+    <nav class="p-6 flex justify-between items-center max-w-7xl mx-auto">
+        <div class="text-2xl font-bold italic tracking-tighter">O. <span class="text-[#bbf7d0]">OUTRUN</span></div>
+        <div class="text-[10px] uppercase tracking-widest opacity-40 font-bold">2026 Global Sync Active</div>
     </nav>
 
-    <header class="max-w-7xl mx-auto px-6 py-20">
-        <h1 class="text-7xl md:text-9xl font-bold tracking-tighter leading-[0.8] mb-8 uppercase">THE MINT <br> <span class="text-[#bbf7d0] mint-glow">CALENDAR</span></h1>
-        <p class="text-xl opacity-50 max-w-xl">98% coverage of global Web3 hubs. Automated intelligence for the 2026 event cycle.</p>
+    <header class="max-w-7xl mx-auto px-6 py-20 border-b border-white/5">
+        <h1 class="text-7xl md:text-9xl font-bold tracking-tighter leading-none mb-6">
+            THE MINT <br> <span class="text-[#bbf7d0] mint-glow">CALENDAR</span>
+        </h1>
+        <p class="text-xl opacity-50 max-w-xl">Curating the 98% of side-events that actually matter. Powered by weekly automated intelligence.</p>
     </header>
 
     <main class="max-w-7xl mx-auto px-6 py-20">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            
             <template x-if="loading">
-                <div class="col-span-full py-20 text-center opacity-30 text-xs font-bold uppercase tracking-widest">Initialising Stream...</div>
+                <div class="col-span-full py-20 text-center opacity-30 text-xs font-bold tracking-widest uppercase">Fetching 2026 Event Stream...</div>
             </template>
 
             <template x-for="(cityEvents, cityName) in events" :key="cityName">
                 <template x-for="ev in cityEvents" :key="ev.id">
                     <div class="bento-card p-8 rounded-2xl flex flex-col justify-between h-80">
                         <div>
-                            <span class="text-[10px] font-bold uppercase tracking-widest text-[#bbf7d0]/60 border border-[#bbf7d0]/20 px-2 py-1 rounded mb-6 inline-block" x-text="cityName"></span>
+                            <div class="flex justify-between items-start mb-8">
+                                <span class="text-[10px] font-bold uppercase tracking-widest text-[#bbf7d0]/60 border border-[#bbf7d0]/20 px-2 py-1 rounded" x-text="cityName"></span>
+                                <div class="w-2 h-2 rounded-full bg-[#bbf7d0] animate-pulse"></div>
+                            </div>
                             <h3 class="text-2xl font-bold leading-tight" x-text="ev.name"></h3>
                         </div>
-                        <button @click="register(ev.id)" class="w-full bg-[#bbf7d0] text-black font-bold py-4 rounded-xl hover:brightness-110 transition-all text-sm uppercase">Sign Up Directly</button>
+
+                        <button 
+                            @click="register(ev.id)"
+                            class="w-full bg-[#bbf7d0] text-black font-bold py-4 rounded-xl hover:brightness-110 transition-all text-sm uppercase tracking-tight">
+                            Sign Up Directly
+                        </button>
                     </div>
                 </template>
             </template>
@@ -58,30 +78,23 @@
             return {
                 events: {},
                 loading: true,
-                status: '2026 GLOBAL SYNC ACTIVE',
                 async init() {
                     try {
-                        // THE "FORCE FETCH" - Direct link to your GitHub Data
-                        const dataUrl = 'https://raw.githubusercontent.com/franzenx/outrun-calendar-data/main/data.json';
-                        const res = await fetch(dataUrl);
-                        
-                        if (!res.ok) throw new Error("HTTP Error");
-                        
+                        // FETCHING FROM YOUR REPO
+                        const res = await fetch('https://franzenx.github.io/outrun-calendar-data/data.json');
                         this.events = await res.json();
-                        this.status = 'DATA ONLINE';
-                        console.log("✅ Data Load Success");
-                    } catch (e) {
-                        console.error("❌ Sync Error", e);
-                        this.status = 'SYNC OFFLINE';
+                    } catch (err) {
+                        console.error("Sync Error:", err);
                     } finally {
                         this.loading = false;
                     }
                 },
                 register(eventId) {
-                    if (window.LumaCheckout) { 
-                        LumaCheckout.open({ eventId: eventId }); 
-                    } else { 
-                        window.open(`https://lu.ma/${eventId}`, '_blank'); 
+                    // LUMA OVERLAY TRIGGER
+                    if (window.LumaCheckout) {
+                        LumaCheckout.open({ eventId: eventId });
+                    } else {
+                        window.open(`https://lu.ma/${eventId}`, '_blank');
                     }
                 }
             }
