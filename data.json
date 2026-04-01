@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T15:59:30Z",
+  "last_updated": "2026-04-01T20:07:59Z",
   "hubs": {
     "dubai": [
       {
@@ -157,6 +157,15 @@
             "url": "https://lu.ma/3pkpjkr5",
             "cover_url": "https://images.lumacdn.com/event-covers/sn/e04100d6-04e0-411d-9c71-14429c3226cf.png",
             "location": "London, England"
+          },
+          {
+            "api_id": "evt-U37HANLBTCtK9PE",
+            "name": "TechGames Poker Tournament #6",
+            "start_at": "2026-04-30T17:00:00.000Z",
+            "end_at": "2026-04-30T21:30:00.000Z",
+            "url": "https://lu.ma/14pplf3l",
+            "cover_url": "https://images.lumacdn.com/event-covers/tm/86c02e45-1137-40aa-b1cb-a0993269ecb4.png",
+            "location": "London, England"
           }
         ]
       },
@@ -165,15 +174,6 @@
         "id": "granola",
         "url": "https://lu.ma/granola",
         "events": [
-          {
-            "api_id": "evt-z1m3zyGiXw3LnWo",
-            "name": "Design Engineering Night #7",
-            "start_at": "2026-04-01T17:00:00.000Z",
-            "end_at": "2026-04-01T19:30:00.000Z",
-            "url": "https://lu.ma/cnt5pyhu",
-            "cover_url": "https://images.lumacdn.com/event-covers/m7/dbd27ea1-15bd-4cfd-a76d-14c829a8e5d1.png",
-            "location": "London, England"
-          },
           {
             "api_id": "evt-BrnX6eqCI0rBuHA",
             "name": "Weekly football 5-aside by Granola!",
@@ -274,24 +274,6 @@
         "url": "https://lu.ma/climate.house",
         "events": [
           {
-            "api_id": "evt-9WDdRYscTgjgXK8",
-            "name": "Meet My Label : Cradle to Cradle Certified®️- données, certification et crédibilité à l’ère de l’IA",
-            "start_at": "2026-04-01T14:00:00.000Z",
-            "end_at": "2026-04-01T16:00:00.000Z",
-            "url": "https://lu.ma/bsutek9u",
-            "cover_url": "https://images.lumacdn.com/event-covers/lu/0c890d95-8cbb-49ac-b7e5-d9466ec19ba4.jpg",
-            "location": "Climate House Paris Sentier, 39 Rue du Caire, 75002 Paris, France"
-          },
-          {
-            "api_id": "evt-ChWZGhD6OYaXlvn",
-            "name": "Meet My Score 3 : de la notation à la transformation",
-            "start_at": "2026-04-01T17:00:00.000Z",
-            "end_at": "2026-04-01T19:00:00.000Z",
-            "url": "https://lu.ma/u5oletmv",
-            "cover_url": "https://images.lumacdn.com/event-covers/yf/6c1b01e4-c975-48bf-9fcb-e14a12f3955e.jpg",
-            "location": "Climate House Paris Sentier, 39 Rue du Caire, 75002 Paris, France"
-          },
-          {
             "api_id": "evt-MC860bwCQu9X62z",
             "name": "Presencing Series 2026 x U-School (en ligne)",
             "start_at": "2026-04-02T14:00:00.000Z",
@@ -389,6 +371,15 @@
             "url": "https://lu.ma/hz4mmlwx",
             "cover_url": "https://images.lumacdn.com/event-covers/aw/2c47a6df-8389-4d32-95b6-5520487e4136.png",
             "location": "Climate House Paris Dussoubs, 46 Rue Dussoubs, 75002 Paris, France"
+          },
+          {
+            "api_id": "evt-tHhLKWZzDwdeyPR",
+            "name": "Pour un futur régénératif du secteur agri/agro - RDV #2",
+            "start_at": "2026-04-15T15:00:00.000Z",
+            "end_at": "2026-04-15T19:00:00.000Z",
+            "url": "https://lu.ma/pn5zao8j",
+            "cover_url": "https://images.lumacdn.com/event-covers/el/e5bbe26d-060e-4650-bcd6-3cd02b4e69a4.png",
+            "location": "Climate House Paris Sentier, 39 Rue du Caire, 75002 Paris, France"
           }
         ]
       },
@@ -521,15 +512,6 @@
         "id": "hello_miami",
         "url": "https://lu.ma/hello_miami",
         "events": [
-          {
-            "api_id": "evt-1VQKcJA7EaqbzBH",
-            "name": "[CTO] office hours v0.1",
-            "start_at": "2026-04-01T18:00:00.000Z",
-            "end_at": "2026-04-01T20:00:00.000Z",
-            "url": "https://lu.ma/dc4fbqb9",
-            "cover_url": "https://images.lumacdn.com/event-covers/mu/57ebd862-9a5f-460b-8512-2d4fb1970db8.jpg",
-            "location": "The DOCK, 400 NW 26th St, Miami, FL 33127, USA"
-          },
           {
             "api_id": "evt-pMe1k3xgtoLRIS2",
             "name": "hack night v0.126 - South Beach",
