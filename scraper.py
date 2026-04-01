@@ -1,52 +1,282 @@
-name: Scrape Luma Events
+"""
+Outrun – Luma Event Scraper
+============================
+Strategy (in order of preference):
+  1. Luma public API  →  GET api.lu.ma/calendar/get-profile  +  get-items
+  2. __NEXT_DATA__ HTML parse  →  extract hydration JSON from page source
+  3. Skip hub with a clear error log (never crash the whole run)
 
-on:
-  # Run every 6 hours automatically
-  schedule:
-    - cron: '0 */6 * * *'
+No Playwright / no browser required.
 
-  # Allow manual trigger from GitHub UI (Actions tab → Run workflow)
-  workflow_dispatch:
+Setup:
+    pip install requests
+Run:
+    python scraper.py
+"""
 
-jobs:
-  scrape:
-    name: Scrape & Publish
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
+import json
+import re
+import sys
+import time
+from datetime import datetime, timezone
 
-    permissions:
-      contents: write   # Needed to push data.json back to the repo
+import requests
 
-    steps:
-      # ── 1. Checkout repo ─────────────────────────────────────────────
-      - name: Checkout repository
-        uses: actions/checkout@v4
+# ── Request headers that mimic a real browser ─────────────────────────────────
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://lu.ma/",
+    "Origin": "https://lu.ma",
+}
 
-      # ── 2. Set up Python ─────────────────────────────────────────────
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-          cache-dependency-path: requirements.txt
+# ── Hub configuration ──────────────────────────────────────────────────────────
+HUBS = {
+    "dubai": [
+        {"name": "TOKEN2049 Dubai",  "slug": "token2049-dubai"},
+    ],
+    "singapore": [
+        {"name": "BLOCK71 Singapore", "slug": "b71singapore"},
+    ],
+    "london": [
+        {"name": "Future: UK",  "slug": "ldn"},
+        {"name": "TechGames",   "slug": "techgames"},
+        {"name": "Granola",     "slug": "granola"},
+    ],
+    "paris": [
+        {"name": "Climate House", "slug": "climate.house"},
+        {"name": "ArtVerse",      "slug": "artverseparis"},
+    ],
+    "tokyo": [
+        {"name": "Startup Calendar", "slug": "startup-calendar"},
+        {"name": "Superteam Japan",  "slug": "superteamJapan"},
+    ],
+    "miami": [
+        {"name": "Hello Miami",            "slug": "hello_miami"},
+        {"name": "Les Femmes Social Club", "slug": "socialclublf"},
+        {"name": "Miami AI Hub",           "slug": "miamiaihub"},
+    ],
+    "lisbon": [
+        {"name": "OneThousandClub Lisbon", "slug": "onethousandclub_lisbon"},
+    ],
+    "berlin":      [],
+    "rio":         [],
+    "mexico-city": [],
+    "sao-paulo":   [],
+    "copenhagen":  [],
+    "warsaw":      [],
+}
 
-      # ── 3. Install dependencies ───────────────────────────────────────
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt
+PAGINATION_LIMIT = 50
+REQUEST_TIMEOUT  = 20   # seconds
+SLEEP_BETWEEN    = 1.5  # seconds between hub requests (be polite)
 
-      - name: Install Playwright Chromium browser
-        run: playwright install --with-deps chromium
 
-      # ── 4. Run scraper ────────────────────────────────────────────────
-      - name: Run Luma scraper
-        run: python scraper.py
+# ── Helper: normalise a raw event dict ────────────────────────────────────────
 
-      # ── 5. Commit updated data.json ───────────────────────────────────
-      - name: Commit and push data.json
-        run: |
-          git config --global user.name  "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          # Only commit if data.json actually changed
-          git diff --staged --quiet && echo "No changes to data.json — skipping commit." || \
-            git commit -m "chore: refresh event data [skip ci]" && git push
+def normalise_event(raw: dict) -> dict | None:
+    """
+    Convert a raw Luma event object (from any API shape) into our
+    canonical schema.  Returns None if the event has no valid api_id.
+    """
+    api_id = raw.get("api_id", "")
+    if not api_id or not api_id.startswith("evt-"):
+        return None
+
+    geo   = raw.get("geo_address_info") or {}
+    loc   = (
+        geo.get("full_address")
+        or geo.get("city_state")
+        or geo.get("description")
+        or ""
+    )
+    slug  = raw.get("url") or api_id
+    return {
+        "api_id":    api_id,
+        "name":      (raw.get("name") or "Untitled").strip(),
+        "start_at":  raw.get("start_at", ""),
+        "end_at":    raw.get("end_at", ""),
+        "url":       f"https://lu.ma/{slug}",
+        "cover_url": raw.get("cover_url") or "",
+        "location":  loc,
+    }
+
+
+def dedup(events: list[dict]) -> list[dict]:
+    seen, out = set(), []
+    for ev in events:
+        if ev["api_id"] not in seen:
+            seen.add(ev["api_id"])
+            out.append(ev)
+    return out
+
+
+# ── Approach 1: Luma public API ───────────────────────────────────────────────
+
+def api_get_calendar_id(slug: str) -> str | None:
+    """Resolve a calendar slug to its internal cal-xxx api_id."""
+    url = f"https://api.lu.ma/calendar/get-profile?url_name={slug}"
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        r.raise_for_status()
+        cal = r.json().get("calendar", {})
+        cal_id = cal.get("api_id", "")
+        if cal_id:
+            print(f"    [API] Resolved '{slug}' → {cal_id}")
+            return cal_id
+    except Exception as exc:
+        print(f"    [API] get-profile failed for '{slug}': {exc}")
+    return None
+
+
+def api_get_events(cal_id: str) -> list[dict]:
+    """Paginate through all events for a calendar api_id."""
+    events, cursor = [], None
+
+    while True:
+        params = {"calendar_api_id": cal_id, "pagination_limit": PAGINATION_LIMIT}
+        if cursor:
+            params["pagination_cursor"] = cursor
+
+        try:
+            r = requests.get(
+                "https://api.lu.ma/calendar/get-items",
+                params=params, headers=HEADERS, timeout=REQUEST_TIMEOUT,
+            )
+            r.raise_for_status()
+            data = r.json()
+        except Exception as exc:
+            print(f"    [API] get-items failed (cursor={cursor}): {exc}")
+            break
+
+        entries = data.get("entries", [])
+        for entry in entries:
+            raw   = entry.get("event") or entry
+            event = normalise_event(raw)
+            if event:
+                events.append(event)
+
+        cursor = data.get("next_cursor")
+        if not cursor or not entries:
+            break
+
+        time.sleep(0.5)
+
+    print(f"    [API] {len(events)} events fetched via direct API")
+    return events
+
+
+# ── Approach 2: __NEXT_DATA__ HTML parse ──────────────────────────────────────
+
+def _walk(obj, found: list, seen: set):
+    """Recursively walk a JSON object and collect all event-shaped dicts."""
+    if isinstance(obj, dict):
+        api_id = obj.get("api_id", "")
+        if api_id.startswith("evt-") and "name" in obj:
+            ev = normalise_event(obj)
+            if ev and ev["api_id"] not in seen:
+                seen.add(ev["api_id"])
+                found.append(ev)
+        for v in obj.values():
+            _walk(v, found, seen)
+    elif isinstance(obj, list):
+        for item in obj:
+            _walk(item, found, seen)
+
+
+def html_get_events(slug: str) -> list[dict]:
+    """
+    Fetch the Luma calendar page, extract the embedded __NEXT_DATA__ JSON blob,
+    and recursively harvest any event objects from it.
+    """
+    url = f"https://lu.ma/{slug}"
+    try:
+        r = requests.get(url, headers={**HEADERS, "Accept": "text/html"}, timeout=REQUEST_TIMEOUT)
+        r.raise_for_status()
+        html = r.text
+    except Exception as exc:
+        print(f"    [HTML] Page fetch failed for '{slug}': {exc}")
+        return []
+
+    # Extract __NEXT_DATA__ JSON blob
+    match = re.search(
+        r'<script[^>]+id=["\']__NEXT_DATA__["\'][^>]*>(.*?)</script>',
+        html, re.DOTALL
+    )
+    if not match:
+        print(f"    [HTML] __NEXT_DATA__ not found for '{slug}'")
+        return []
+
+    try:
+        next_data = json.loads(match.group(1))
+    except json.JSONDecodeError as exc:
+        print(f"    [HTML] JSON parse error for '{slug}': {exc}")
+        return []
+
+    found, seen = [], set()
+    _walk(next_data, found, seen)
+    print(f"    [HTML] {len(found)} events extracted from __NEXT_DATA__")
+    return found
+
+
+# ── Main scraper ───────────────────────────────────────────────────────────────
+
+def scrape_hub(hub_name: str, slug: str) -> list[dict]:
+    print(f"  → [{hub_name}] lu.ma/{slug}")
+
+    # ── Try API first ──────────────────────────────────────────────────────────
+    cal_id = api_get_calendar_id(slug)
+    if cal_id:
+        events = api_get_events(cal_id)
+        if events:
+            return dedup(events)
+        print(f"    [API] No events returned — falling back to HTML parse")
+
+    # ── Fallback: parse HTML ───────────────────────────────────────────────────
+    events = html_get_events(slug)
+    if events:
+        return dedup(events)
+
+    print(f"    ✗ No events found for '{slug}' via any method")
+    return []
+
+
+def main():
+    output = {}
+    total  = 0
+
+    for city, hubs in HUBS.items():
+        print(f"\n📍 {city.upper()}")
+        city_result = []
+
+        for hub in hubs:
+            events = scrape_hub(hub["name"], hub["slug"])
+            total += len(events)
+            city_result.append({
+                "name":   hub["name"],
+                "id":     hub["slug"],
+                "url":    f"https://lu.ma/{hub['slug']}",
+                "events": events,
+            })
+            time.sleep(SLEEP_BETWEEN)
+
+        output[city] = city_result
+
+    payload = {
+        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "hubs": output,
+    }
+
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+
+    print(f"\n✅  Done — {total} events written to data.json")
+
+
+if __name__ == "__main__":
+    main()
