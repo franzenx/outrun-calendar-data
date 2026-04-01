@@ -2,58 +2,65 @@ import asyncio
 import json
 from playwright.async_api import async_playwright
 
-async def scrape_luma_city(city_slug):
+async def scrape_luma_hub(city):
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            viewport={'width': 1920, 'height': 1080}
-        )
+        context = await browser.new_context(viewport={'width': 1280, 'height': 800})
         page = await context.new_page()
-        url = f"https://lu.ma/{city_slug}"
-        print(f"🚀 Syncing: {url}")
+        
+        url = f"https://lu.ma/{city}"
+        print(f"Syncing city hub: {url}")
         
         try:
             await page.goto(url, wait_until="networkidle", timeout=60000)
-            await page.wait_for_selector("a[href*='/']", timeout=15000)
             
-            # Slow scroll to trigger lazy loading
+            # Scroll to load dynamic events inside the Hub
             for _ in range(5):
-                await page.mouse.wheel(0, 1500)
+                await page.mouse.wheel(0, 2000)
                 await asyncio.sleep(1)
 
-            links = await page.query_selector_all("a")
-            scraped_data = []
-            for link in links:
-                href = await link.get_attribute("href")
-                if href and (href.startswith("/") or "lu.ma/" in href) and len(href) > 5:
-                    title_el = await link.query_selector("h3, .title, font")
-                    if title_el:
-                        name = await title_el.inner_text()
-                        event_id = href.split('/')[-1].split('?')[0]
-                        if not any(d['id'] == event_id for d in scraped_data):
-                            scraped_data.append({
-                                "name": name.strip(),
-                                "id": event_id,
-                                "url": f"https://lu.ma/{event_id}"
-                            })
+            # Target links that look like individual Luma events
+            links = await page.query_selector_all('a[href*="/"]')
+            
+            data = []
+            seen_ids = set()
 
-            print(f"✅ Found {len(scraped_data)} events in {city_slug}")
+            for link in links:
+                href = await link.get_attribute('href')
+                # Filter for actual event paths (avoiding social/policy links)
+                if href and not any(x in href for x in ['facebook', 'twitter', 'instagram', 'terms', 'privacy', 'create']):
+                    # Extract the ID/Slug (e.g., 'evt-xxxx' or 'event-name')
+                    event_id = href.split('/')[-1].split('?')[0]
+                    
+                    if event_id and event_id not in seen_ids and len(event_id) > 5:
+                        title_el = await link.query_selector('h3, .event-name, span')
+                        title = await title_el.inner_text() if title_el else event_id
+                        
+                        data.append({
+                            "name": title.strip(),
+                            "id": event_id, # This is the ID needed for the pop-up
+                            "url": f"https://lu.ma/{event_id}",
+                            "scraped_at": "2026-04-01"
+                        })
+                        seen_ids.add(event_id)
+            
             await browser.close()
-            return scraped_data
+            return data
         except Exception as e:
-            print(f"⚠️ Error in {city_slug}: {e}")
+            print(f"Error scraping {city}: {e}")
             await browser.close()
             return []
 
 async def main():
-    cities = ["dubai", "singapore", "london", "paris", "tokyo", "miami", "berlin", "rio", "mexico-city", "sao-paulo", "copenhagen", "lisbon", "warsaw"]
-    master_data = {}
-    for city in cities:
-        master_data[city] = await scrape_luma_city(city)
+    target_cities = ["dubai", "london", "paris", "lisbon", "singapore"]
+    results = {}
+    
+    for city in target_cities:
+        results[city] = await scrape_luma_hub(city)
+
     with open("data.json", "w") as f:
-        json.dump(master_data, f, indent=4)
-    print("🏁 Global Sync Finished.")
+        json.dump(results, f, indent=4)
+    print("USP Sync Successful.")
 
 if __name__ == "__main__":
     asyncio.run(main())
