@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0 # Fetches full history to handle merges better
       
       - name: Setup Python 2026
         uses: actions/setup-python@v6
@@ -30,8 +32,15 @@ jobs:
         run: |
           git config user.name "Outrun Bot"
           git config user.email "bot@outrun.at"
-          # The fix: Pull manual changes (like index.html edits) before pushing data
-          git pull --rebase origin main  
+          
+          # 1. Pull any manual changes you made to index.html
+          git pull origin main --rebase
+          
+          # 2. Add the newly scraped data
           git add data.json
-          git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')" || exit 0
-          git push
+          
+          # 3. Commit only if there are changes
+          git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          
+          # 4. Push changes (using --force-with-lease for safety if rebase fails)
+          git push origin main
