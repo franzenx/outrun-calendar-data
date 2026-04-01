@@ -5,18 +5,16 @@ on:
   workflow_dispatch: 
 
 permissions:
-  contents: write
+  contents: write 
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v6
       
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup Python 2026
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           
@@ -25,18 +23,15 @@ jobs:
           pip install playwright
           playwright install chromium
           
-      - name: Run Global Scraper
+      - name: Run Bi-Weekly Scraper
         run: python scraper.py
         
-      - name: Commit and Push Results
+      - name: Deploy Live Data
         run: |
-          git config --global user.name "Outrun Bot"
-          git config --global user.email "bot@outrun.at"
+          git config user.name "Outrun Bot"
+          git config user.email "bot@outrun.at"
+          # The fix: Pull manual changes (like index.html edits) before pushing data
+          git pull --rebase origin main  
           git add data.json
-          # Commit only if changes exist, then push using the built-in token
-          if ! git diff --cached --exit-code; then
-            git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')"
-            git push origin main
-          else
-            echo "No new events found. Skipping push."
-          fi
+          git commit -m "Automated Global Refresh: $(date +'%Y-%m-%d')" || exit 0
+          git push
