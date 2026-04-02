@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T15:38:40Z",
+  "last_updated": "2026-04-02T20:01:31Z",
   "hubs": {
     "dubai": [
       {
@@ -166,6 +166,15 @@
             "url": "https://lu.ma/14pplf3l",
             "cover_url": "https://images.lumacdn.com/event-covers/tm/86c02e45-1137-40aa-b1cb-a0993269ecb4.png",
             "location": "London, England"
+          },
+          {
+            "api_id": "evt-pjNZ1bhDd5fNZoT",
+            "name": "Agents League London — Day Zero",
+            "start_at": "2026-05-16T10:00:00.000Z",
+            "end_at": "2026-05-16T11:00:00.000Z",
+            "url": "https://lu.ma/qzxwq6ii",
+            "cover_url": "https://images.lumacdn.com/event-covers/ol/5a3b4460-4620-4bca-83bd-2c4d670d7411.png",
+            "location": ""
           }
         ]
       },
@@ -174,15 +183,6 @@
         "id": "granola",
         "url": "https://lu.ma/granola",
         "events": [
-          {
-            "api_id": "evt-BrnX6eqCI0rBuHA",
-            "name": "Weekly football 5-aside by Granola!",
-            "start_at": "2026-04-02T18:00:00.000Z",
-            "end_at": "2026-04-02T18:40:00.000Z",
-            "url": "https://lu.ma/rxzyhmfa",
-            "cover_url": "https://images.lumacdn.com/event-covers/x6/61c8296b-611c-44c1-b356-94818c02b694.jpg",
-            "location": "London, England"
-          },
           {
             "api_id": "evt-tmICnHd7V7o9F1O",
             "name": "Granola Fireside with Doug Li",
@@ -273,15 +273,6 @@
         "id": "climate.house",
         "url": "https://lu.ma/climate.house",
         "events": [
-          {
-            "api_id": "evt-ZuhllPAHF6zNMr7",
-            "name": "Commission Financements RCube",
-            "start_at": "2026-04-02T17:00:00.000Z",
-            "end_at": "2026-04-02T19:00:00.000Z",
-            "url": "https://lu.ma/oq1z992m",
-            "cover_url": "https://images.lumacdn.com/event-covers/4k/a01e856d-8182-4c06-8f15-0449e6108a82.png",
-            "location": "Climate House Paris Dussoubs, 46 Rue Dussoubs, 75002 Paris, France"
-          },
           {
             "api_id": "evt-RdrB1z1KXRWzDto",
             "name": "☕️🌎 OpenCafé des Gaïas \"Femmes et Climat\"",
@@ -634,15 +625,6 @@
         "id": "onethousandclub_lisbon",
         "url": "https://lu.ma/onethousandclub_lisbon",
         "events": [
-          {
-            "api_id": "evt-J5Co1sNmCs4m4z5",
-            "name": "Business Speed Dating",
-            "start_at": "2026-04-02T18:00:00.000Z",
-            "end_at": "2026-04-02T20:00:00.000Z",
-            "url": "https://lu.ma/businesspeed",
-            "cover_url": "https://images.lumacdn.com/event-covers/4b/65be07ec-bd20-401b-a18a-e3332fea148a.jpg",
-            "location": "Palácio do Governador, R. Bartolomeu Dias 117, 1400-030 Lisboa, Portugal"
-          },
           {
             "api_id": "evt-xrscIRUyFGizYtA",
             "name": "The Dinner Table X Longevity",
