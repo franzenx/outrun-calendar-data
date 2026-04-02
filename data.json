@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T09:40:39Z",
+  "last_updated": "2026-04-02T15:38:40Z",
   "hubs": {
     "dubai": [
       {
@@ -90,7 +90,7 @@
           },
           {
             "api_id": "evt-5GuliilkK3XviAl",
-            "name": "BLOCK71 Fractions: The Brutal Truth (Fractional vs. Full-Time)",
+            "name": "BLOCK71 Fractions: The Strategic Marriage (Managing the Founder + Fractionals Dynamics)",
             "start_at": "2026-05-07T11:00:00.000Z",
             "end_at": "2026-05-07T13:00:00.000Z",
             "url": "https://lu.ma/kpey2b82",
@@ -99,7 +99,7 @@
           },
           {
             "api_id": "evt-mZJDB3j2pcN6jZt",
-            "name": "BLOCK71 Fractions: The Brutal Truth (Fractional vs. Full-Time)",
+            "name": "BLOCK71 Fractions: The Full-Time Commitment (Signals to Transit from Fractionals)",
             "start_at": "2026-05-21T11:00:00.000Z",
             "end_at": "2026-05-21T13:00:00.000Z",
             "url": "https://lu.ma/py7bieob",
@@ -274,15 +274,6 @@
         "url": "https://lu.ma/climate.house",
         "events": [
           {
-            "api_id": "evt-MC860bwCQu9X62z",
-            "name": "Presencing Series 2026 x U-School (en ligne)",
-            "start_at": "2026-04-02T14:00:00.000Z",
-            "end_at": "2026-04-02T15:30:00.000Z",
-            "url": "https://lu.ma/dwycdgbd",
-            "cover_url": "https://images.lumacdn.com/event-covers/jq/d09c2575-4a73-4dce-b55d-df8db3fe5409.png",
-            "location": ""
-          },
-          {
             "api_id": "evt-ZuhllPAHF6zNMr7",
             "name": "Commission Financements RCube",
             "start_at": "2026-04-02T17:00:00.000Z",
@@ -380,6 +371,15 @@
             "url": "https://lu.ma/pn5zao8j",
             "cover_url": "https://images.lumacdn.com/event-covers/el/e5bbe26d-060e-4650-bcd6-3cd02b4e69a4.png",
             "location": "Climate House Paris Sentier, 39 Rue du Caire, 75002 Paris, France"
+          },
+          {
+            "api_id": "evt-GwDGCjFqSenBJr6",
+            "name": "GT #2 sur les liens",
+            "start_at": "2026-04-16T07:00:00.000Z",
+            "end_at": "2026-04-16T10:00:00.000Z",
+            "url": "https://lu.ma/gire9awd",
+            "cover_url": "https://images.lumacdn.com/event-covers/hn/71da09a1-0823-4a58-a46b-aff6856522f8.png",
+            "location": "Climate House Paris Dussoubs, 46 Rue Dussoubs, 75002 Paris, France"
           }
         ]
       },
@@ -485,15 +485,6 @@
         "id": "superteamJapan",
         "url": "https://lu.ma/superteamJapan",
         "events": [
-          {
-            "api_id": "evt-AQ8mYxMmVqJtuft",
-            "name": "Wingbits × Superteam Japan AMA — メインネットローンチ & TGE 🛩️",
-            "start_at": "2026-04-02T12:00:00.000Z",
-            "end_at": "2026-04-02T13:00:00.000Z",
-            "url": "https://lu.ma/Wingbits-AMA",
-            "cover_url": "https://images.lumacdn.com/event-covers/7v/b2040336-e64d-49b3-9b1a-efb6d4c8bd55.png",
-            "location": ""
-          },
           {
             "api_id": "evt-fiIEltGantgvgyk",
             "name": "AI Agent & x402 - Workshop for Frontier Hackathon",
