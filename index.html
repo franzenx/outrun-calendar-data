@@ -425,7 +425,39 @@
                     }
 
                     // Auto-open first Tier 1 event on load
-                    const firstT1 = this.allConfs.find(c => c.tier === 1);
+                    // ── Normalise: support both "conferences" and legacy "hubs" format ──
+                    if (!this.rawData.conferences && this.rawData.hubs) {
+                        let num = 1;
+                        const confs = [];
+                        for (const [city, hubs] of Object.entries(this.rawData.hubs)) {
+                            for (const hub of (hubs || [])) {
+                                confs.push({
+                                    id:          hub.id || ('hub-' + num),
+                                    num:         num++,
+                                    name:        hub.name,
+                                    city:        city.charAt(0).toUpperCase() + city.slice(1),
+                                    country:     '',
+                                    region:      '',
+                                    tier:        2,
+                                    tier_label:  'Luma Hub',
+                                    start:       '',
+                                    end:         '',
+                                    quarter:     'TBC',
+                                    status:      '✅ Confirmed',
+                                    focus:       '',
+                                    attendance:  '',
+                                    website:     hub.url || '',
+                                    opportunity: '',
+                                    luma_slug:   hub.id || '',
+                                    events:      hub.events || [],
+                                });
+                            }
+                        }
+                        this.rawData.conferences = confs;
+                    }
+
+                    // Auto-open first Tier 1 event (or first entry if none)
+                    const firstT1 = this.allConfs.find(c => c.tier === 1) || this.allConfs[0];
                     if (firstT1) this.openConf = firstT1.id;
 
                 } catch (err) {
