@@ -1,4 +1,4 @@
-"""
+ """
 Outrun – Luma Event Scraper
 ============================
 Strategy (in order of preference):
@@ -247,35 +247,71 @@ def scrape_hub(hub_name: str, slug: str) -> list[dict]:
 
 
 def main():
-    output = {}
-    total  = 0
+    # ── Load existing data.json (preserves the conferences structure from Excel) ──
+    try:
+        with open("data.json", encoding="utf-8") as f:
+            payload = json.load(f)
+    except FileNotFoundError:
+        payload = {}
 
-    for city, hubs in HUBS.items():
-        print(f"\n📍 {city.upper()}")
-        city_result = []
+    conferences = payload.get("conferences", [])
+    total = 0
 
-        for hub in hubs:
-            events = scrape_hub(hub["name"], hub["slug"])
-            total += len(events)
-            city_result.append({
-                "name":   hub["name"],
-                "id":     hub["slug"],
-                "url":    f"https://lu.ma/{hub['slug']}",
-                "events": events,
-            })
+    # ── If conferences format exists, update events within each conference ────────
+    if conferences:
+        print(f"Updating events for {len(conferences)} conferences...\n")
+        for conf in conferences:
+            slug = conf.get("luma_slug", "")
+            if not slug:
+                continue
+            print(f"\n📍 {conf['name']} (lu.ma/{slug})")
+            events = scrape_hub(conf["name"], slug)
+            if events:
+                conf["events"] = events
+                total += len(events)
             time.sleep(SLEEP_BETWEEN)
 
-        output[city] = city_result
+    # ── Fallback: if no conferences key, build from HUBS config (legacy) ─────────
+    else:
+        print("No conferences key found — building from HUBS config...\n")
+        num = 1
+        for city, hubs in HUBS.items():
+            print(f"\n📍 {city.upper()}")
+            for hub in hubs:
+                events = scrape_hub(hub["name"], hub["slug"])
+                total += len(events)
+                conferences.append({
+                    "id":        hub["slug"],
+                    "num":       num,
+                    "name":      hub["name"],
+                    "city":      city.capitalize(),
+                    "country":   "",
+                    "region":    "",
+                    "tier":      2,
+                    "tier_label": "Luma Hub",
+                    "start":     "",
+                    "end":       "",
+                    "quarter":   "TBC",
+                    "status":    "✅ Confirmed",
+                    "focus":     "",
+                    "attendance": "",
+                    "website":   f"https://lu.ma/{hub['slug']}",
+                    "opportunity": "",
+                    "luma_slug": hub["slug"],
+                    "events":    events,
+                })
+                num += 1
+                time.sleep(SLEEP_BETWEEN)
 
-    payload = {
-        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "hubs": output,
-    }
+    payload["conferences"]  = conferences
+    payload["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    # Remove legacy hubs key if present
+    payload.pop("hubs", None)
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
 
-    print(f"\n✅  Done — {total} events written to data.json")
+    print(f"\n✅  Done — {total} events updated across {len(conferences)} conferences")
 
 
 if __name__ == "__main__":
