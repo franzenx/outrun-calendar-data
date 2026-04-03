@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T00:00:00Z",
+  "last_updated": "2026-04-03T08:40:21Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -264,7 +264,17 @@
       "website": "https://ethcc.io/",
       "opportunity": "EU Ethereum developer relationships; DeFi protocol integrations; MiCA stablecoin conversations",
       "luma_slug": "ethcc",
-      "events": []
+      "events": [
+        {
+          "api_id": "evt-q4ffGF4rMhXdiZr",
+          "name": "AI InfoFi in Social Media: Shaping the Future of Web3",
+          "start_at": "2026-04-03T09:00:00.000Z",
+          "end_at": "2026-04-03T10:00:00.000Z",
+          "url": "https://lu.ma/bpa98wyy",
+          "cover_url": "https://images.lumacdn.com/event-covers/27/0808e20a-2b73-485b-a1ba-e04603c2162a.jpg",
+          "location": "Cannes, France"
+        }
+      ]
     },
     {
       "id": "conf-13",
@@ -308,7 +318,170 @@
       "website": "https://www.parisblockchainweek.com/",
       "opportunity": "MiCA regulatory intelligence (Macron keynote); EU institutional BD; CySEC CIF partner meetings",
       "luma_slug": "parisblockchainweek",
-      "events": []
+      "events": [
+        {
+          "api_id": "evt-wybXvMDF6wdGFpH",
+          "name": "HACK THE BLOCK 2026 Paris Blockchain Week XRPL Hackathon",
+          "start_at": "2026-04-11T06:30:00.000Z",
+          "end_at": "2026-04-12T19:00:00.000Z",
+          "url": "https://lu.ma/Hacktheblock2026-PBW-XRPL",
+          "cover_url": "https://images.lumacdn.com/event-covers/14/ad53a238-e588-4ac6-bb20-9a526551429c.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-Rf8nEBMmWGdNScd",
+          "name": "Paris Blockchain Week 2026 Main Event",
+          "start_at": "2026-04-14T17:00:00.000Z",
+          "end_at": "2026-04-16T17:00:00.000Z",
+          "url": "https://lu.ma/ppmfzmvu",
+          "cover_url": "https://images.lumacdn.com/event-covers/63/eef76577-23d4-4abc-931c-777d2dda9ce6.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-hoa2N31EeCy1Wll",
+          "name": "VIP DINNER",
+          "start_at": "2026-04-14T17:00:00.000Z",
+          "end_at": "2026-04-14T21:00:00.000Z",
+          "url": "https://lu.ma/pbw-vip-dinner-2026",
+          "cover_url": "https://images.lumacdn.com/event-covers/d8/f5d85c2a-2629-475e-a873-69de98ffed1e.png",
+          "location": "Versailles, Île-de-France"
+        },
+        {
+          "api_id": "evt-mVz3EiB0TkzPGvc",
+          "name": "PRO Access To Paris Blockchain Week - 2026",
+          "start_at": "2026-04-15T06:00:00.000Z",
+          "end_at": "2026-04-16T17:00:00.000Z",
+          "url": "https://lu.ma/mm2o9ox4",
+          "cover_url": "https://images.lumacdn.com/event-covers/vl/25485760-5b0e-459a-bbbd-1bff45efb16b.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-u7gSl5LE9V78y7q",
+          "name": "KOL Capital Private Event & KOL Awards",
+          "start_at": "2026-04-15T08:00:00.000Z",
+          "end_at": "2026-04-15T10:00:00.000Z",
+          "url": "https://lu.ma/zyu3c41y",
+          "cover_url": "https://images.lumacdn.com/event-covers/0h/fcc8027a-b357-44a0-95bb-6f62971b762a.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-skP9uV3WNOHUCjg",
+          "name": "The Convergence of Crypto and AI",
+          "start_at": "2026-04-15T08:00:00.000Z",
+          "end_at": "2026-04-15T09:00:00.000Z",
+          "url": "https://lu.ma/ofkjambd",
+          "cover_url": "https://images.lumacdn.com/event-covers/x6/95495a1a-3036-4541-b1ab-45586adc90de.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-rm59Vw0n9YopcLp",
+          "name": "The Odds: Prediction Markets Live",
+          "start_at": "2026-04-15T10:30:00.000Z",
+          "end_at": "2026-04-15T13:00:00.000Z",
+          "url": "https://lu.ma/q0u6qawh",
+          "cover_url": "https://images.lumacdn.com/event-covers/kd/841623db-f82b-4a22-8095-1611ea58a808.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-ZA2lridg9DdsNcO",
+          "name": "Stablecoin & Payment Infrastructure Reception & Fireside Chat powered by Zero Hash",
+          "start_at": "2026-04-15T10:30:00.000Z",
+          "end_at": "2026-04-15T12:00:00.000Z",
+          "url": "https://lu.ma/dk2cmk6b",
+          "cover_url": "https://images.lumacdn.com/event-covers/rh/61e0bbce-3810-423a-bc25-9184d622caa6.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-MlnwGVAy3b7TCcy",
+          "name": "Fireblocks House at the Connect Lounge",
+          "start_at": "2026-04-15T13:30:00.000Z",
+          "end_at": "2026-04-15T15:30:00.000Z",
+          "url": "https://lu.ma/2il79h81",
+          "cover_url": "https://images.lumacdn.com/event-covers/88/72c31698-43fe-4b44-9942-579c5370565d.jpg",
+          "location": ""
+        },
+        {
+          "api_id": "evt-pz8yD5GmR7DVod5",
+          "name": "Institutional Happy Hour with Hedera and ioBuilders",
+          "start_at": "2026-04-15T15:30:00.000Z",
+          "end_at": "2026-04-15T17:30:00.000Z",
+          "url": "https://lu.ma/pbw-hedera-iobuilders",
+          "cover_url": "https://images.lumacdn.com/event-covers/7l/d52dcbfd-5906-4921-8832-d488edd08747.png",
+          "location": "Bar 8, 251 Rue Saint-Honoré, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-SdWPSRfMW6umyEv",
+          "name": "Blockchain Leaders Connect by Broadridge",
+          "start_at": "2026-04-15T16:00:00.000Z",
+          "end_at": "2026-04-15T18:00:00.000Z",
+          "url": "https://lu.ma/lum3x7tf",
+          "cover_url": "https://images.lumacdn.com/event-covers/zi/93c8cb44-fd53-4d49-b135-c04d1aea8746.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-cPRH9x52yg5FoQg",
+          "name": "The Limestone Hour: Cocktails & Wine Beneath the Louvre",
+          "start_at": "2026-04-15T18:00:00.000Z",
+          "end_at": "2026-04-15T21:00:00.000Z",
+          "url": "https://lu.ma/nanpn2hr",
+          "cover_url": "https://images.lumacdn.com/event-covers/36/d88d1115-9f79-42e2-9b08-82f1670b337c.png",
+          "location": "Les Caves du Louvre, 52 Rue de l'Arbre Sec, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-tQIBetPN9bZBXHR",
+          "name": "INVESTORS BREAKFAST",
+          "start_at": "2026-04-16T06:30:00.000Z",
+          "end_at": "2026-04-16T07:30:00.000Z",
+          "url": "https://lu.ma/xx442g1u",
+          "cover_url": "https://images.lumacdn.com/event-covers/2r/516b2b91-2335-4531-a6c4-6c841556f52e.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-R4mkcoVqFwUVFag",
+          "name": "CXO Summit",
+          "start_at": "2026-04-16T08:00:00.000Z",
+          "end_at": "2026-04-16T10:00:00.000Z",
+          "url": "https://lu.ma/0msuw3da",
+          "cover_url": "https://images.lumacdn.com/event-covers/mp/c3c90829-d13f-41a5-b705-e3114768447d.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-IDE2ADL26r6BUmI",
+          "name": "Start In Block Startup Competition",
+          "start_at": "2026-04-16T08:00:00.000Z",
+          "end_at": "2026-04-16T15:00:00.000Z",
+          "url": "https://lu.ma/aud1migv",
+          "cover_url": "https://images.lumacdn.com/event-covers/1o/160d3fad-1b0c-45c0-b1ef-ef669520d389.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-ldvS3fw4PEg2HhQ",
+          "name": "Foundation CFO Lunch",
+          "start_at": "2026-04-16T10:30:00.000Z",
+          "end_at": "2026-04-16T13:00:00.000Z",
+          "url": "https://lu.ma/ingzccqh",
+          "cover_url": "https://images.lumacdn.com/event-covers/7w/0a302bad-793b-4c64-aeac-d4edd4386309.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-kvMGnAA26YLFZia",
+          "name": "Bitcoin Treasury Networking Lunch & Fireside Chat",
+          "start_at": "2026-04-16T10:30:00.000Z",
+          "end_at": "2026-04-16T12:30:00.000Z",
+          "url": "https://lu.ma/d4qe9rua",
+          "cover_url": "https://images.lumacdn.com/event-covers/ve/afb405e6-1bb2-4e55-9311-bcca54f766d5.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-DFgymm690CnXGG5",
+          "name": "RWA & Tokenization",
+          "start_at": "2026-04-16T13:00:00.000Z",
+          "end_at": "2026-04-16T15:00:00.000Z",
+          "url": "https://lu.ma/skgbq8er",
+          "cover_url": "https://images.lumacdn.com/event-covers/ow/a05da909-cd14-4632-a2f9-f750fdea5086.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        }
+      ]
     },
     {
       "id": "conf-15",
@@ -376,31 +549,49 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
-          "api_id": "evt-global-onchain",
-          "name": "Global Onchain Summit Dubai 2026",
-          "start_at": "2026-04-28T06:00:00Z",
-          "end_at": "",
-          "url": "https://lu.ma/global-onchain-dubai",
-          "cover_url": "",
-          "location": "Dubai, UAE"
+          "api_id": "evt-Xaw6lyKnWsbGA3Z",
+          "name": "Global Onchain Summit            Dubai 2026",
+          "start_at": "2026-04-28T06:00:00.000Z",
+          "end_at": "2026-04-28T14:00:00.000Z",
+          "url": "https://lu.ma/y64u2fu5",
+          "cover_url": "https://images.lumacdn.com/event-covers/4x/b2fbcbd3-78e7-4eb1-811a-71b755c90bad.png",
+          "location": "Dubai, Dubai"
         },
         {
-          "api_id": "evt-rwa-summit",
-          "name": "RWA Summit Dubai",
-          "start_at": "2026-05-01T06:00:00Z",
-          "end_at": "",
-          "url": "https://lu.ma/rwa-summit-dubai",
-          "cover_url": "",
-          "location": "Dubai Knowledge Park"
+          "api_id": "evt-5PaxzAgtW3zwxhN",
+          "name": "The Tokenized Future Dubai RWA Meetup by 499 & Block Street",
+          "start_at": "2026-04-28T08:30:00.000Z",
+          "end_at": "2026-04-28T14:00:00.000Z",
+          "url": "https://lu.ma/TokenizedFutureDubai",
+          "cover_url": "https://images.lumacdn.com/event-covers/9z/96f9b78d-6316-45f6-a3c5-5955823df00f.png",
+          "location": "دبي, دبي"
         },
         {
-          "api_id": "evt-tokenized-future",
-          "name": "The Tokenized Future Dubai — RWA Meetup",
-          "start_at": "2026-04-28T08:30:00Z",
-          "end_at": "",
-          "url": "https://lu.ma/tokenized-future-dubai",
-          "cover_url": "",
-          "location": "Dubai"
+          "api_id": "evt-ohEvdOWKtbl6A4j",
+          "name": "RWA SUMMIT DUBAI",
+          "start_at": "2026-05-01T06:00:00.000Z",
+          "end_at": "2026-05-01T13:00:00.000Z",
+          "url": "https://lu.ma/rwasummitdubai",
+          "cover_url": "https://images.lumacdn.com/event-covers/s4/5e4cf07f-0655-4031-81ab-bd8df43185a8.png",
+          "location": "Al Sufouh - Dubai Knowledge Park - Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-fr9dZBrDwyZzW0u",
+          "name": "Web3 Devs Underground Entrepreneurial Day",
+          "start_at": "2026-05-04T13:00:00.000Z",
+          "end_at": "2026-05-04T22:00:00.000Z",
+          "url": "https://lu.ma/q9fga8om",
+          "cover_url": "https://images.lumacdn.com/event-covers/yz/2dd19e7f-aae7-46c8-91ea-a09b083bf89e.png",
+          "location": "Miami, Florida"
+        },
+        {
+          "api_id": "evt-N7aIok5arp1ECB9",
+          "name": "Tacnode APEX @ Token2049 Dubai",
+          "start_at": "2027-04-20T14:00:00.000Z",
+          "end_at": "2027-04-20T19:00:00.000Z",
+          "url": "https://lu.ma/5rcaej1m",
+          "cover_url": "https://images.lumacdn.com/event-covers/xq/2ef0dc1b-e263-4cad-a527-df338785f0af.jpg",
+          "location": "Dubai - United Arab Emirates"
         }
       ]
     },
