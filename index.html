@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outrun 2026 | Crypto Event Calendar</title>
+    <title>Global Crypto Calendar | Powered by Outrun</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;700&display=swap" rel="stylesheet">
@@ -120,11 +120,12 @@
     <!-- ── Hero ─────────────────────────────────────────────────────── -->
     <header class="max-w-7xl mx-auto px-6 md:px-10 pt-8 pb-10">
         <h1 class="text-5xl md:text-7xl font-bold tracking-tighter leading-none mb-3">
-            100 <span class="text-[#bbf7d0] mint-glow">EVENTS</span>
+            Global <span class="text-[#bbf7d0] mint-glow">Crypto Calendar</span>
         </h1>
         <p class="text-sm opacity-30 max-w-md mt-2">
-            Tradedar Global Web3 &amp; Crypto Calendar 2026 — Tier 1 to 3. Click any event to see Luma side events and sign up directly.
+            The definitive Web3 &amp; crypto event feed for 2026 — powered by Outrun. Click any event to view Luma side events and sign up directly.
         </p>
+        <p class="text-[11px] opacity-20 mt-1">Powered by <span class="text-[#bbf7d0] opacity-60">Outrun</span></p>
 
         <!-- ── Filters ─────────────────────────────────────────────── -->
         <div class="mt-8 space-y-3" x-show="!loading">
@@ -390,7 +391,16 @@
             lastUpdated:   '',
 
             get allConfs() {
-                return this.rawData.conferences || [];
+                const today = new Date();
+                today.setHours(0, 0, 0, 0);
+                return (this.rawData.conferences || []).filter(c => {
+                    // Keep events with no date (TBC) and all future/ongoing events
+                    if (!c.end || c.end === 'TBC' || c.end === '') return true;
+                    // Parse "DD Mon YYYY" format e.g. "30 Apr 2026"
+                    const parsed = new Date(c.end);
+                    if (isNaN(parsed)) return true; // unparseable date — keep
+                    return parsed >= today;
+                });
             },
             get totalConfs() {
                 return this.allConfs.length;
