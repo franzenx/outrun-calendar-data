@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T20:01:31Z",
+  "last_updated": "2026-04-03T05:51:30Z",
   "hubs": {
     "dubai": [
       {
@@ -371,6 +371,15 @@
             "url": "https://lu.ma/gire9awd",
             "cover_url": "https://images.lumacdn.com/event-covers/hn/71da09a1-0823-4a58-a46b-aff6856522f8.png",
             "location": "Climate House Paris Dussoubs, 46 Rue Dussoubs, 75002 Paris, France"
+          },
+          {
+            "api_id": "evt-rU6RUvciWttaBKa",
+            "name": "Les entreprises peuvent-elles faire mieux en matière de diversité en 2026 ?",
+            "start_at": "2026-04-16T15:00:00.000Z",
+            "end_at": "2026-04-16T17:30:00.000Z",
+            "url": "https://lu.ma/ovpch1o6",
+            "cover_url": "https://images.lumacdn.com/event-covers/sg/c6a9288d-292c-4895-932f-52b81dd1246e.png",
+            "location": "Climate House Paris Sentier, 39 Rue du Caire, 75002 Paris, France"
           }
         ]
       },
@@ -531,15 +540,6 @@
         "url": "https://lu.ma/hello_miami",
         "events": [
           {
-            "api_id": "evt-pMe1k3xgtoLRIS2",
-            "name": "hack night v0.126 - South Beach",
-            "start_at": "2026-04-02T22:00:00.000Z",
-            "end_at": "2026-04-03T03:00:00.000Z",
-            "url": "https://lu.ma/pc55kupj",
-            "cover_url": "https://images.lumacdn.com/event-covers/k4/13afbeb8-ffc9-4e1f-8c85-9c4a43ed101a.jpg",
-            "location": "Miami Beach, Florida"
-          },
-          {
             "api_id": "evt-lhNM8Gwsq4TL8M6",
             "name": "hack night v0.127 - Wynwood",
             "start_at": "2026-04-07T22:30:00.000Z",
@@ -574,6 +574,15 @@
             "location": "Barolo Cucina D’Autore, 1910 E Sunrise Blvd, Fort Lauderdale, FL 33304, USA"
           },
           {
+            "api_id": "evt-Cxcpr8TYMn29pUS",
+            "name": "Boca Chapter: Elegant Dinner With The Girls [What's turly brining you joy right now]",
+            "start_at": "2026-04-16T23:30:00.000Z",
+            "end_at": "2026-04-17T01:45:00.000Z",
+            "url": "https://lu.ma/fow3laza",
+            "cover_url": "https://images.lumacdn.com/event-covers/d5/e56f08c7-b72c-4636-b97e-a7e2a00a4ae4.png",
+            "location": "Anyday Boca, 9658 Glades Rd, Boca Raton, FL 33434, USA"
+          },
+          {
             "api_id": "evt-DreUBQvLRayxfL0",
             "name": "PB Chapter: Elegant Dinner With The Girls [Come & meet new friends]",
             "start_at": "2026-04-18T23:00:00.000Z",
@@ -581,6 +590,15 @@
             "url": "https://lu.ma/uyqvloh1",
             "cover_url": "https://images.lumacdn.com/event-covers/uq/7eea0b14-2fca-487a-81eb-56d940530f41.png",
             "location": "RH Rooftop Restaurant at RH West Palm, 560 Okeechobee Blvd, West Palm Beach, FL 33401, USA"
+          },
+          {
+            "api_id": "evt-Ej88dT8ECnySRzN",
+            "name": "PB Chapter: Elegant Dinner With The Girls",
+            "start_at": "2026-04-29T23:15:00.000Z",
+            "end_at": "2026-04-30T01:15:00.000Z",
+            "url": "https://lu.ma/e1fqenj3",
+            "cover_url": "https://images.lumacdn.com/event-covers/tv/e1c49453-136f-4205-bb22-27b62f31dd89.png",
+            "location": "Lamarina Restaurant, 4050 N Flagler Dr, West Palm Beach, FL 33407, USA"
           },
           {
             "api_id": "evt-9kSaqNyYMJp0uWA",
