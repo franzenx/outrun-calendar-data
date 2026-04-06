@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T19:50:23Z",
+  "last_updated": "2026-04-06T06:19:08Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -329,6 +329,15 @@
           "location": "Paris, Île-de-France"
         },
         {
+          "api_id": "evt-CH6c8ECQrjExX3t",
+          "name": "L'Année de la Crypto 2026",
+          "start_at": "2026-04-14T06:30:00.000Z",
+          "end_at": "2026-04-14T12:00:00.000Z",
+          "url": "https://lu.ma/8hbfh6jg",
+          "cover_url": "https://images.lumacdn.com/event-covers/m8/390400ef-82be-4fd6-aa27-29c1e6fdb7ec.png",
+          "location": "47 Av. de Wagram, 75017 Paris, France"
+        },
+        {
           "api_id": "evt-Rf8nEBMmWGdNScd",
           "name": "Paris Blockchain Week 2026 Main Event",
           "start_at": "2026-04-14T17:00:00.000Z",
@@ -347,12 +356,30 @@
           "location": "Versailles, Île-de-France"
         },
         {
+          "api_id": "evt-UPg84JkQq2TdETy",
+          "name": "Crypto Legislative Hackathon",
+          "start_at": "2026-04-14T19:00:00.000Z",
+          "end_at": "2026-04-14T20:00:00.000Z",
+          "url": "https://lu.ma/gjma5oi2",
+          "cover_url": "https://images.lumacdn.com/event-covers/hb/70a62272-4a91-4563-99ff-0407bf1f39b1.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
           "api_id": "evt-mVz3EiB0TkzPGvc",
           "name": "PRO Access To Paris Blockchain Week - 2026",
           "start_at": "2026-04-15T06:00:00.000Z",
           "end_at": "2026-04-16T17:00:00.000Z",
           "url": "https://lu.ma/mm2o9ox4",
           "cover_url": "https://images.lumacdn.com/event-covers/vl/25485760-5b0e-459a-bbbd-1bff45efb16b.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-lq1W2lpHUDSqGaa",
+          "name": "🎙 Flight3 Media House @ PBW",
+          "start_at": "2026-04-15T07:00:00.000Z",
+          "end_at": "2026-04-16T14:00:00.000Z",
+          "url": "https://lu.ma/6lccm192",
+          "cover_url": "https://images.lumacdn.com/event-covers/6v/bf9ecbbe-199e-4593-bb6b-7ffc7e553bab.png",
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
@@ -419,6 +446,24 @@
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
+          "api_id": "evt-YnELXEmS8KT8wlE",
+          "name": "XRP Community Night Paris",
+          "start_at": "2026-04-15T17:00:00.000Z",
+          "end_at": "2026-04-15T20:00:00.000Z",
+          "url": "https://lu.ma/wnkqmmqy",
+          "cover_url": "https://images.lumacdn.com/event-covers/e2/15c71ee0-2056-4afd-9d10-44c0c7371010.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-VPwc0MnM633DEmG",
+          "name": "Bonsoir, Paris-            A Private Soiree by Paybis & Nsure",
+          "start_at": "2026-04-15T17:00:00.000Z",
+          "end_at": "2026-04-15T21:00:00.000Z",
+          "url": "https://lu.ma/bonsoirparis",
+          "cover_url": "https://images.lumacdn.com/event-covers/oc/c5a5b39c-724e-4d96-b831-2301f12fbdd9.png",
+          "location": "Temple and Chapon, 116 Rue du Temple, 75003 Paris, France"
+        },
+        {
           "api_id": "evt-cPRH9x52yg5FoQg",
           "name": "The Limestone Hour: Cocktails & Wine Beneath the Louvre",
           "start_at": "2026-04-15T18:00:00.000Z",
@@ -428,58 +473,13 @@
           "location": "Paris, Île-de-France"
         },
         {
-          "api_id": "evt-tQIBetPN9bZBXHR",
-          "name": "INVESTORS BREAKFAST",
-          "start_at": "2026-04-16T06:30:00.000Z",
-          "end_at": "2026-04-16T07:30:00.000Z",
-          "url": "https://lu.ma/xx442g1u",
-          "cover_url": "https://images.lumacdn.com/event-covers/2r/516b2b91-2335-4531-a6c4-6c841556f52e.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-R4mkcoVqFwUVFag",
-          "name": "CXO Summit",
-          "start_at": "2026-04-16T08:00:00.000Z",
-          "end_at": "2026-04-16T10:00:00.000Z",
-          "url": "https://lu.ma/0msuw3da",
-          "cover_url": "https://images.lumacdn.com/event-covers/mp/c3c90829-d13f-41a5-b705-e3114768447d.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-IDE2ADL26r6BUmI",
-          "name": "Start In Block Startup Competition",
-          "start_at": "2026-04-16T08:00:00.000Z",
-          "end_at": "2026-04-16T15:00:00.000Z",
-          "url": "https://lu.ma/aud1migv",
-          "cover_url": "https://images.lumacdn.com/event-covers/1o/160d3fad-1b0c-45c0-b1ef-ef669520d389.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-ldvS3fw4PEg2HhQ",
-          "name": "Foundation CFO Lunch",
-          "start_at": "2026-04-16T10:30:00.000Z",
-          "end_at": "2026-04-16T13:00:00.000Z",
-          "url": "https://lu.ma/ingzccqh",
-          "cover_url": "https://images.lumacdn.com/event-covers/7w/0a302bad-793b-4c64-aeac-d4edd4386309.png",
+          "api_id": "evt-RXbZzHRFX7XJLum",
+          "name": "🏃‍♀️ TRM Run Club @ Paris Blockchain Week",
+          "start_at": "2026-04-16T05:00:00.000Z",
+          "end_at": "2026-04-16T06:00:00.000Z",
+          "url": "https://lu.ma/sm6tpyme",
+          "cover_url": "https://images.lumacdn.com/event-covers/5z/09d957e5-c218-4754-bb5c-92a9f98b26e4.png",
           "location": "Paris, Île-de-France"
-        },
-        {
-          "api_id": "evt-kvMGnAA26YLFZia",
-          "name": "Bitcoin Treasury Networking Lunch & Fireside Chat",
-          "start_at": "2026-04-16T10:30:00.000Z",
-          "end_at": "2026-04-16T12:30:00.000Z",
-          "url": "https://lu.ma/d4qe9rua",
-          "cover_url": "https://images.lumacdn.com/event-covers/ve/afb405e6-1bb2-4e55-9311-bcca54f766d5.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-DFgymm690CnXGG5",
-          "name": "RWA & Tokenization",
-          "start_at": "2026-04-16T13:00:00.000Z",
-          "end_at": "2026-04-16T15:00:00.000Z",
-          "url": "https://lu.ma/skgbq8er",
-          "cover_url": "https://images.lumacdn.com/event-covers/ow/a05da909-cd14-4632-a2f9-f750fdea5086.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         }
       ]
     },
