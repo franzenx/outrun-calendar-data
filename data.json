@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T20:03:55Z",
+  "last_updated": "2026-04-07T05:59:16Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -416,6 +416,15 @@
           "end_at": "2026-04-15T12:00:00.000Z",
           "url": "https://lu.ma/dk2cmk6b",
           "cover_url": "https://images.lumacdn.com/event-covers/rh/61e0bbce-3810-423a-bc25-9184d622caa6.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-2UZluldGD49mMUg",
+          "name": "Investing at Institutional Scale",
+          "start_at": "2026-04-15T13:00:00.000Z",
+          "end_at": "2026-04-15T14:00:00.000Z",
+          "url": "https://lu.ma/cfcrpndz",
+          "cover_url": "https://images.lumacdn.com/event-covers/z0/1198868e-4ff8-4473-96b2-15b2ec646710.png",
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
