@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T05:59:16Z",
+  "last_updated": "2026-04-07T09:52:37Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -437,6 +437,15 @@
           "location": ""
         },
         {
+          "api_id": "evt-EHsPQnTULmTPvHn",
+          "name": "LONGITUDE by Cointelegraph x OKX, 9th edition",
+          "start_at": "2026-04-15T15:00:00.000Z",
+          "end_at": "2026-04-15T20:00:00.000Z",
+          "url": "https://lu.ma/vx2llrvk",
+          "cover_url": "https://images.lumacdn.com/event-covers/in/cc24f3fd-0e59-47cf-ba87-f4e776854c85.png",
+          "location": "Shangri-La Paris, 10 Av. d'Iéna, 75116 Paris, France"
+        },
+        {
           "api_id": "evt-pz8yD5GmR7DVod5",
           "name": "Institutional Happy Hour with Hedera and ioBuilders",
           "start_at": "2026-04-15T15:30:00.000Z",
@@ -479,15 +488,6 @@
           "end_at": "2026-04-15T21:00:00.000Z",
           "url": "https://lu.ma/nanpn2hr",
           "cover_url": "https://images.lumacdn.com/event-covers/36/d88d1115-9f79-42e2-9b08-82f1670b337c.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
-          "api_id": "evt-RXbZzHRFX7XJLum",
-          "name": "🏃‍♀️ TRM Run Club @ Paris Blockchain Week",
-          "start_at": "2026-04-16T05:00:00.000Z",
-          "end_at": "2026-04-16T06:00:00.000Z",
-          "url": "https://lu.ma/sm6tpyme",
-          "cover_url": "https://images.lumacdn.com/event-covers/5z/09d957e5-c218-4754-bb5c-92a9f98b26e4.png",
           "location": "Paris, Île-de-France"
         }
       ]
