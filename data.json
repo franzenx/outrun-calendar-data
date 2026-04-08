@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T06:01:22Z",
+  "last_updated": "2026-04-08T16:21:09Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -329,6 +329,15 @@
           "location": "Paris, Île-de-France"
         },
         {
+          "api_id": "evt-fheV8R8ZfdDfsbr",
+          "name": "Why Onchain Exposure is No Longer Optional",
+          "start_at": "2026-04-14T06:30:00.000Z",
+          "end_at": "2026-04-14T09:00:00.000Z",
+          "url": "https://lu.ma/thebigwhale-april",
+          "cover_url": "https://images.lumacdn.com/event-covers/e4/beb54c6e-e866-41a1-b334-d5e037b4952a.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
           "api_id": "evt-CH6c8ECQrjExX3t",
           "name": "L'Année de la Crypto 2026",
           "start_at": "2026-04-14T06:30:00.000Z",
@@ -336,6 +345,15 @@
           "url": "https://lu.ma/8hbfh6jg",
           "cover_url": "https://images.lumacdn.com/event-covers/m8/390400ef-82be-4fd6-aa27-29c1e6fdb7ec.png",
           "location": "47 Av. de Wagram, 75017 Paris, France"
+        },
+        {
+          "api_id": "evt-oh3sJBEX7psFjzK",
+          "name": "The Future of Money and Market Infrastructure - Merkle Meet 2026 Paris Hosted by Norton Rose Fullbright",
+          "start_at": "2026-04-14T07:30:00.000Z",
+          "end_at": "2026-04-14T17:00:00.000Z",
+          "url": "https://lu.ma/klfy0dbz",
+          "cover_url": "https://images.lumacdn.com/event-covers/tu/5af1cc6f-1cc7-47b6-8afc-b184d21594a0.png",
+          "location": "Norton Rose Fulbright, 40 Rue de Courcelles, 75008 Paris, France"
         },
         {
           "api_id": "evt-Rf8nEBMmWGdNScd",
@@ -437,49 +455,13 @@
           "location": "Shangri-La Paris, 10 Av. d'Iéna, 75116 Paris, France"
         },
         {
-          "api_id": "evt-pz8yD5GmR7DVod5",
-          "name": "Institutional Happy Hour with Hedera and ioBuilders",
+          "api_id": "evt-LIO3IBnDK4tJjG6",
+          "name": "Stablecoins & Tokenized Assets: A Private Wine Tasting by Dune & Visa",
           "start_at": "2026-04-15T15:30:00.000Z",
-          "end_at": "2026-04-15T17:30:00.000Z",
-          "url": "https://lu.ma/pbw-hedera-iobuilders",
-          "cover_url": "https://images.lumacdn.com/event-covers/7l/d52dcbfd-5906-4921-8832-d488edd08747.png",
-          "location": "Bar 8, 251 Rue Saint-Honoré, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-SdWPSRfMW6umyEv",
-          "name": "Blockchain Leaders Connect by Broadridge",
-          "start_at": "2026-04-15T16:00:00.000Z",
-          "end_at": "2026-04-15T18:00:00.000Z",
-          "url": "https://lu.ma/lum3x7tf",
-          "cover_url": "https://images.lumacdn.com/event-covers/zi/93c8cb44-fd53-4d49-b135-c04d1aea8746.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-YnELXEmS8KT8wlE",
-          "name": "XRP Community Night Paris",
-          "start_at": "2026-04-15T17:00:00.000Z",
-          "end_at": "2026-04-15T20:00:00.000Z",
-          "url": "https://lu.ma/wnkqmmqy",
-          "cover_url": "https://images.lumacdn.com/event-covers/e2/15c71ee0-2056-4afd-9d10-44c0c7371010.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
-          "api_id": "evt-VPwc0MnM633DEmG",
-          "name": "Bonsoir, Paris-            A Private Soiree by Paybis & Nsure",
-          "start_at": "2026-04-15T17:00:00.000Z",
-          "end_at": "2026-04-15T21:00:00.000Z",
-          "url": "https://lu.ma/bonsoirparis",
-          "cover_url": "https://images.lumacdn.com/event-covers/oc/c5a5b39c-724e-4d96-b831-2301f12fbdd9.png",
-          "location": "Temple and Chapon, 116 Rue du Temple, 75003 Paris, France"
-        },
-        {
-          "api_id": "evt-cPRH9x52yg5FoQg",
-          "name": "The Limestone Hour: Cocktails & Wine Beneath the Louvre",
-          "start_at": "2026-04-15T18:00:00.000Z",
-          "end_at": "2026-04-15T21:00:00.000Z",
-          "url": "https://lu.ma/nanpn2hr",
-          "cover_url": "https://images.lumacdn.com/event-covers/36/d88d1115-9f79-42e2-9b08-82f1670b337c.png",
-          "location": "Paris, Île-de-France"
+          "end_at": "2026-04-15T18:30:00.000Z",
+          "url": "https://lu.ma/zb3jtd41",
+          "cover_url": "https://images.lumacdn.com/event-covers/d3/98707880-e2e6-48cf-84f9-33300052d46d.png",
+          "location": ""
         }
       ]
     },
