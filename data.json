@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T20:12:11Z",
+  "last_updated": "2026-04-09T06:00:13Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -455,13 +455,13 @@
           "location": "Shangri-La Paris, 10 Av. d'Iéna, 75116 Paris, France"
         },
         {
-          "api_id": "evt-LIO3IBnDK4tJjG6",
-          "name": "Stablecoins & Tokenized Assets: A Private Wine Tasting by Dune & Visa",
+          "api_id": "evt-pz8yD5GmR7DVod5",
+          "name": "Institutional Happy Hour with Hedera and ioBuilders",
           "start_at": "2026-04-15T15:30:00.000Z",
-          "end_at": "2026-04-15T18:30:00.000Z",
-          "url": "https://lu.ma/zb3jtd41",
-          "cover_url": "https://images.lumacdn.com/event-covers/d3/98707880-e2e6-48cf-84f9-33300052d46d.png",
-          "location": ""
+          "end_at": "2026-04-15T17:30:00.000Z",
+          "url": "https://lu.ma/pbw-hedera-iobuilders",
+          "cover_url": "https://images.lumacdn.com/event-covers/7l/d52dcbfd-5906-4921-8832-d488edd08747.png",
+          "location": "Bar 8, 251 Rue Saint-Honoré, 75001 Paris, France"
         }
       ]
     },
