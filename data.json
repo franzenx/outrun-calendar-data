@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T06:00:13Z",
+  "last_updated": "2026-04-09T10:20:38Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -356,6 +356,15 @@
           "location": "Norton Rose Fulbright, 40 Rue de Courcelles, 75008 Paris, France"
         },
         {
+          "api_id": "evt-UPg84JkQq2TdETy",
+          "name": "Crypto Legislative Hackathon",
+          "start_at": "2026-04-14T14:00:00.000Z",
+          "end_at": "2026-04-14T17:00:00.000Z",
+          "url": "https://lu.ma/gjma5oi2",
+          "cover_url": "https://images.lumacdn.com/event-covers/hb/70a62272-4a91-4563-99ff-0407bf1f39b1.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
           "api_id": "evt-Rf8nEBMmWGdNScd",
           "name": "Paris Blockchain Week 2026 Main Event",
           "start_at": "2026-04-14T17:00:00.000Z",
@@ -372,15 +381,6 @@
           "url": "https://lu.ma/pbw-vip-dinner-2026",
           "cover_url": "https://images.lumacdn.com/event-covers/d8/f5d85c2a-2629-475e-a873-69de98ffed1e.png",
           "location": "Versailles, Île-de-France"
-        },
-        {
-          "api_id": "evt-UPg84JkQq2TdETy",
-          "name": "Crypto Legislative Hackathon",
-          "start_at": "2026-04-14T19:00:00.000Z",
-          "end_at": "2026-04-14T20:00:00.000Z",
-          "url": "https://lu.ma/gjma5oi2",
-          "cover_url": "https://images.lumacdn.com/event-covers/hb/70a62272-4a91-4563-99ff-0407bf1f39b1.png",
-          "location": "Paris, Île-de-France"
         },
         {
           "api_id": "evt-mVz3EiB0TkzPGvc",
