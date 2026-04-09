@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T16:48:51Z",
+  "last_updated": "2026-04-09T20:36:15Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -374,6 +374,15 @@
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
+          "api_id": "evt-0HVO7W6ndv93m9I",
+          "name": "The Circle (Paris Edition) by P2P.org & Sygnum",
+          "start_at": "2026-04-14T17:00:00.000Z",
+          "end_at": "2026-04-14T21:00:00.000Z",
+          "url": "https://lu.ma/TheCircle_ParisEdition",
+          "cover_url": "https://images.lumacdn.com/event-covers/px/1c75c305-cd0d-4c0f-b74c-bd1ee88f0ade.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
           "api_id": "evt-hoa2N31EeCy1Wll",
           "name": "VIP DINNER",
           "start_at": "2026-04-14T17:00:00.000Z",
@@ -462,15 +471,6 @@
           "url": "https://lu.ma/vx2llrvk",
           "cover_url": "https://images.lumacdn.com/event-covers/in/cc24f3fd-0e59-47cf-ba87-f4e776854c85.png",
           "location": "Shangri-La Paris, 10 Av. d'Iéna, 75116 Paris, France"
-        },
-        {
-          "api_id": "evt-pz8yD5GmR7DVod5",
-          "name": "Institutional Happy Hour with Hedera and ioBuilders",
-          "start_at": "2026-04-15T15:30:00.000Z",
-          "end_at": "2026-04-15T17:30:00.000Z",
-          "url": "https://lu.ma/pbw-hedera-iobuilders",
-          "cover_url": "https://images.lumacdn.com/event-covers/7l/d52dcbfd-5906-4921-8832-d488edd08747.png",
-          "location": "Bar 8, 251 Rue Saint-Honoré, 75001 Paris, France"
         }
       ]
     },
