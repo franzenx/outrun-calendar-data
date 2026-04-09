@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T10:20:38Z",
+  "last_updated": "2026-04-09T16:48:51Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -434,6 +434,15 @@
           "end_at": "2026-04-15T12:00:00.000Z",
           "url": "https://lu.ma/dk2cmk6b",
           "cover_url": "https://images.lumacdn.com/event-covers/rh/61e0bbce-3810-423a-bc25-9184d622caa6.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-3uC0uHgGeAOnkWr",
+          "name": "OKX Press Conference: Expanding the Future of Trading in Europe",
+          "start_at": "2026-04-15T11:00:00.000Z",
+          "end_at": "2026-04-15T12:00:00.000Z",
+          "url": "https://lu.ma/7fh5dmic",
+          "cover_url": "https://images.lumacdn.com/event-covers/37/9cf65e5f-c0fe-4bdf-a8d0-07d2d2a1126c.png",
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
