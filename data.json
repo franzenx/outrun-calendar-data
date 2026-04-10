@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T20:36:15Z",
+  "last_updated": "2026-04-10T06:19:24Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -540,6 +540,24 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
+          "api_id": "evt-WJTMce6nRiwH9Jl",
+          "name": "Token49 Week Kickoff - BitCoin Mondays by EcoX Network",
+          "start_at": "2026-04-27T15:00:00.000Z",
+          "end_at": "2026-04-27T19:00:00.000Z",
+          "url": "https://lu.ma/qyw3zwv8",
+          "cover_url": "https://images.lumacdn.com/event-covers/uq/9ae66b85-910e-453a-bfbe-6b3f6b1fc1ab.jpg",
+          "location": "Scandal Dubai, 53rd Floor - Sheraton Grand Hotel - شارع الشيخ زايد - المركز التجاري - دبي - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-w7XHRHftLrF2cFF",
+          "name": "The Vault by TRIA Finance Company & Product Presentation | Session in Russian",
+          "start_at": "2026-04-28T06:00:00.000Z",
+          "end_at": "2026-04-28T09:30:00.000Z",
+          "url": "https://lu.ma/59nd2jwv",
+          "cover_url": "https://images.lumacdn.com/event-covers/sf/fedece6b-f90b-4010-831e-50c3f7e282d7.png",
+          "location": "Address Creek Harbour, 685V+HCW - Al Kheeran First - Dubai Creek Harbour - Dubai - United Arab Emirates"
+        },
+        {
           "api_id": "evt-Xaw6lyKnWsbGA3Z",
           "name": "Global Onchain Summit            Dubai 2026",
           "start_at": "2026-04-28T06:00:00.000Z",
@@ -549,6 +567,15 @@
           "location": "Dubai, Dubai"
         },
         {
+          "api_id": "evt-8UN9UDbRVF0SkkM",
+          "name": "MENA Blockchain Week - Official Pass",
+          "start_at": "2026-04-28T06:00:00.000Z",
+          "end_at": "2026-04-28T18:00:00.000Z",
+          "url": "https://lu.ma/MENABCW",
+          "cover_url": "https://images.lumacdn.com/event-covers/hb/5c03eae2-872e-4e0b-ad7a-bf47750648e5.jpg",
+          "location": "Dubai - United Arab Emirates"
+        },
+        {
           "api_id": "evt-5PaxzAgtW3zwxhN",
           "name": "The Tokenized Future Dubai RWA Meetup by 499 & Block Street",
           "start_at": "2026-04-28T08:30:00.000Z",
@@ -556,6 +583,123 @@
           "url": "https://lu.ma/TokenizedFutureDubai",
           "cover_url": "https://images.lumacdn.com/event-covers/9z/96f9b78d-6316-45f6-a3c5-5955823df00f.png",
           "location": "دبي, دبي"
+        },
+        {
+          "api_id": "evt-FC0IWABNzO2S29Z",
+          "name": "AI & Blockchain Influencing Legal Industry",
+          "start_at": "2026-04-28T09:00:00.000Z",
+          "end_at": "2026-04-28T11:00:00.000Z",
+          "url": "https://lu.ma/en9oj99f",
+          "cover_url": "https://images.lumacdn.com/event-covers/vs/0e83acc6-112e-4663-99fe-1cdb76f08d23.png",
+          "location": "Emirates financial towers, Emirates Financial Towers - Zaa'beel Second - DIFC - Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-pMjk9w1TiJghyIb",
+          "name": "ZIGChain Summit 2026",
+          "start_at": "2026-04-28T10:00:00.000Z",
+          "end_at": "2026-04-28T16:00:00.000Z",
+          "url": "https://lu.ma/zigchainsummit",
+          "cover_url": "https://images.lumacdn.com/event-covers/ip/4bf4fe93-b804-41ba-a9ef-8e36b8d57292.png",
+          "location": "Dubai, Dubai"
+        },
+        {
+          "api_id": "evt-CV7IQTlSC3G0Dfz",
+          "name": "The Vault by TRIA Finance Company & Product Presentation | Session in English",
+          "start_at": "2026-04-28T10:00:00.000Z",
+          "end_at": "2026-04-28T12:00:00.000Z",
+          "url": "https://lu.ma/lx2b5sbd",
+          "cover_url": "https://images.lumacdn.com/event-covers/sf/fedece6b-f90b-4010-831e-50c3f7e282d7.png",
+          "location": "The St. Regis Downtown Dubai, Marasi Dr - Business Bay - Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-hiOSjv7zXeJXUDG",
+          "name": "Where Builders & Deal-Makers Meet: TOKEN2049",
+          "start_at": "2026-04-28T14:00:00.000Z",
+          "end_at": "2026-04-28T18:00:00.000Z",
+          "url": "https://lu.ma/builders-meet-dubai",
+          "cover_url": "https://images.lumacdn.com/event-covers/sk/66e88249-3b2d-42cc-8620-3baeeaee8a6f.jpg",
+          "location": "Dubai, Dubai"
+        },
+        {
+          "api_id": "evt-la3X6vBIhmOBBOn",
+          "name": "THE SHOW GOES ON - Arts DAO (Dubai | 29–30 April 2026)",
+          "start_at": "2026-04-29T07:00:00.000Z",
+          "end_at": "2026-04-30T19:00:00.000Z",
+          "url": "https://lu.ma/deoz6r34",
+          "cover_url": "https://images.lumacdn.com/event-covers/ef/fe820791-7e10-4383-93cf-2213be329692.jpg",
+          "location": "Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-Z0lAGbxhptbxk2t",
+          "name": "Bitcoin Hub. Market Reload.",
+          "start_at": "2026-04-29T07:00:00.000Z",
+          "end_at": "2026-04-29T12:00:00.000Z",
+          "url": "https://lu.ma/s483wjr2",
+          "cover_url": "https://images.lumacdn.com/event-covers/1h/06a4d75d-02e5-494c-a085-97ca2110e448.jpg",
+          "location": "Dubai, Dubai"
+        },
+        {
+          "api_id": "evt-3CJPc8IRAPcBnhU",
+          "name": "Media Accelerator & Startup Cohort",
+          "start_at": "2026-04-29T09:30:00.000Z",
+          "end_at": "2026-04-30T09:00:00.000Z",
+          "url": "https://lu.ma/cm3bj9jg",
+          "cover_url": "https://images.lumacdn.com/event-covers/v0/0ac54cef-9dfb-4eeb-ac47-c19fbe5f59de.jpg",
+          "location": "Madinat Jumeirah, Al Sufouh 1 - Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-AuZjmsbFEqqcm3I",
+          "name": "Token49 Side Event - Blockchain Wednesday by Ecox Network",
+          "start_at": "2026-04-29T15:00:00.000Z",
+          "end_at": "2026-04-29T16:00:00.000Z",
+          "url": "https://lu.ma/eq1qbkqz",
+          "cover_url": "https://images.lumacdn.com/event-covers/vy/0cce38d6-456e-4163-ac7c-a722673f29af.jpg",
+          "location": "Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-mJnk02KTjcMXAGi",
+          "name": "Media Accelerator & Startup Cohort",
+          "start_at": "2026-04-29T18:30:00.000Z",
+          "end_at": "2026-04-30T19:30:00.000Z",
+          "url": "https://lu.ma/ucp5z8nd",
+          "cover_url": "https://images.lumacdn.com/event-covers/fg/4e444662-90c8-4455-ab0e-75558d0991a8.jpg",
+          "location": "Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-f68NKlFHCBuylpF",
+          "name": "RWA MENA",
+          "start_at": "2026-04-30T08:00:00.000Z",
+          "end_at": "2026-04-30T09:00:00.000Z",
+          "url": "https://lu.ma/xuubwyn0",
+          "cover_url": "https://images.unsplash.com/photo-1527288185712-063ee75c34ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0N3x8ZHViYWklMjBza3lzY3JhcGVyc3xlbnwwfHx8fDE3NzA4ODY2MjV8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+          "location": "AIXL8 Research & Development Hub and Accelerator, Business Bay - Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-X64PJaVE9EbTF8V",
+          "name": "Victus Global: Startup Funding Demo Day - Token2049 Dubai Side Event",
+          "start_at": "2026-04-30T09:00:00.000Z",
+          "end_at": "2026-04-30T13:00:00.000Z",
+          "url": "https://lu.ma/a6dpqxuf",
+          "cover_url": "https://images.lumacdn.com/event-covers/5j/d3da39c8-bd03-40c0-9924-9a04f78c832d.png",
+          "location": "Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-fwBLQsGcMh6hERr",
+          "name": "Capital Gathering: Prediction Markets",
+          "start_at": "2026-04-30T14:00:00.000Z",
+          "end_at": "2026-04-30T17:00:00.000Z",
+          "url": "https://lu.ma/o84gp4bm",
+          "cover_url": "https://images.lumacdn.com/event-covers/z6/46341d65-5e78-41e5-97cf-551dc53a9929.png",
+          "location": "Dubai, Dubai"
+        },
+        {
+          "api_id": "evt-nltzWDrWYVDmYDQ",
+          "name": "Token49 Side Event - AI & Blockchain Thursdays by EcoX Network",
+          "start_at": "2026-04-30T15:00:00.000Z",
+          "end_at": "2026-04-30T19:00:00.000Z",
+          "url": "https://lu.ma/t78ru6q9",
+          "cover_url": "https://images.lumacdn.com/gallery-images/x1/11a76033-3f05-479f-97e3-7a140bf272ff",
+          "location": "Dubai - United Arab Emirates"
         },
         {
           "api_id": "evt-ohEvdOWKtbl6A4j",
@@ -574,15 +718,6 @@
           "url": "https://lu.ma/q9fga8om",
           "cover_url": "https://images.lumacdn.com/event-covers/yz/2dd19e7f-aae7-46c8-91ea-a09b083bf89e.png",
           "location": "Miami, Florida"
-        },
-        {
-          "api_id": "evt-N7aIok5arp1ECB9",
-          "name": "Tacnode APEX @ Token2049 Dubai",
-          "start_at": "2027-04-20T14:00:00.000Z",
-          "end_at": "2027-04-20T19:00:00.000Z",
-          "url": "https://lu.ma/5rcaej1m",
-          "cover_url": "https://images.lumacdn.com/event-covers/xq/2ef0dc1b-e263-4cad-a527-df338785f0af.jpg",
-          "location": "Dubai - United Arab Emirates"
         }
       ]
     },
