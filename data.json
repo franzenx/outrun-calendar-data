@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T06:19:24Z",
+  "last_updated": "2026-04-10T14:41:44Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -455,6 +455,15 @@
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
+          "api_id": "evt-2UZluldGD49mMUg",
+          "name": "Investing at Institutional Scale",
+          "start_at": "2026-04-15T13:00:00.000Z",
+          "end_at": "2026-04-15T14:00:00.000Z",
+          "url": "https://lu.ma/cfcrpndz",
+          "cover_url": "https://images.lumacdn.com/event-covers/5f/7dd79cc6-0e3c-41c5-88f6-86dba7d27229.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
           "api_id": "evt-MlnwGVAy3b7TCcy",
           "name": "Fireblocks House at the Connect Lounge",
           "start_at": "2026-04-15T13:30:00.000Z",
@@ -565,15 +574,6 @@
           "url": "https://lu.ma/y64u2fu5",
           "cover_url": "https://images.lumacdn.com/event-covers/4x/b2fbcbd3-78e7-4eb1-811a-71b755c90bad.png",
           "location": "Dubai, Dubai"
-        },
-        {
-          "api_id": "evt-8UN9UDbRVF0SkkM",
-          "name": "MENA Blockchain Week - Official Pass",
-          "start_at": "2026-04-28T06:00:00.000Z",
-          "end_at": "2026-04-28T18:00:00.000Z",
-          "url": "https://lu.ma/MENABCW",
-          "cover_url": "https://images.lumacdn.com/event-covers/hb/5c03eae2-872e-4e0b-ad7a-bf47750648e5.jpg",
-          "location": "Dubai - United Arab Emirates"
         },
         {
           "api_id": "evt-5PaxzAgtW3zwxhN",
@@ -718,6 +718,15 @@
           "url": "https://lu.ma/q9fga8om",
           "cover_url": "https://images.lumacdn.com/event-covers/yz/2dd19e7f-aae7-46c8-91ea-a09b083bf89e.png",
           "location": "Miami, Florida"
+        },
+        {
+          "api_id": "evt-8UN9UDbRVF0SkkM",
+          "name": "MENA Blockchain Week - Official Pass",
+          "start_at": "2026-05-18T06:00:00.000Z",
+          "end_at": "2026-05-18T18:00:00.000Z",
+          "url": "https://lu.ma/MENABCW",
+          "cover_url": "https://images.lumacdn.com/event-covers/hb/5c03eae2-872e-4e0b-ad7a-bf47750648e5.jpg",
+          "location": "Dubai - United Arab Emirates"
         }
       ]
     },
