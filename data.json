@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T06:10:52Z",
+  "last_updated": "2026-04-12T14:10:46Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -320,15 +320,6 @@
       "luma_slug": "parisblockchainweek",
       "events": [
         {
-          "api_id": "evt-wybXvMDF6wdGFpH",
-          "name": "HACK THE BLOCK 2026 Paris Blockchain Week XRPL Hackathon",
-          "start_at": "2026-04-11T06:30:00.000Z",
-          "end_at": "2026-04-12T19:00:00.000Z",
-          "url": "https://lu.ma/Hacktheblock2026-PBW-XRPL",
-          "cover_url": "https://images.lumacdn.com/event-covers/14/ad53a238-e588-4ac6-bb20-9a526551429c.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
           "api_id": "evt-fheV8R8ZfdDfsbr",
           "name": "Why Onchain Exposure is No Longer Optional",
           "start_at": "2026-04-14T06:30:00.000Z",
@@ -480,6 +471,15 @@
           "url": "https://lu.ma/vx2llrvk",
           "cover_url": "https://images.lumacdn.com/event-covers/in/cc24f3fd-0e59-47cf-ba87-f4e776854c85.png",
           "location": "Shangri-La Paris, 10 Av. d'Iéna, 75116 Paris, France"
+        },
+        {
+          "api_id": "evt-GUxr9CRoU1TX3Qa",
+          "name": "Babes net x RootstockCollective Korean Apero [Women Only Event]",
+          "start_at": "2026-04-15T15:00:00.000Z",
+          "end_at": "2026-04-15T17:00:00.000Z",
+          "url": "https://lu.ma/nso3v4t4",
+          "cover_url": "https://images.lumacdn.com/event-covers/67/c143a885-c8ef-419f-a5f4-69f32780b072.png",
+          "location": "Paris, Île-de-France"
         }
       ]
     },
@@ -612,15 +612,6 @@
           "location": "The St. Regis Downtown Dubai, Marasi Dr - Business Bay - Dubai - United Arab Emirates"
         },
         {
-          "api_id": "evt-hiOSjv7zXeJXUDG",
-          "name": "Where Builders & Deal-Makers Meet: TOKEN2049",
-          "start_at": "2026-04-28T14:00:00.000Z",
-          "end_at": "2026-04-28T18:00:00.000Z",
-          "url": "https://lu.ma/builders-meet-dubai",
-          "cover_url": "https://images.lumacdn.com/event-covers/sk/66e88249-3b2d-42cc-8620-3baeeaee8a6f.jpg",
-          "location": "Dubai, Dubai"
-        },
-        {
           "api_id": "evt-la3X6vBIhmOBBOn",
           "name": "THE SHOW GOES ON - Arts DAO (Dubai | 29–30 April 2026)",
           "start_at": "2026-04-29T07:00:00.000Z",
@@ -726,6 +717,15 @@
           "end_at": "2026-05-18T18:00:00.000Z",
           "url": "https://lu.ma/MENABCW",
           "cover_url": "https://images.lumacdn.com/event-covers/hb/5c03eae2-872e-4e0b-ad7a-bf47750648e5.jpg",
+          "location": "Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-N7aIok5arp1ECB9",
+          "name": "Tacnode APEX @ Token2049 Dubai",
+          "start_at": "2027-04-20T14:00:00.000Z",
+          "end_at": "2027-04-20T19:00:00.000Z",
+          "url": "https://lu.ma/5rcaej1m",
+          "cover_url": "https://images.lumacdn.com/event-covers/xq/2ef0dc1b-e263-4cad-a527-df338785f0af.jpg",
           "location": "Dubai - United Arab Emirates"
         }
       ]
