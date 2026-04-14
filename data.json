@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T06:19:14Z",
+  "last_updated": "2026-04-14T15:57:11Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -320,24 +320,6 @@
       "luma_slug": "parisblockchainweek",
       "events": [
         {
-          "api_id": "evt-fheV8R8ZfdDfsbr",
-          "name": "Why Onchain Exposure is No Longer Optional",
-          "start_at": "2026-04-14T06:30:00.000Z",
-          "end_at": "2026-04-14T09:00:00.000Z",
-          "url": "https://lu.ma/thebigwhale-april",
-          "cover_url": "https://images.lumacdn.com/event-covers/e4/beb54c6e-e866-41a1-b334-d5e037b4952a.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
-          "api_id": "evt-CH6c8ECQrjExX3t",
-          "name": "L'Année de la Crypto 2026",
-          "start_at": "2026-04-14T06:30:00.000Z",
-          "end_at": "2026-04-14T12:00:00.000Z",
-          "url": "https://lu.ma/8hbfh6jg",
-          "cover_url": "https://images.lumacdn.com/event-covers/m8/390400ef-82be-4fd6-aa27-29c1e6fdb7ec.png",
-          "location": "47 Av. de Wagram, 75017 Paris, France"
-        },
-        {
           "api_id": "evt-oh3sJBEX7psFjzK",
           "name": "The Future of Money and Market Infrastructure - Merkle Meet 2026 Paris Hosted by Norton Rose Fulbright",
           "start_at": "2026-04-14T07:30:00.000Z",
@@ -480,6 +462,24 @@
           "url": "https://lu.ma/nso3v4t4",
           "cover_url": "https://images.lumacdn.com/event-covers/67/c143a885-c8ef-419f-a5f4-69f32780b072.png",
           "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-pz8yD5GmR7DVod5",
+          "name": "Institutional Happy Hour with Hedera and ioBuilders",
+          "start_at": "2026-04-15T15:30:00.000Z",
+          "end_at": "2026-04-15T17:30:00.000Z",
+          "url": "https://lu.ma/pbw-hedera-iobuilders",
+          "cover_url": "https://images.lumacdn.com/event-covers/7l/d52dcbfd-5906-4921-8832-d488edd08747.png",
+          "location": "Bar 8, 251 Rue Saint-Honoré, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-421niEPzMsSeHJA",
+          "name": "MAVAN: Made in America VAlidator Network Workshop",
+          "start_at": "2026-04-15T15:30:00.000Z",
+          "end_at": "2026-04-15T16:30:00.000Z",
+          "url": "https://lu.ma/q142rbe7",
+          "cover_url": "https://images.lumacdn.com/event-covers/ww/eda1c053-5a40-484a-bca8-67ef86e8de33.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         }
       ]
     },
@@ -680,7 +680,7 @@
           "start_at": "2026-04-30T14:00:00.000Z",
           "end_at": "2026-04-30T17:00:00.000Z",
           "url": "https://lu.ma/o84gp4bm",
-          "cover_url": "https://images.lumacdn.com/event-covers/z6/46341d65-5e78-41e5-97cf-551dc53a9929.png",
+          "cover_url": "https://images.lumacdn.com/event-covers/mj/e8693f9d-a27c-47b2-b219-9130bb38c077.png",
           "location": "Dubai, Dubai"
         },
         {
