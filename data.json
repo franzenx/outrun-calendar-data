@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T07:20:16Z",
+  "last_updated": "2026-04-15T13:03:40Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -347,51 +347,6 @@
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
-          "api_id": "evt-u7gSl5LE9V78y7q",
-          "name": "KOL Capital Private Event & KOL Awards",
-          "start_at": "2026-04-15T08:00:00.000Z",
-          "end_at": "2026-04-15T10:00:00.000Z",
-          "url": "https://lu.ma/zyu3c41y",
-          "cover_url": "https://images.lumacdn.com/event-covers/0h/fcc8027a-b357-44a0-95bb-6f62971b762a.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-skP9uV3WNOHUCjg",
-          "name": "The Convergence of Crypto and AI",
-          "start_at": "2026-04-15T08:00:00.000Z",
-          "end_at": "2026-04-15T09:00:00.000Z",
-          "url": "https://lu.ma/ofkjambd",
-          "cover_url": "https://images.lumacdn.com/event-covers/x6/95495a1a-3036-4541-b1ab-45586adc90de.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-rm59Vw0n9YopcLp",
-          "name": "The Odds: Prediction Markets Live",
-          "start_at": "2026-04-15T10:30:00.000Z",
-          "end_at": "2026-04-15T13:00:00.000Z",
-          "url": "https://lu.ma/q0u6qawh",
-          "cover_url": "https://images.lumacdn.com/event-covers/kd/841623db-f82b-4a22-8095-1611ea58a808.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-ZA2lridg9DdsNcO",
-          "name": "Stablecoin & Payment Infrastructure Reception & Fireside Chat powered by zerohash & Blockdaemon",
-          "start_at": "2026-04-15T10:30:00.000Z",
-          "end_at": "2026-04-15T12:00:00.000Z",
-          "url": "https://lu.ma/dk2cmk6b",
-          "cover_url": "https://images.lumacdn.com/event-covers/m1/13a523de-67b7-41dd-8314-9a316e10ac9b.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-3uC0uHgGeAOnkWr",
-          "name": "OKX Press Conference: Expanding the Future of Trading in Europe",
-          "start_at": "2026-04-15T11:00:00.000Z",
-          "end_at": "2026-04-15T12:00:00.000Z",
-          "url": "https://lu.ma/7fh5dmic",
-          "cover_url": "https://images.lumacdn.com/event-covers/37/9cf65e5f-c0fe-4bdf-a8d0-07d2d2a1126c.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
           "api_id": "evt-2UZluldGD49mMUg",
           "name": "Investing at Institutional Scale",
           "start_at": "2026-04-15T13:00:00.000Z",
@@ -480,6 +435,51 @@
           "url": "https://lu.ma/wnkqmmqy",
           "cover_url": "https://images.lumacdn.com/event-covers/e2/15c71ee0-2056-4afd-9d10-44c0c7371010.png",
           "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-VPwc0MnM633DEmG",
+          "name": "Bonsoir, Paris-            A Private Soiree by Paybis & Nsure",
+          "start_at": "2026-04-15T17:00:00.000Z",
+          "end_at": "2026-04-15T21:00:00.000Z",
+          "url": "https://lu.ma/bonsoirparis",
+          "cover_url": "https://images.lumacdn.com/event-covers/oc/c5a5b39c-724e-4d96-b831-2301f12fbdd9.png",
+          "location": "Temple and Chapon, 116 Rue du Temple, 75003 Paris, France"
+        },
+        {
+          "api_id": "evt-5xHTaWZvMhNaufn",
+          "name": "Private PayFi Dinner | Utila x Arf x Outrun | Paris Blockchain Week",
+          "start_at": "2026-04-15T18:00:00.000Z",
+          "end_at": "2026-04-15T22:00:00.000Z",
+          "url": "https://lu.ma/9awzi2a1",
+          "cover_url": "https://images.lumacdn.com/event-covers/p0/01da189b-7647-485e-b5cc-82f96612c047.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-cPRH9x52yg5FoQg",
+          "name": "The Limestone Hour: Cocktails & Wine Beneath the Louvre",
+          "start_at": "2026-04-15T18:00:00.000Z",
+          "end_at": "2026-04-15T21:00:00.000Z",
+          "url": "https://lu.ma/nanpn2hr",
+          "cover_url": "https://images.lumacdn.com/event-covers/g1/fc9b8370-80d2-424b-90e6-009a30f50a54.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-RXbZzHRFX7XJLum",
+          "name": "🏃‍♀️ TRM Run Club @ Paris Blockchain Week",
+          "start_at": "2026-04-16T05:00:00.000Z",
+          "end_at": "2026-04-16T06:00:00.000Z",
+          "url": "https://lu.ma/sm6tpyme",
+          "cover_url": "https://images.lumacdn.com/event-covers/5z/09d957e5-c218-4754-bb5c-92a9f98b26e4.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-tQIBetPN9bZBXHR",
+          "name": "INVESTORS BREAKFAST",
+          "start_at": "2026-04-16T06:30:00.000Z",
+          "end_at": "2026-04-16T07:30:00.000Z",
+          "url": "https://lu.ma/xx442g1u",
+          "cover_url": "https://images.lumacdn.com/event-covers/2r/516b2b91-2335-4531-a6c4-6c841556f52e.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         }
       ]
     },
@@ -612,15 +612,6 @@
           "location": "The St. Regis Downtown Dubai, Marasi Dr - Business Bay - Dubai - United Arab Emirates"
         },
         {
-          "api_id": "evt-la3X6vBIhmOBBOn",
-          "name": "THE SHOW GOES ON - Arts DAO (Dubai | 29–30 April 2026)",
-          "start_at": "2026-04-29T07:00:00.000Z",
-          "end_at": "2026-04-30T19:00:00.000Z",
-          "url": "https://lu.ma/deoz6r34",
-          "cover_url": "https://images.lumacdn.com/event-covers/ef/fe820791-7e10-4383-93cf-2213be329692.jpg",
-          "location": "Dubai - United Arab Emirates"
-        },
-        {
           "api_id": "evt-Z0lAGbxhptbxk2t",
           "name": "Bitcoin Hub. Market Reload.",
           "start_at": "2026-04-29T07:00:00.000Z",
@@ -700,6 +691,15 @@
           "url": "https://lu.ma/rwasummitdubai",
           "cover_url": "https://images.lumacdn.com/event-covers/s4/5e4cf07f-0655-4031-81ab-bd8df43185a8.png",
           "location": "Al Sufouh - Dubai Knowledge Park - Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-la3X6vBIhmOBBOn",
+          "name": "THE SHOW GOES ON: Open Day | Arts DAO (Dubai)",
+          "start_at": "2026-05-02T07:00:00.000Z",
+          "end_at": "2026-05-02T14:00:00.000Z",
+          "url": "https://lu.ma/deoz6r34",
+          "cover_url": "https://images.lumacdn.com/event-covers/g9/11b9baf8-29bf-4a4a-927f-f8b02cf949c3.jpg",
+          "location": "دبي, دبي"
         },
         {
           "api_id": "evt-fr9dZBrDwyZzW0u",
