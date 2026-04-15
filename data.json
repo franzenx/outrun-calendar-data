@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T13:03:40Z",
+  "last_updated": "2026-04-15T19:02:42Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -347,24 +347,6 @@
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
-          "api_id": "evt-2UZluldGD49mMUg",
-          "name": "Investing at Institutional Scale",
-          "start_at": "2026-04-15T13:00:00.000Z",
-          "end_at": "2026-04-15T14:00:00.000Z",
-          "url": "https://lu.ma/cfcrpndz",
-          "cover_url": "https://images.lumacdn.com/event-covers/5f/7dd79cc6-0e3c-41c5-88f6-86dba7d27229.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-MlnwGVAy3b7TCcy",
-          "name": "Fireblocks House at the Connect Lounge",
-          "start_at": "2026-04-15T13:30:00.000Z",
-          "end_at": "2026-04-15T15:30:00.000Z",
-          "url": "https://lu.ma/2il79h81",
-          "cover_url": "https://images.lumacdn.com/event-covers/88/72c31698-43fe-4b44-9942-579c5370565d.jpg",
-          "location": ""
-        },
-        {
           "api_id": "evt-EHsPQnTULmTPvHn",
           "name": "LONGITUDE by Cointelegraph x OKX, 9th edition",
           "start_at": "2026-04-15T15:00:00.000Z",
@@ -372,51 +354,6 @@
           "url": "https://lu.ma/vx2llrvk",
           "cover_url": "https://images.lumacdn.com/event-covers/in/cc24f3fd-0e59-47cf-ba87-f4e776854c85.png",
           "location": "Shangri-La Paris, 10 Av. d'Iéna, 75116 Paris, France"
-        },
-        {
-          "api_id": "evt-GUxr9CRoU1TX3Qa",
-          "name": "Babes net x RootstockCollective Korean Apero [Women Only Event]",
-          "start_at": "2026-04-15T15:00:00.000Z",
-          "end_at": "2026-04-15T17:00:00.000Z",
-          "url": "https://lu.ma/nso3v4t4",
-          "cover_url": "https://images.lumacdn.com/event-covers/67/c143a885-c8ef-419f-a5f4-69f32780b072.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
-          "api_id": "evt-pz8yD5GmR7DVod5",
-          "name": "Institutional Happy Hour with Hedera and ioBuilders",
-          "start_at": "2026-04-15T15:30:00.000Z",
-          "end_at": "2026-04-15T17:30:00.000Z",
-          "url": "https://lu.ma/pbw-hedera-iobuilders",
-          "cover_url": "https://images.lumacdn.com/event-covers/7l/d52dcbfd-5906-4921-8832-d488edd08747.png",
-          "location": "Bar 8, 251 Rue Saint-Honoré, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-421niEPzMsSeHJA",
-          "name": "MAVAN: Made in America VAlidator Network Workshop",
-          "start_at": "2026-04-15T15:30:00.000Z",
-          "end_at": "2026-04-15T16:30:00.000Z",
-          "url": "https://lu.ma/q142rbe7",
-          "cover_url": "https://images.lumacdn.com/event-covers/ww/eda1c053-5a40-484a-bca8-67ef86e8de33.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-LIO3IBnDK4tJjG6",
-          "name": "Stablecoins & Tokenized Assets: A Private Wine Tasting by Dune, Visa & Utila",
-          "start_at": "2026-04-15T16:00:00.000Z",
-          "end_at": "2026-04-15T19:00:00.000Z",
-          "url": "https://lu.ma/zb3jtd41",
-          "cover_url": "https://images.lumacdn.com/event-covers/02/22eca03f-eba6-472d-aae8-a51e0a223ac1.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
-          "api_id": "evt-SdWPSRfMW6umyEv",
-          "name": "Blockchain Leaders Connect by Broadridge",
-          "start_at": "2026-04-15T16:00:00.000Z",
-          "end_at": "2026-04-15T18:00:00.000Z",
-          "url": "https://lu.ma/lum3x7tf",
-          "cover_url": "https://images.lumacdn.com/event-covers/zi/93c8cb44-fd53-4d49-b135-c04d1aea8746.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
           "api_id": "evt-D13AgWrO0xZGMqP",
@@ -480,6 +417,78 @@
           "url": "https://lu.ma/xx442g1u",
           "cover_url": "https://images.lumacdn.com/event-covers/2r/516b2b91-2335-4531-a6c4-6c841556f52e.png",
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-R4mkcoVqFwUVFag",
+          "name": "CXO Summit",
+          "start_at": "2026-04-16T08:00:00.000Z",
+          "end_at": "2026-04-16T10:00:00.000Z",
+          "url": "https://lu.ma/0msuw3da",
+          "cover_url": "https://images.lumacdn.com/event-covers/mp/c3c90829-d13f-41a5-b705-e3114768447d.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-IDE2ADL26r6BUmI",
+          "name": "Start In Block Startup Competition",
+          "start_at": "2026-04-16T08:00:00.000Z",
+          "end_at": "2026-04-16T15:00:00.000Z",
+          "url": "https://lu.ma/aud1migv",
+          "cover_url": "https://images.lumacdn.com/event-covers/1o/160d3fad-1b0c-45c0-b1ef-ef669520d389.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-ldvS3fw4PEg2HhQ",
+          "name": "Foundation CFO Lunch",
+          "start_at": "2026-04-16T10:30:00.000Z",
+          "end_at": "2026-04-16T13:00:00.000Z",
+          "url": "https://lu.ma/ingzccqh",
+          "cover_url": "https://images.lumacdn.com/event-covers/7w/0a302bad-793b-4c64-aeac-d4edd4386309.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-kvMGnAA26YLFZia",
+          "name": "Bitcoin Treasury Networking & Fireside Chat",
+          "start_at": "2026-04-16T10:30:00.000Z",
+          "end_at": "2026-04-16T12:30:00.000Z",
+          "url": "https://lu.ma/d4qe9rua",
+          "cover_url": "https://images.lumacdn.com/event-covers/ar/d82c3841-e77f-465f-9291-f0409fc949aa.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-DFgymm690CnXGG5",
+          "name": "RWA & Tokenization",
+          "start_at": "2026-04-16T13:00:00.000Z",
+          "end_at": "2026-04-16T15:00:00.000Z",
+          "url": "https://lu.ma/skgbq8er",
+          "cover_url": "https://images.lumacdn.com/event-covers/9a/5b90a2c7-dc85-4c15-a45a-968c1ce6cabe.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-jGXLztEXlwkx9ex",
+          "name": "Bybit EU X Xpollens - Paris Blockchain Week Connect Lounge",
+          "start_at": "2026-04-16T14:00:00.000Z",
+          "end_at": "2026-04-16T18:00:00.000Z",
+          "url": "https://lu.ma/zqvxph50",
+          "cover_url": "https://images.lumacdn.com/event-covers/fu/403b8fb1-b295-4d25-9fe0-858b65b2e0be.png",
+          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-GbYSr2IRckiaTZJ",
+          "name": "Hyperliquid Paris | Liquid Circle Apero @ PBW",
+          "start_at": "2026-04-16T14:00:00.000Z",
+          "end_at": "2026-04-16T17:00:00.000Z",
+          "url": "https://lu.ma/238n1o8c",
+          "cover_url": "https://images.lumacdn.com/event-covers/km/18e8dfa0-b6f4-4145-94b7-c1cefe2aa5f9.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-6f7F4Y7WMQ8ppSN",
+          "name": "VIP Institutional Soiree w/ Halborn, BSV, Casper, Blockaid & Liquid Loans",
+          "start_at": "2026-04-16T16:00:00.000Z",
+          "end_at": "2026-04-16T18:00:00.000Z",
+          "url": "https://lu.ma/pbw26",
+          "cover_url": "https://images.lumacdn.com/event-covers/ls/0af5aac5-7b5e-4b71-8c21-962442b86b2f.png",
+          "location": "Les Caves du Louvre, 52 Rue de l'Arbre Sec, 75001 Paris, France"
         }
       ]
     },
