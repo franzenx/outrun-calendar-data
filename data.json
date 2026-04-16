@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T07:20:32Z",
+  "last_updated": "2026-04-16T13:10:00Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -320,48 +320,12 @@
       "luma_slug": "parisblockchainweek",
       "events": [
         {
-          "api_id": "evt-tQIBetPN9bZBXHR",
-          "name": "INVESTORS BREAKFAST",
-          "start_at": "2026-04-16T06:30:00.000Z",
-          "end_at": "2026-04-16T07:30:00.000Z",
-          "url": "https://lu.ma/xx442g1u",
-          "cover_url": "https://images.lumacdn.com/event-covers/2r/516b2b91-2335-4531-a6c4-6c841556f52e.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-R4mkcoVqFwUVFag",
-          "name": "CXO Summit",
-          "start_at": "2026-04-16T08:00:00.000Z",
-          "end_at": "2026-04-16T10:00:00.000Z",
-          "url": "https://lu.ma/0msuw3da",
-          "cover_url": "https://images.lumacdn.com/event-covers/mp/c3c90829-d13f-41a5-b705-e3114768447d.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
           "api_id": "evt-IDE2ADL26r6BUmI",
           "name": "Start In Block Startup Competition",
           "start_at": "2026-04-16T08:00:00.000Z",
           "end_at": "2026-04-16T15:00:00.000Z",
           "url": "https://lu.ma/aud1migv",
           "cover_url": "https://images.lumacdn.com/event-covers/1o/160d3fad-1b0c-45c0-b1ef-ef669520d389.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-ldvS3fw4PEg2HhQ",
-          "name": "Foundation CFO Lunch",
-          "start_at": "2026-04-16T10:30:00.000Z",
-          "end_at": "2026-04-16T13:00:00.000Z",
-          "url": "https://lu.ma/ingzccqh",
-          "cover_url": "https://images.lumacdn.com/event-covers/7w/0a302bad-793b-4c64-aeac-d4edd4386309.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
-          "api_id": "evt-kvMGnAA26YLFZia",
-          "name": "Bitcoin Treasury Networking & Fireside Chat",
-          "start_at": "2026-04-16T10:30:00.000Z",
-          "end_at": "2026-04-16T12:30:00.000Z",
-          "url": "https://lu.ma/d4qe9rua",
-          "cover_url": "https://images.lumacdn.com/event-covers/ar/d82c3841-e77f-465f-9291-f0409fc949aa.png",
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
@@ -576,15 +540,6 @@
           "location": "The St. Regis Downtown Dubai, Marasi Dr - Business Bay - Dubai - United Arab Emirates"
         },
         {
-          "api_id": "evt-Z0lAGbxhptbxk2t",
-          "name": "Bitcoin Hub. Market Reload.",
-          "start_at": "2026-04-29T07:00:00.000Z",
-          "end_at": "2026-04-29T12:00:00.000Z",
-          "url": "https://lu.ma/s483wjr2",
-          "cover_url": "https://images.lumacdn.com/event-covers/1h/06a4d75d-02e5-494c-a085-97ca2110e448.jpg",
-          "location": "Dubai, Dubai"
-        },
-        {
           "api_id": "evt-3CJPc8IRAPcBnhU",
           "name": "Media Accelerator & Startup Cohort",
           "start_at": "2026-04-29T09:30:00.000Z",
@@ -610,15 +565,6 @@
           "url": "https://lu.ma/ucp5z8nd",
           "cover_url": "https://images.lumacdn.com/event-covers/fg/4e444662-90c8-4455-ab0e-75558d0991a8.jpg",
           "location": "Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-f68NKlFHCBuylpF",
-          "name": "RWA MENA",
-          "start_at": "2026-04-30T08:00:00.000Z",
-          "end_at": "2026-04-30T09:00:00.000Z",
-          "url": "https://lu.ma/xuubwyn0",
-          "cover_url": "https://images.unsplash.com/photo-1527288185712-063ee75c34ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0N3x8ZHViYWklMjBza3lzY3JhcGVyc3xlbnwwfHx8fDE3NzA4ODY2MjV8Mg&ixlib=rb-4.1.0&q=80&w=1080",
-          "location": "AIXL8 Research & Development Hub and Accelerator, Business Bay - Dubai - United Arab Emirates"
         },
         {
           "api_id": "evt-X64PJaVE9EbTF8V",
