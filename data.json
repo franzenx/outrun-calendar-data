@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T01:51:51Z",
+  "last_updated": "2026-04-16T07:20:32Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -319,42 +319,6 @@
       "opportunity": "MiCA regulatory intelligence (Macron keynote); EU institutional BD; CySEC CIF partner meetings",
       "luma_slug": "parisblockchainweek",
       "events": [
-        {
-          "api_id": "evt-Rf8nEBMmWGdNScd",
-          "name": "Paris Blockchain Week 2026 Main Event",
-          "start_at": "2026-04-15T06:00:00.000Z",
-          "end_at": "2026-04-16T17:00:00.000Z",
-          "url": "https://lu.ma/ppmfzmvu",
-          "cover_url": "https://images.lumacdn.com/event-covers/63/eef76577-23d4-4abc-931c-777d2dda9ce6.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-mVz3EiB0TkzPGvc",
-          "name": "PRO Access To Paris Blockchain Week - 2026",
-          "start_at": "2026-04-15T06:00:00.000Z",
-          "end_at": "2026-04-16T17:00:00.000Z",
-          "url": "https://lu.ma/mm2o9ox4",
-          "cover_url": "https://images.lumacdn.com/event-covers/vl/25485760-5b0e-459a-bbbd-1bff45efb16b.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-lq1W2lpHUDSqGaa",
-          "name": "🎙 Flight3 Media House @ PBW",
-          "start_at": "2026-04-15T07:00:00.000Z",
-          "end_at": "2026-04-16T14:00:00.000Z",
-          "url": "https://lu.ma/6lccm192",
-          "cover_url": "https://images.lumacdn.com/event-covers/6v/bf9ecbbe-199e-4593-bb6b-7ffc7e553bab.png",
-          "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
-        },
-        {
-          "api_id": "evt-RXbZzHRFX7XJLum",
-          "name": "🏃‍♀️ TRM Run Club @ Paris Blockchain Week",
-          "start_at": "2026-04-16T05:00:00.000Z",
-          "end_at": "2026-04-16T06:00:00.000Z",
-          "url": "https://lu.ma/sm6tpyme",
-          "cover_url": "https://images.lumacdn.com/event-covers/5z/09d957e5-c218-4754-bb5c-92a9f98b26e4.png",
-          "location": "Paris, Île-de-France"
-        },
         {
           "api_id": "evt-tQIBetPN9bZBXHR",
           "name": "INVESTORS BREAKFAST",
