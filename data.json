@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T19:02:42Z",
+  "last_updated": "2026-04-16T01:51:51Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -347,60 +347,6 @@
           "location": "Carrousel du Louvre, 99 Rue de Rivoli, 75001 Paris, France"
         },
         {
-          "api_id": "evt-EHsPQnTULmTPvHn",
-          "name": "LONGITUDE by Cointelegraph x OKX, 9th edition",
-          "start_at": "2026-04-15T15:00:00.000Z",
-          "end_at": "2026-04-15T20:30:00.000Z",
-          "url": "https://lu.ma/vx2llrvk",
-          "cover_url": "https://images.lumacdn.com/event-covers/in/cc24f3fd-0e59-47cf-ba87-f4e776854c85.png",
-          "location": "Shangri-La Paris, 10 Av. d'Iéna, 75116 Paris, France"
-        },
-        {
-          "api_id": "evt-D13AgWrO0xZGMqP",
-          "name": "PBW Builders Night",
-          "start_at": "2026-04-15T16:30:00.000Z",
-          "end_at": "2026-04-15T21:30:00.000Z",
-          "url": "https://lu.ma/c4y6ny7p",
-          "cover_url": "https://images.lumacdn.com/event-covers/ig/d9d516a1-6edf-44d8-9145-7f8e8095084b.png",
-          "location": "Four Seasons Hotel George V, Paris, 31 Av. George V, 75008 Paris, France"
-        },
-        {
-          "api_id": "evt-YnELXEmS8KT8wlE",
-          "name": "XRP Community Night Paris",
-          "start_at": "2026-04-15T17:00:00.000Z",
-          "end_at": "2026-04-15T20:00:00.000Z",
-          "url": "https://lu.ma/wnkqmmqy",
-          "cover_url": "https://images.lumacdn.com/event-covers/e2/15c71ee0-2056-4afd-9d10-44c0c7371010.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
-          "api_id": "evt-VPwc0MnM633DEmG",
-          "name": "Bonsoir, Paris-            A Private Soiree by Paybis & Nsure",
-          "start_at": "2026-04-15T17:00:00.000Z",
-          "end_at": "2026-04-15T21:00:00.000Z",
-          "url": "https://lu.ma/bonsoirparis",
-          "cover_url": "https://images.lumacdn.com/event-covers/oc/c5a5b39c-724e-4d96-b831-2301f12fbdd9.png",
-          "location": "Temple and Chapon, 116 Rue du Temple, 75003 Paris, France"
-        },
-        {
-          "api_id": "evt-5xHTaWZvMhNaufn",
-          "name": "Private PayFi Dinner | Utila x Arf x Outrun | Paris Blockchain Week",
-          "start_at": "2026-04-15T18:00:00.000Z",
-          "end_at": "2026-04-15T22:00:00.000Z",
-          "url": "https://lu.ma/9awzi2a1",
-          "cover_url": "https://images.lumacdn.com/event-covers/p0/01da189b-7647-485e-b5cc-82f96612c047.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
-          "api_id": "evt-cPRH9x52yg5FoQg",
-          "name": "The Limestone Hour: Cocktails & Wine Beneath the Louvre",
-          "start_at": "2026-04-15T18:00:00.000Z",
-          "end_at": "2026-04-15T21:00:00.000Z",
-          "url": "https://lu.ma/nanpn2hr",
-          "cover_url": "https://images.lumacdn.com/event-covers/g1/fc9b8370-80d2-424b-90e6-009a30f50a54.png",
-          "location": "Paris, Île-de-France"
-        },
-        {
           "api_id": "evt-RXbZzHRFX7XJLum",
           "name": "🏃‍♀️ TRM Run Club @ Paris Blockchain Week",
           "start_at": "2026-04-16T05:00:00.000Z",
@@ -489,6 +435,51 @@
           "url": "https://lu.ma/pbw26",
           "cover_url": "https://images.lumacdn.com/event-covers/ls/0af5aac5-7b5e-4b71-8c21-962442b86b2f.png",
           "location": "Les Caves du Louvre, 52 Rue de l'Arbre Sec, 75001 Paris, France"
+        },
+        {
+          "api_id": "evt-vKwbNNRCONIiryr",
+          "name": "Paybis VIP Dinner PBW Edition",
+          "start_at": "2026-04-16T16:30:00.000Z",
+          "end_at": "2026-04-16T20:00:00.000Z",
+          "url": "https://lu.ma/wtzz34rk",
+          "cover_url": "https://images.lumacdn.com/event-covers/ws/05c5a385-1b5c-467a-96de-9a7479b8b5e4.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-vBk6AJEtoB0Ymgt",
+          "name": "Hypernative x TRM Labs Soirée - PBW 2026",
+          "start_at": "2026-04-16T16:30:00.000Z",
+          "end_at": "2026-04-16T18:30:00.000Z",
+          "url": "https://lu.ma/y5pe3ou0",
+          "cover_url": "https://images.lumacdn.com/event-covers/mx/64eae54d-8902-4fbb-9674-933269d73255.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-a3Aok8Et7sWWjPY",
+          "name": "The Champagne Room",
+          "start_at": "2026-04-16T17:00:00.000Z",
+          "end_at": "2026-04-16T21:00:00.000Z",
+          "url": "https://lu.ma/kucoinchampagneroom",
+          "cover_url": "https://images.lumacdn.com/event-covers/3s/738efa4f-5aaa-491c-aeed-b783b847068c.jpg",
+          "location": "Le Carmen, 34 Rue Duperré, 75009 Paris, France"
+        },
+        {
+          "api_id": "evt-4gpX1LIFWnBjJmJ",
+          "name": "EDX Markets & Xapo Bank - Paris After Hours - Champagne on-chain",
+          "start_at": "2026-04-16T17:00:00.000Z",
+          "end_at": "2026-04-17T00:00:00.000Z",
+          "url": "https://lu.ma/bh12qtrb",
+          "cover_url": "https://images.lumacdn.com/event-covers/on/e667923a-b5dd-425f-b7d6-50491410d354.png",
+          "location": "Paris, Île-de-France"
+        },
+        {
+          "api_id": "evt-A8C5mdhWHWSzC9A",
+          "name": "INDIGO x $NRG x RASA - Paris Eiffel Tower Edition: Music by BLOND:ISH",
+          "start_at": "2026-04-17T17:00:00.000Z",
+          "end_at": "2026-04-17T21:00:00.000Z",
+          "url": "https://lu.ma/m9uqp6fg",
+          "cover_url": "https://images.lumacdn.com/event-covers/os/e322e55c-7c95-4906-a1b4-1b0daa35edc2.jpg",
+          "location": "Eiffel Tower, Av. Gustave Eiffel, 75007 Paris, France"
         }
       ]
     },
