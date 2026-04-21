@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T13:03:27Z",
+  "last_updated": "2026-04-21T18:59:31Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -459,6 +459,33 @@
           "location": ""
         },
         {
+          "api_id": "evt-fcTCCYPQrjduSZp",
+          "name": "iMOS | THE WEB3 SESSION",
+          "start_at": "2026-04-28T11:30:00.000Z",
+          "end_at": "2026-04-28T13:30:00.000Z",
+          "url": "https://lu.ma/ok2qvby1",
+          "cover_url": "https://images.lumacdn.com/event-covers/o6/6e38f5df-9d56-4d49-83b9-4f9e9a74ba68.png",
+          "location": "دبي, دبي"
+        },
+        {
+          "api_id": "evt-FULTAoANtxlFUN0",
+          "name": "Dubai Tech Tuesdays No. 95 - World Token Summit Dubai x TheBlock.Festival + TFIN \"Why Are You Here?\" Film Trailer Premiere",
+          "start_at": "2026-04-28T14:00:00.000Z",
+          "end_at": "2026-04-28T19:30:00.000Z",
+          "url": "https://lu.ma/DubaiTechTues95",
+          "cover_url": "https://images.lumacdn.com/event-covers/y0/d58c3f34-bc53-42ea-8090-490eb66e8c95.png",
+          "location": "Belcanto Restaurant at Dubai Opera, Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-P3Dv8q6Jt3EFy6s",
+          "name": "TheBlock. Festival",
+          "start_at": "2026-04-29T06:00:00.000Z",
+          "end_at": "2026-05-01T19:30:00.000Z",
+          "url": "https://lu.ma/lvr572v7",
+          "cover_url": "https://images.lumacdn.com/event-covers/ap/56ba168b-39c9-4a07-9209-0d3f15a1683e.jpg",
+          "location": "TheBlock. Street, The Offices 3 - One Central, Dubai World Trade Centre - المركز التجاري الثانية - دبي - United Arab Emirates"
+        },
+        {
           "api_id": "evt-3CJPc8IRAPcBnhU",
           "name": "Media Accelerator & Startup Cohort",
           "start_at": "2026-04-29T09:30:00.000Z",
@@ -475,6 +502,15 @@
           "url": "https://lu.ma/eq1qbkqz",
           "cover_url": "https://images.lumacdn.com/event-covers/vy/0cce38d6-456e-4163-ac7c-a722673f29af.jpg",
           "location": "Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-oPqDCaBCmpiXXFy",
+          "name": "Stablecoin Connect Mixer: TheBlock Festival",
+          "start_at": "2026-04-29T15:00:00.000Z",
+          "end_at": "2026-04-29T18:00:00.000Z",
+          "url": "https://lu.ma/StablecoinConnectFest",
+          "cover_url": "https://images.lumacdn.com/event-covers/4r/3695a70b-b6f6-451e-8db5-052b7af38827.jpg",
+          "location": "Dubai, Dubai"
         },
         {
           "api_id": "evt-mJnk02KTjcMXAGi",
@@ -513,6 +549,15 @@
           "location": "Dubai - United Arab Emirates"
         },
         {
+          "api_id": "evt-00sshO5gXSPPtnx",
+          "name": "Dubai Apes Meet Up",
+          "start_at": "2026-04-30T16:00:00.000Z",
+          "end_at": "2026-04-30T19:00:00.000Z",
+          "url": "https://lu.ma/1y7fjjvy",
+          "cover_url": "https://images.lumacdn.com/event-covers/tz/54c729ab-f265-4a2d-92ba-8ce1090151bc.jpg",
+          "location": "Dubai, Dubai"
+        },
+        {
           "api_id": "evt-ohEvdOWKtbl6A4j",
           "name": "RWA SUMMIT DUBAI",
           "start_at": "2026-05-01T06:00:00.000Z",
@@ -522,40 +567,13 @@
           "location": "Dubai, Dubai"
         },
         {
-          "api_id": "evt-la3X6vBIhmOBBOn",
-          "name": "THE SHOW GOES ON: Open Day | Arts DAO (Dubai)",
-          "start_at": "2026-05-02T07:00:00.000Z",
-          "end_at": "2026-05-02T14:00:00.000Z",
-          "url": "https://lu.ma/deoz6r34",
-          "cover_url": "https://images.lumacdn.com/event-covers/g9/11b9baf8-29bf-4a4a-927f-f8b02cf949c3.jpg",
-          "location": "دبي, دبي"
-        },
-        {
-          "api_id": "evt-fr9dZBrDwyZzW0u",
-          "name": "Web3 Devs Underground Entrepreneurial Day",
-          "start_at": "2026-05-04T13:00:00.000Z",
-          "end_at": "2026-05-04T22:00:00.000Z",
-          "url": "https://lu.ma/q9fga8om",
-          "cover_url": "https://images.lumacdn.com/event-covers/yz/2dd19e7f-aae7-46c8-91ea-a09b083bf89e.png",
-          "location": "Miami, Florida"
-        },
-        {
-          "api_id": "evt-8UN9UDbRVF0SkkM",
-          "name": "MENA Blockchain Week - Official Pass",
-          "start_at": "2026-05-18T06:00:00.000Z",
-          "end_at": "2026-05-18T18:00:00.000Z",
-          "url": "https://lu.ma/MENABCW",
-          "cover_url": "https://images.lumacdn.com/event-covers/ba/f3f702bc-f356-4f9b-a83b-0ae8d399a526.png",
-          "location": "Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-N7aIok5arp1ECB9",
-          "name": "Tacnode APEX @ Token2049 Dubai",
-          "start_at": "2027-04-20T14:00:00.000Z",
-          "end_at": "2027-04-20T19:00:00.000Z",
-          "url": "https://lu.ma/5rcaej1m",
-          "cover_url": "https://images.lumacdn.com/event-covers/xq/2ef0dc1b-e263-4cad-a527-df338785f0af.jpg",
-          "location": "Dubai - United Arab Emirates"
+          "api_id": "evt-gtOTDIm4wVmFrLR",
+          "name": "RWA SUMMIT DUBAI",
+          "start_at": "2026-05-01T06:00:00.000Z",
+          "end_at": "2026-05-01T13:00:00.000Z",
+          "url": "https://lu.ma/iy6e22j4",
+          "cover_url": "https://images.lumacdn.com/event-covers/yd/38377903-e653-4f3e-a577-9c2d2a1041f8.png",
+          "location": "Al Sufouh - Dubai Knowledge Park - Dubai - United Arab Emirates"
         }
       ]
     },
