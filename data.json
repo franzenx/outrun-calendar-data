@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T18:57:07Z",
+  "last_updated": "2026-04-24T01:51:10Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -405,15 +405,6 @@
           "location": "Scandal Dubai, 53rd Floor - Sheraton Grand Hotel - شارع الشيخ زايد - المركز التجاري - دبي - United Arab Emirates"
         },
         {
-          "api_id": "evt-w7XHRHftLrF2cFF",
-          "name": "The Vault by TRIA Finance Company & Product Presentation | Session in Russian",
-          "start_at": "2026-04-28T06:00:00.000Z",
-          "end_at": "2026-04-28T09:30:00.000Z",
-          "url": "https://lu.ma/59nd2jwv",
-          "cover_url": "https://images.lumacdn.com/event-covers/sf/fedece6b-f90b-4010-831e-50c3f7e282d7.png",
-          "location": "Address Creek Harbour, 685V+HCW - Al Kheeran First - Dubai Creek Harbour - Dubai - United Arab Emirates"
-        },
-        {
           "api_id": "evt-Xaw6lyKnWsbGA3Z",
           "name": "Global Onchain Summit            Dubai 2026",
           "start_at": "2026-04-28T06:00:00.000Z",
@@ -448,15 +439,6 @@
           "url": "https://lu.ma/en9oj99f",
           "cover_url": "https://images.lumacdn.com/event-covers/vs/0e83acc6-112e-4663-99fe-1cdb76f08d23.png",
           "location": "Emirates financial towers, Emirates Financial Towers - Zaa'beel Second - DIFC - Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-CV7IQTlSC3G0Dfz",
-          "name": "The Vault by TRIA Finance Company & Product Presentation",
-          "start_at": "2026-04-28T10:00:00.000Z",
-          "end_at": "2026-04-28T12:00:00.000Z",
-          "url": "https://lu.ma/lx2b5sbd",
-          "cover_url": "https://images.lumacdn.com/event-covers/sx/b0930e9f-b309-4275-b4ca-fd7c2d7fbf1a.png",
-          "location": ""
         },
         {
           "api_id": "evt-fcTCCYPQrjduSZp",
@@ -574,6 +556,24 @@
           "url": "https://lu.ma/iy6e22j4",
           "cover_url": "https://images.lumacdn.com/event-covers/yd/38377903-e653-4f3e-a577-9c2d2a1041f8.png",
           "location": "Al Sufouh - Dubai Knowledge Park - Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-la3X6vBIhmOBBOn",
+          "name": "THE SHOW GOES ON: Open Day | Arts DAO (Dubai)",
+          "start_at": "2026-05-02T07:00:00.000Z",
+          "end_at": "2026-05-02T14:00:00.000Z",
+          "url": "https://lu.ma/deoz6r34",
+          "cover_url": "https://images.lumacdn.com/event-covers/g9/11b9baf8-29bf-4a4a-927f-f8b02cf949c3.jpg",
+          "location": "دبي, دبي"
+        },
+        {
+          "api_id": "evt-fr9dZBrDwyZzW0u",
+          "name": "Web3 Devs Underground Entrepreneurial Day",
+          "start_at": "2026-05-04T13:00:00.000Z",
+          "end_at": "2026-05-04T22:00:00.000Z",
+          "url": "https://lu.ma/q9fga8om",
+          "cover_url": "https://images.lumacdn.com/event-covers/yz/2dd19e7f-aae7-46c8-91ea-a09b083bf89e.png",
+          "location": "Miami, Florida"
         }
       ]
     },
