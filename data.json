@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T07:49:59Z",
+  "last_updated": "2026-04-24T13:02:06Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -397,11 +397,11 @@
       "events": [
         {
           "api_id": "evt-WJTMce6nRiwH9Jl",
-          "name": "Kickoff - Network Event - World Token Summit 3.0 and TheBlock Festival",
+          "name": "Kickoff - Network Event - World Token Summit and TheBlock Festival - Exclusive Event With High Level Connection.",
           "start_at": "2026-04-27T15:00:00.000Z",
           "end_at": "2026-04-27T19:00:00.000Z",
           "url": "https://lu.ma/qyw3zwv8",
-          "cover_url": "https://images.lumacdn.com/gallery-images/vv/142702a1-83c5-46b7-84d0-f93ae3430a16.png",
+          "cover_url": "https://images.lumacdn.com/event-covers/lp/2d47fc52-9f54-4c52-ae5e-6e8d8c62cf47.jpg",
           "location": "Scandal Dubai, 53rd Floor - Sheraton Grand Hotel - شارع الشيخ زايد - المركز التجاري - دبي - United Arab Emirates"
         },
         {
@@ -546,7 +546,7 @@
           "end_at": "2026-05-01T13:00:00.000Z",
           "url": "https://lu.ma/rwasummitdubai",
           "cover_url": "https://images.lumacdn.com/event-covers/1l/2fdb3a81-6b0c-4224-b0f1-2e56e9b14303.png",
-          "location": "Dubai, Dubai"
+          "location": "Dubai, United Arab Emirates"
         },
         {
           "api_id": "evt-gtOTDIm4wVmFrLR",
