@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T01:53:44Z",
+  "last_updated": "2026-04-26T07:18:02Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -396,15 +396,6 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
-          "api_id": "evt-WJTMce6nRiwH9Jl",
-          "name": "Kickoff - Network Event - World Token Summit and TheBlock Festival - Exclusive Event With High Level Connection.",
-          "start_at": "2026-04-27T15:00:00.000Z",
-          "end_at": "2026-04-27T19:00:00.000Z",
-          "url": "https://lu.ma/qyw3zwv8",
-          "cover_url": "https://images.lumacdn.com/event-covers/m5/11ba6b6f-3886-42b9-8644-64284b033a3d.jpg",
-          "location": "Scandal Dubai, 53rd Floor - Sheraton Grand Hotel - شارع الشيخ زايد - المركز التجاري - دبي - United Arab Emirates"
-        },
-        {
           "api_id": "evt-Xaw6lyKnWsbGA3Z",
           "name": "Global Onchain Summit            Dubai 2026",
           "start_at": "2026-04-28T06:00:00.000Z",
@@ -457,15 +448,6 @@
           "url": "https://lu.ma/DubaiTechTues95",
           "cover_url": "https://images.lumacdn.com/event-covers/y0/d58c3f34-bc53-42ea-8090-490eb66e8c95.png",
           "location": "Belcanto Restaurant at Dubai Opera, Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-P3Dv8q6Jt3EFy6s",
-          "name": "TheBlock. Festival",
-          "start_at": "2026-04-29T06:00:00.000Z",
-          "end_at": "2026-05-01T19:30:00.000Z",
-          "url": "https://lu.ma/lvr572v7",
-          "cover_url": "https://images.lumacdn.com/event-covers/ap/56ba168b-39c9-4a07-9209-0d3f15a1683e.jpg",
-          "location": "TheBlock. Street, The Offices 3 - One Central, Dubai World Trade Centre - المركز التجاري الثانية - دبي - United Arab Emirates"
         },
         {
           "api_id": "evt-3CJPc8IRAPcBnhU",
@@ -574,6 +556,24 @@
           "url": "https://lu.ma/q9fga8om",
           "cover_url": "https://images.lumacdn.com/event-covers/yz/2dd19e7f-aae7-46c8-91ea-a09b083bf89e.png",
           "location": "Miami, Florida"
+        },
+        {
+          "api_id": "evt-r92tPLLCAygWo8u",
+          "name": "Defi Founders Dubai",
+          "start_at": "2026-05-09T05:00:00.000Z",
+          "end_at": "2026-05-10T15:00:00.000Z",
+          "url": "https://lu.ma/t2bzymva",
+          "cover_url": "https://images.lumacdn.com/event-covers/1k/e7ea4cf4-bb35-4309-a198-3df3b59ce12a.png",
+          "location": "Madinat Jumeirah Conference & Events Centre, Madinat Jumeirah - King Salman Bin Abdulaziz Al Saud St - Al Sufouh 1 - Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-CV7IQTlSC3G0Dfz",
+          "name": "Digital Asset Custody Decoded - Institutional Infrastructure in Practice",
+          "start_at": "2026-05-12T11:00:00.000Z",
+          "end_at": "2026-05-12T12:00:00.000Z",
+          "url": "https://lu.ma/lx2b5sbd",
+          "cover_url": "https://images.lumacdn.com/event-covers/lo/2514c914-662c-4d1a-8663-8305fda4990e.png",
+          "location": ""
         }
       ]
     },
