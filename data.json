@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T01:57:21Z",
+  "last_updated": "2026-04-27T08:07:19Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -396,15 +396,6 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
-          "api_id": "evt-Xaw6lyKnWsbGA3Z",
-          "name": "Global Onchain Summit            Dubai 2026",
-          "start_at": "2026-04-28T06:00:00.000Z",
-          "end_at": "2026-04-28T14:00:00.000Z",
-          "url": "https://lu.ma/y64u2fu5",
-          "cover_url": "https://images.lumacdn.com/event-covers/4x/b2fbcbd3-78e7-4eb1-811a-71b755c90bad.png",
-          "location": "Dubai, Dubai"
-        },
-        {
           "api_id": "evt-5PaxzAgtW3zwxhN",
           "name": "The Tokenized Future Dubai RWA Meetup by 499 & Block Street",
           "start_at": "2026-04-28T08:30:00.000Z",
@@ -574,6 +565,15 @@
           "url": "https://lu.ma/MENABCW",
           "cover_url": "https://images.lumacdn.com/event-covers/qf/08d6f8a3-0612-430b-99ad-799470ce0264.png",
           "location": "Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-Xaw6lyKnWsbGA3Z",
+          "name": "Global Onchain Summit Dubai 2026",
+          "start_at": "2026-10-06T05:00:00.000Z",
+          "end_at": "2026-10-06T09:00:00.000Z",
+          "url": "https://lu.ma/y64u2fu5",
+          "cover_url": "https://images.lumacdn.com/event-covers/4x/b2fbcbd3-78e7-4eb1-811a-71b755c90bad.png",
+          "location": "Singapore"
         }
       ]
     },
