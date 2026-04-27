@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T08:07:19Z",
+  "last_updated": "2026-04-27T13:19:47Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -482,7 +482,7 @@
           "start_at": "2026-04-30T13:00:00.000Z",
           "end_at": "2026-05-01T04:00:00.000Z",
           "url": "https://lu.ma/t78ru6q9",
-          "cover_url": "https://images.lumacdn.com/gallery-images/x1/11a76033-3f05-479f-97e3-7a140bf272ff",
+          "cover_url": "https://images.lumacdn.com/event-covers/i4/44ac39ea-ae7a-49c4-a1ac-be7cd785ee8a.jpg",
           "location": "Le Trottoir de Paloma, 679P+V3 - Trade Center Second - Dubai - United Arab Emirates"
         },
         {
@@ -531,15 +531,6 @@
           "location": "دبي, دبي"
         },
         {
-          "api_id": "evt-fr9dZBrDwyZzW0u",
-          "name": "Web3 Devs Underground Entrepreneurial Day",
-          "start_at": "2026-05-04T13:00:00.000Z",
-          "end_at": "2026-05-04T22:00:00.000Z",
-          "url": "https://lu.ma/q9fga8om",
-          "cover_url": "https://images.lumacdn.com/event-covers/yz/2dd19e7f-aae7-46c8-91ea-a09b083bf89e.png",
-          "location": "Miami, Florida"
-        },
-        {
           "api_id": "evt-r92tPLLCAygWo8u",
           "name": "Defi Founders Dubai",
           "start_at": "2026-05-09T05:00:00.000Z",
@@ -574,6 +565,15 @@
           "url": "https://lu.ma/y64u2fu5",
           "cover_url": "https://images.lumacdn.com/event-covers/4x/b2fbcbd3-78e7-4eb1-811a-71b755c90bad.png",
           "location": "Singapore"
+        },
+        {
+          "api_id": "evt-N7aIok5arp1ECB9",
+          "name": "Tacnode APEX @ Token2049 Dubai",
+          "start_at": "2027-04-20T14:00:00.000Z",
+          "end_at": "2027-04-20T19:00:00.000Z",
+          "url": "https://lu.ma/5rcaej1m",
+          "cover_url": "https://images.lumacdn.com/event-covers/xq/2ef0dc1b-e263-4cad-a527-df338785f0af.jpg",
+          "location": "Dubai - United Arab Emirates"
         }
       ]
     },
