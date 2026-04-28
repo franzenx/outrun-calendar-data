@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T08:08:54Z",
+  "last_updated": "2026-04-28T13:31:19Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -414,15 +414,6 @@
           "location": "Dubai, Dubai"
         },
         {
-          "api_id": "evt-FC0IWABNzO2S29Z",
-          "name": "AI & Blockchain Influencing Legal Industry",
-          "start_at": "2026-04-28T09:00:00.000Z",
-          "end_at": "2026-04-28T11:00:00.000Z",
-          "url": "https://lu.ma/en9oj99f",
-          "cover_url": "https://images.lumacdn.com/event-covers/vs/0e83acc6-112e-4663-99fe-1cdb76f08d23.png",
-          "location": "Emirates financial towers, Emirates Financial Towers - Zaa'beel Second - DIFC - Dubai - United Arab Emirates"
-        },
-        {
           "api_id": "evt-dg9LMUofbLMAZkx",
           "name": "ZIGChain Summit 2026",
           "start_at": "2026-04-28T10:30:00.000Z",
@@ -500,7 +491,7 @@
           "start_at": "2026-04-30T13:00:00.000Z",
           "end_at": "2026-05-01T04:00:00.000Z",
           "url": "https://lu.ma/t78ru6q9",
-          "cover_url": "https://images.lumacdn.com/event-covers/i4/44ac39ea-ae7a-49c4-a1ac-be7cd785ee8a.jpg",
+          "cover_url": "https://images.lumacdn.com/uploads/go/148816b8-f263-4264-b785-4565713619ae.jpg",
           "location": "Le Trottoir de Paloma, 679P+V3 - Trade Center Second - Dubai - United Arab Emirates"
         },
         {
@@ -574,6 +565,15 @@
           "url": "https://lu.ma/lx2b5sbd",
           "cover_url": "https://images.lumacdn.com/event-covers/lo/2514c914-662c-4d1a-8663-8305fda4990e.png",
           "location": ""
+        },
+        {
+          "api_id": "evt-8UN9UDbRVF0SkkM",
+          "name": "MENA Blockchain Week 2026 - Official Pass",
+          "start_at": "2026-05-18T06:00:00.000Z",
+          "end_at": "2026-05-24T18:00:00.000Z",
+          "url": "https://lu.ma/MENABCW",
+          "cover_url": "https://images.lumacdn.com/event-covers/qf/08d6f8a3-0612-430b-99ad-799470ce0264.png",
+          "location": "Dubai - United Arab Emirates"
         }
       ]
     },
