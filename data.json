@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T19:05:20Z",
+  "last_updated": "2026-04-28T02:03:57Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -423,6 +423,15 @@
           "location": "Emirates financial towers, Emirates Financial Towers - Zaa'beel Second - DIFC - Dubai - United Arab Emirates"
         },
         {
+          "api_id": "evt-dg9LMUofbLMAZkx",
+          "name": "ZIGChain Summit 2026",
+          "start_at": "2026-04-28T10:30:00.000Z",
+          "end_at": "2026-04-28T16:00:00.000Z",
+          "url": "https://lu.ma/j5gjtj5s",
+          "cover_url": "https://images.lumacdn.com/event-covers/sp/93e9995a-f71f-4045-b430-998665e46c37.jpg",
+          "location": "Dubai - United Arab Emirates"
+        },
+        {
           "api_id": "evt-FULTAoANtxlFUN0",
           "name": "Dubai Tech Tuesdays No. 95 - World Token Summit Dubai x TheBlock.Festival + TFIN \"Why Are You Here?\" Film Trailer Premiere",
           "start_at": "2026-04-28T14:00:00.000Z",
@@ -477,8 +486,17 @@
           "location": "Dubai - United Arab Emirates"
         },
         {
+          "api_id": "evt-QjuLYereeQsu6Fz",
+          "name": "Demo day & Founders Gathering. Token2049. Survivors!",
+          "start_at": "2026-04-30T13:00:00.000Z",
+          "end_at": "2026-04-30T16:00:00.000Z",
+          "url": "https://lu.ma/3tre3isn",
+          "cover_url": "https://images.lumacdn.com/event-covers/yr/c9efcc02-fc64-4d89-9989-c72dabeea0f2.jpg",
+          "location": "Daos Hub Dubai, 51st & 52nd floor, Business Central Tower, Tower – B - الصفوح - مدينة دبي للإنترنت - دبي - United Arab Emirates"
+        },
+        {
           "api_id": "evt-nltzWDrWYVDmYDQ",
-          "name": "World Token Summit X TheBlock. Fest Exclusive Network Side Event - BitCoin Mondays - at Le Trottoir de Paloma 25 Jump Street",
+          "name": "World Token Summit X TheBlock. Fest Exclusive Network Side Event - BitCoin Mondays - at Le Trottoir de Paloma 25 Jump Street by EcoX Network",
           "start_at": "2026-04-30T13:00:00.000Z",
           "end_at": "2026-05-01T04:00:00.000Z",
           "url": "https://lu.ma/t78ru6q9",
@@ -522,6 +540,15 @@
           "location": "Al Sufouh - Dubai Knowledge Park - Dubai - United Arab Emirates"
         },
         {
+          "api_id": "evt-LDLootv31fvJFdm",
+          "name": "Hyperliquid Dubai | Community Meetup",
+          "start_at": "2026-05-01T13:00:00.000Z",
+          "end_at": "2026-05-01T16:00:00.000Z",
+          "url": "https://lu.ma/nijrqlzn",
+          "cover_url": "https://images.lumacdn.com/event-covers/sz/f243df52-f167-4969-b86c-a0b28151258e.png",
+          "location": "Dubai, United Arab Emirates"
+        },
+        {
           "api_id": "evt-la3X6vBIhmOBBOn",
           "name": "THE SHOW GOES ON: Open Day | Arts DAO (Dubai)",
           "start_at": "2026-05-02T07:00:00.000Z",
@@ -547,33 +574,6 @@
           "url": "https://lu.ma/lx2b5sbd",
           "cover_url": "https://images.lumacdn.com/event-covers/lo/2514c914-662c-4d1a-8663-8305fda4990e.png",
           "location": ""
-        },
-        {
-          "api_id": "evt-8UN9UDbRVF0SkkM",
-          "name": "MENA Blockchain Week 2026 - Official Pass",
-          "start_at": "2026-05-18T06:00:00.000Z",
-          "end_at": "2026-05-24T18:00:00.000Z",
-          "url": "https://lu.ma/MENABCW",
-          "cover_url": "https://images.lumacdn.com/event-covers/qf/08d6f8a3-0612-430b-99ad-799470ce0264.png",
-          "location": "Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-Xaw6lyKnWsbGA3Z",
-          "name": "Global Onchain Summit Dubai 2026",
-          "start_at": "2026-10-06T05:00:00.000Z",
-          "end_at": "2026-10-06T09:00:00.000Z",
-          "url": "https://lu.ma/y64u2fu5",
-          "cover_url": "https://images.lumacdn.com/event-covers/4x/b2fbcbd3-78e7-4eb1-811a-71b755c90bad.png",
-          "location": "Singapore"
-        },
-        {
-          "api_id": "evt-N7aIok5arp1ECB9",
-          "name": "Tacnode APEX @ Token2049 Dubai",
-          "start_at": "2027-04-20T14:00:00.000Z",
-          "end_at": "2027-04-20T19:00:00.000Z",
-          "url": "https://lu.ma/5rcaej1m",
-          "cover_url": "https://images.lumacdn.com/event-covers/xq/2ef0dc1b-e263-4cad-a527-df338785f0af.jpg",
-          "location": "Dubai - United Arab Emirates"
         }
       ]
     },
