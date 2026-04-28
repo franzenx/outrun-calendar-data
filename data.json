@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T13:31:19Z",
+  "last_updated": "2026-04-28T19:21:36Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -396,33 +396,6 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
-          "api_id": "evt-5PaxzAgtW3zwxhN",
-          "name": "The Tokenized Future Dubai RWA Meetup by 499 & Block Street",
-          "start_at": "2026-04-28T08:30:00.000Z",
-          "end_at": "2026-04-28T14:00:00.000Z",
-          "url": "https://lu.ma/TokenizedFutureDubai",
-          "cover_url": "https://images.lumacdn.com/event-covers/9z/96f9b78d-6316-45f6-a3c5-5955823df00f.png",
-          "location": "دبي, دبي"
-        },
-        {
-          "api_id": "evt-pMjk9w1TiJghyIb",
-          "name": "ZIGChain Summit 2026",
-          "start_at": "2026-04-28T09:00:00.000Z",
-          "end_at": "2026-04-28T16:00:00.000Z",
-          "url": "https://lu.ma/zigchainsummit",
-          "cover_url": "https://images.lumacdn.com/event-covers/ip/4bf4fe93-b804-41ba-a9ef-8e36b8d57292.png",
-          "location": "Dubai, Dubai"
-        },
-        {
-          "api_id": "evt-dg9LMUofbLMAZkx",
-          "name": "ZIGChain Summit 2026",
-          "start_at": "2026-04-28T10:30:00.000Z",
-          "end_at": "2026-04-28T16:00:00.000Z",
-          "url": "https://lu.ma/j5gjtj5s",
-          "cover_url": "https://images.lumacdn.com/event-covers/sp/93e9995a-f71f-4045-b430-998665e46c37.jpg",
-          "location": "Dubai - United Arab Emirates"
-        },
-        {
           "api_id": "evt-FULTAoANtxlFUN0",
           "name": "Dubai Tech Tuesdays No. 95 - World Token Summit Dubai x TheBlock.Festival + TFIN \"Why Are You Here?\" Film Trailer Premiere",
           "start_at": "2026-04-28T14:00:00.000Z",
@@ -573,6 +546,24 @@
           "end_at": "2026-05-24T18:00:00.000Z",
           "url": "https://lu.ma/MENABCW",
           "cover_url": "https://images.lumacdn.com/event-covers/qf/08d6f8a3-0612-430b-99ad-799470ce0264.png",
+          "location": "Dubai - United Arab Emirates"
+        },
+        {
+          "api_id": "evt-Xaw6lyKnWsbGA3Z",
+          "name": "Global Onchain Summit Dubai 2026",
+          "start_at": "2026-10-06T05:00:00.000Z",
+          "end_at": "2026-10-06T09:00:00.000Z",
+          "url": "https://lu.ma/y64u2fu5",
+          "cover_url": "https://images.lumacdn.com/event-covers/4x/b2fbcbd3-78e7-4eb1-811a-71b755c90bad.png",
+          "location": "Singapore"
+        },
+        {
+          "api_id": "evt-N7aIok5arp1ECB9",
+          "name": "Tacnode APEX @ Token2049 Dubai",
+          "start_at": "2027-04-20T14:00:00.000Z",
+          "end_at": "2027-04-20T19:00:00.000Z",
+          "url": "https://lu.ma/5rcaej1m",
+          "cover_url": "https://images.lumacdn.com/event-covers/xq/2ef0dc1b-e263-4cad-a527-df338785f0af.jpg",
           "location": "Dubai - United Arab Emirates"
         }
       ]
