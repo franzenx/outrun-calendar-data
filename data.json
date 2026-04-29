@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T19:21:36Z",
+  "last_updated": "2026-04-29T02:05:59Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -396,15 +396,6 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
-          "api_id": "evt-FULTAoANtxlFUN0",
-          "name": "Dubai Tech Tuesdays No. 95 - World Token Summit Dubai x TheBlock.Festival + TFIN \"Why Are You Here?\" Film Trailer Premiere",
-          "start_at": "2026-04-28T14:00:00.000Z",
-          "end_at": "2026-04-28T19:30:00.000Z",
-          "url": "https://lu.ma/DubaiTechTues95",
-          "cover_url": "https://images.lumacdn.com/event-covers/y0/d58c3f34-bc53-42ea-8090-490eb66e8c95.png",
-          "location": "Belcanto Restaurant at Dubai Opera, Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates"
-        },
-        {
           "api_id": "evt-3CJPc8IRAPcBnhU",
           "name": "Media Accelerator & Startup Cohort",
           "start_at": "2026-04-29T09:30:00.000Z",
@@ -412,15 +403,6 @@
           "url": "https://lu.ma/cm3bj9jg",
           "cover_url": "https://images.lumacdn.com/event-covers/v0/0ac54cef-9dfb-4eeb-ac47-c19fbe5f59de.jpg",
           "location": "Madinat Jumeirah, Al Sufouh 1 - Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-AuZjmsbFEqqcm3I",
-          "name": "Blockchain Wednesday by Ecox Network",
-          "start_at": "2026-04-29T15:00:00.000Z",
-          "end_at": "2026-04-29T16:00:00.000Z",
-          "url": "https://lu.ma/eq1qbkqz",
-          "cover_url": "https://images.lumacdn.com/event-covers/vy/0cce38d6-456e-4163-ac7c-a722673f29af.jpg",
-          "location": "Dubai - United Arab Emirates"
         },
         {
           "api_id": "evt-oPqDCaBCmpiXXFy",
@@ -520,6 +502,15 @@
           "url": "https://lu.ma/deoz6r34",
           "cover_url": "https://images.lumacdn.com/event-covers/g9/11b9baf8-29bf-4a4a-927f-f8b02cf949c3.jpg",
           "location": "دبي, دبي"
+        },
+        {
+          "api_id": "evt-AuZjmsbFEqqcm3I",
+          "name": "BitCoin Mondays by Ecox Network",
+          "start_at": "2026-05-04T15:00:00.000Z",
+          "end_at": "2026-05-04T19:00:00.000Z",
+          "url": "https://lu.ma/eq1qbkqz",
+          "cover_url": "https://images.lumacdn.com/event-covers/vy/0cce38d6-456e-4163-ac7c-a722673f29af.jpg",
+          "location": "Dubai - United Arab Emirates"
         },
         {
           "api_id": "evt-r92tPLLCAygWo8u",
