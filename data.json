@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T13:25:29Z",
+  "last_updated": "2026-04-29T19:10:42Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -405,15 +405,6 @@
           "location": "Madinat Jumeirah, Al Sufouh 1 - Dubai - United Arab Emirates"
         },
         {
-          "api_id": "evt-oPqDCaBCmpiXXFy",
-          "name": "Stablecoin Connect Mixer: TheBlock Festival",
-          "start_at": "2026-04-29T15:00:00.000Z",
-          "end_at": "2026-04-29T18:00:00.000Z",
-          "url": "https://lu.ma/StablecoinConnectFest",
-          "cover_url": "https://images.lumacdn.com/event-covers/4r/3695a70b-b6f6-451e-8db5-052b7af38827.jpg",
-          "location": "Dubai, Dubai"
-        },
-        {
           "api_id": "evt-mJnk02KTjcMXAGi",
           "name": "Media Accelerator & Startup Cohort",
           "start_at": "2026-04-29T18:30:00.000Z",
@@ -437,7 +428,7 @@
           "start_at": "2026-04-30T13:00:00.000Z",
           "end_at": "2026-04-30T16:00:00.000Z",
           "url": "https://lu.ma/3tre3isn",
-          "cover_url": "https://images.lumacdn.com/event-covers/yr/c9efcc02-fc64-4d89-9989-c72dabeea0f2.jpg",
+          "cover_url": "https://images.lumacdn.com/uploads/mu/c778720e-e5ad-46a3-94bc-6407dabd90b0.jpg",
           "location": "Daos Hub Dubai, 51st & 52nd floor, Business Central Tower, Tower – B - الصفوح - مدينة دبي للإنترنت - دبي - United Arab Emirates"
         },
         {
