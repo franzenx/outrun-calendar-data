@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T13:23:04Z",
+  "last_updated": "2026-04-30T19:07:02Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -396,24 +396,6 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
-          "api_id": "evt-mJnk02KTjcMXAGi",
-          "name": "Media Accelerator & Startup Cohort",
-          "start_at": "2026-04-29T18:30:00.000Z",
-          "end_at": "2026-04-30T19:30:00.000Z",
-          "url": "https://lu.ma/ucp5z8nd",
-          "cover_url": "https://images.lumacdn.com/event-covers/fg/4e444662-90c8-4455-ab0e-75558d0991a8.jpg",
-          "location": "Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-QjuLYereeQsu6Fz",
-          "name": "Demo day & Founders Gathering. Token2049. Survivors!",
-          "start_at": "2026-04-30T13:00:00.000Z",
-          "end_at": "2026-04-30T16:00:00.000Z",
-          "url": "https://lu.ma/3tre3isn",
-          "cover_url": "https://images.lumacdn.com/uploads/mu/c778720e-e5ad-46a3-94bc-6407dabd90b0.jpg",
-          "location": "Daos Hub Dubai, 51st & 52nd floor, Business Central Tower, Tower – B - الصفوح - مدينة دبي للإنترنت - دبي - United Arab Emirates"
-        },
-        {
           "api_id": "evt-nltzWDrWYVDmYDQ",
           "name": "World Token Summit X TheBlock. Fest Exclusive Network Side Event - BitCoin Mondays - at Le Trottoir de Paloma 25 Jump Street by EcoX Network",
           "start_at": "2026-04-30T13:00:00.000Z",
@@ -421,24 +403,6 @@
           "url": "https://lu.ma/t78ru6q9",
           "cover_url": "https://images.lumacdn.com/uploads/14/c89f0a3f-5ffe-4753-b15d-2dd527128ebf.jpg",
           "location": "Le Trottoir de Paloma, 679P+V3 - Trade Center Second - Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-fwBLQsGcMh6hERr",
-          "name": "Capital Gathering: Prediction Markets",
-          "start_at": "2026-04-30T14:00:00.000Z",
-          "end_at": "2026-04-30T18:00:00.000Z",
-          "url": "https://lu.ma/o84gp4bm",
-          "cover_url": "https://images.lumacdn.com/event-covers/mj/e8693f9d-a27c-47b2-b219-9130bb38c077.png",
-          "location": "Birds Dubai, Valet parking available at P4, The Address Downtown Burj Dubai - 63rd floor - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-00sshO5gXSPPtnx",
-          "name": "Dubai Apes Meet Up",
-          "start_at": "2026-04-30T16:00:00.000Z",
-          "end_at": "2026-04-30T19:00:00.000Z",
-          "url": "https://lu.ma/1y7fjjvy",
-          "cover_url": "https://images.lumacdn.com/event-covers/tz/54c729ab-f265-4a2d-92ba-8ce1090151bc.jpg",
-          "location": "Dubai, Dubai"
         },
         {
           "api_id": "evt-ohEvdOWKtbl6A4j",
@@ -514,11 +478,11 @@
         },
         {
           "api_id": "evt-Xaw6lyKnWsbGA3Z",
-          "name": "Global Onchain Summit Dubai 2026",
+          "name": "Global Onchain Summit Singapore 2026",
           "start_at": "2026-10-06T05:00:00.000Z",
           "end_at": "2026-10-06T09:00:00.000Z",
           "url": "https://lu.ma/y64u2fu5",
-          "cover_url": "https://images.lumacdn.com/event-covers/4x/b2fbcbd3-78e7-4eb1-811a-71b755c90bad.png",
+          "cover_url": "https://images.lumacdn.com/uploads/ic/f1dd7dd9-47d9-4507-8260-122bde269baf.jpg",
           "location": "Singapore"
         },
         {
