@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T08:05:53Z",
+  "last_updated": "2026-04-30T13:23:04Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -396,30 +396,12 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
-          "api_id": "evt-3CJPc8IRAPcBnhU",
-          "name": "Media Accelerator & Startup Cohort",
-          "start_at": "2026-04-29T09:30:00.000Z",
-          "end_at": "2026-04-30T09:00:00.000Z",
-          "url": "https://lu.ma/cm3bj9jg",
-          "cover_url": "https://images.lumacdn.com/event-covers/v0/0ac54cef-9dfb-4eeb-ac47-c19fbe5f59de.jpg",
-          "location": "Madinat Jumeirah, Al Sufouh 1 - Dubai - United Arab Emirates"
-        },
-        {
           "api_id": "evt-mJnk02KTjcMXAGi",
           "name": "Media Accelerator & Startup Cohort",
           "start_at": "2026-04-29T18:30:00.000Z",
           "end_at": "2026-04-30T19:30:00.000Z",
           "url": "https://lu.ma/ucp5z8nd",
           "cover_url": "https://images.lumacdn.com/event-covers/fg/4e444662-90c8-4455-ab0e-75558d0991a8.jpg",
-          "location": "Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-X64PJaVE9EbTF8V",
-          "name": "Victus Global: Startup Funding Demo Day - Token2049 Dubai Side Event",
-          "start_at": "2026-04-30T09:00:00.000Z",
-          "end_at": "2026-04-30T13:00:00.000Z",
-          "url": "https://lu.ma/a6dpqxuf",
-          "cover_url": "https://images.lumacdn.com/event-covers/5j/d3da39c8-bd03-40c0-9924-9a04f78c832d.png",
           "location": "Dubai - United Arab Emirates"
         },
         {
