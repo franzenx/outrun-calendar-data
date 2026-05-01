@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T12:58:25Z",
+  "last_updated": "2026-05-01T18:58:50Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -395,33 +395,6 @@
       "opportunity": "GCC Phase 2 launch platform; DFSA licensing BD; stablecoin partner deals; exchange integrations; E-sports announcement",
       "luma_slug": "token2049-dubai",
       "events": [
-        {
-          "api_id": "evt-ohEvdOWKtbl6A4j",
-          "name": "RWA SUMMIT DUBAI",
-          "start_at": "2026-05-01T06:00:00.000Z",
-          "end_at": "2026-05-01T13:00:00.000Z",
-          "url": "https://lu.ma/rwasummitdubai",
-          "cover_url": "https://images.lumacdn.com/uploads/5k/ce2827f9-ff3a-4e73-9110-ccfb6bbd7c1b.png",
-          "location": "Dubai, United Arab Emirates"
-        },
-        {
-          "api_id": "evt-gtOTDIm4wVmFrLR",
-          "name": "RWA SUMMIT DUBAI",
-          "start_at": "2026-05-01T06:00:00.000Z",
-          "end_at": "2026-05-01T13:00:00.000Z",
-          "url": "https://lu.ma/iy6e22j4",
-          "cover_url": "https://images.lumacdn.com/event-covers/yd/38377903-e653-4f3e-a577-9c2d2a1041f8.png",
-          "location": "Al Sufouh - Dubai Knowledge Park - Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-LDLootv31fvJFdm",
-          "name": "Hyperliquid Dubai | Community Meetup",
-          "start_at": "2026-05-01T13:00:00.000Z",
-          "end_at": "2026-05-01T16:00:00.000Z",
-          "url": "https://lu.ma/nijrqlzn",
-          "cover_url": "https://images.lumacdn.com/event-covers/sz/f243df52-f167-4969-b86c-a0b28151258e.png",
-          "location": "Dubai, United Arab Emirates"
-        },
         {
           "api_id": "evt-la3X6vBIhmOBBOn",
           "name": "THE SHOW GOES ON: Open Day | Arts DAO (Dubai)",
