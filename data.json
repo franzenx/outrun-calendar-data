@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T02:09:27Z",
+  "last_updated": "2026-05-01T08:02:56Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -396,21 +396,12 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
-          "api_id": "evt-nltzWDrWYVDmYDQ",
-          "name": "World Token Summit X TheBlock. Fest Exclusive Network Side Event - BitCoin Mondays - at Le Trottoir de Paloma 25 Jump Street by EcoX Network",
-          "start_at": "2026-04-30T13:00:00.000Z",
-          "end_at": "2026-05-01T04:00:00.000Z",
-          "url": "https://lu.ma/t78ru6q9",
-          "cover_url": "https://images.lumacdn.com/uploads/14/c89f0a3f-5ffe-4753-b15d-2dd527128ebf.jpg",
-          "location": "Le Trottoir de Paloma, 679P+V3 - Trade Center Second - Dubai - United Arab Emirates"
-        },
-        {
           "api_id": "evt-ohEvdOWKtbl6A4j",
           "name": "RWA SUMMIT DUBAI",
           "start_at": "2026-05-01T06:00:00.000Z",
           "end_at": "2026-05-01T13:00:00.000Z",
           "url": "https://lu.ma/rwasummitdubai",
-          "cover_url": "https://images.lumacdn.com/uploads/mp/2566027b-0b43-47a3-9e19-23d33fd54bec.png",
+          "cover_url": "https://images.lumacdn.com/uploads/5k/ce2827f9-ff3a-4e73-9110-ccfb6bbd7c1b.png",
           "location": "Dubai, United Arab Emirates"
         },
         {
@@ -475,15 +466,6 @@
           "url": "https://lu.ma/MENABCW",
           "cover_url": "https://images.lumacdn.com/event-covers/qf/08d6f8a3-0612-430b-99ad-799470ce0264.png",
           "location": "Dubai - United Arab Emirates"
-        },
-        {
-          "api_id": "evt-Xaw6lyKnWsbGA3Z",
-          "name": "Global Onchain Summit Singapore 2026",
-          "start_at": "2026-10-06T05:00:00.000Z",
-          "end_at": "2026-10-06T09:00:00.000Z",
-          "url": "https://lu.ma/y64u2fu5",
-          "cover_url": "https://images.lumacdn.com/uploads/ic/f1dd7dd9-47d9-4507-8260-122bde269baf.jpg",
-          "location": "Singapore"
         },
         {
           "api_id": "evt-N7aIok5arp1ECB9",
