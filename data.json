@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T12:49:57Z",
+  "last_updated": "2026-05-02T18:44:27Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -396,21 +396,12 @@
       "luma_slug": "token2049-dubai",
       "events": [
         {
-          "api_id": "evt-la3X6vBIhmOBBOn",
-          "name": "THE SHOW GOES ON: Open Day | Arts DAO (Dubai)",
-          "start_at": "2026-05-02T07:00:00.000Z",
-          "end_at": "2026-05-02T14:00:00.000Z",
-          "url": "https://lu.ma/deoz6r34",
-          "cover_url": "https://images.lumacdn.com/event-covers/g9/11b9baf8-29bf-4a4a-927f-f8b02cf949c3.jpg",
-          "location": "دبي, دبي"
-        },
-        {
           "api_id": "evt-AuZjmsbFEqqcm3I",
-          "name": "BitCoin Mondays by EcoX Network - Special Film Trailer World Premier - FUTURE IS NOW!",
+          "name": "BitCoin Mondays by EcoX Network - Special Film Trailer World Premier - FUTURE IS NOW! Top Speaker Line Up!",
           "start_at": "2026-05-04T15:00:00.000Z",
           "end_at": "2026-05-04T19:00:00.000Z",
           "url": "https://lu.ma/eq1qbkqz",
-          "cover_url": "https://images.lumacdn.com/event-covers/vy/0cce38d6-456e-4163-ac7c-a722673f29af.jpg",
+          "cover_url": "https://images.lumacdn.com/uploads/0w/8ccb882f-4e79-4a25-99d6-75789b4d724d.jpg",
           "location": "Dubai - United Arab Emirates"
         },
         {
