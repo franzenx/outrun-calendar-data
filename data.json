@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T13:24:24Z",
+  "last_updated": "2026-05-04T19:15:55Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -395,15 +395,6 @@
       "opportunity": "GCC Phase 2 launch platform; DFSA licensing BD; stablecoin partner deals; exchange integrations; E-sports announcement",
       "luma_slug": "token2049-dubai",
       "events": [
-        {
-          "api_id": "evt-AuZjmsbFEqqcm3I",
-          "name": "BitCoin Mondays by EcoX Network - Special Film Trailer World Premier - FUTURE IS NOW! Top Speaker Line Up!",
-          "start_at": "2026-05-04T15:00:00.000Z",
-          "end_at": "2026-05-04T19:00:00.000Z",
-          "url": "https://lu.ma/eq1qbkqz",
-          "cover_url": "https://images.lumacdn.com/uploads/wx/5a3b4f8f-6b88-4c14-b5d5-a1616ff532d1.jpg",
-          "location": "Dubai - United Arab Emirates"
-        },
         {
           "api_id": "evt-r92tPLLCAygWo8u",
           "name": "Defi Founders Dubai",
