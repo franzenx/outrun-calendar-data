@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T08:27:33Z",
+  "last_updated": "2026-05-12T13:57:03Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -395,15 +395,6 @@
       "opportunity": "GCC Phase 2 launch platform; DFSA licensing BD; stablecoin partner deals; exchange integrations; E-sports announcement",
       "luma_slug": "token2049-dubai",
       "events": [
-        {
-          "api_id": "evt-CV7IQTlSC3G0Dfz",
-          "name": "Digital Asset Custody Decoded - Institutional Infrastructure in Practice",
-          "start_at": "2026-05-12T11:00:00.000Z",
-          "end_at": "2026-05-12T12:00:00.000Z",
-          "url": "https://lu.ma/lx2b5sbd",
-          "cover_url": "https://images.lumacdn.com/event-covers/lo/2514c914-662c-4d1a-8663-8305fda4990e.png",
-          "location": ""
-        },
         {
           "api_id": "evt-8UN9UDbRVF0SkkM",
           "name": "MENA Blockchain Week 2026 - Official Pass",
