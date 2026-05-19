@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T08:59:53Z",
+  "last_updated": "2026-05-19T14:38:46Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -395,15 +395,6 @@
       "opportunity": "GCC Phase 2 launch platform; DFSA licensing BD; stablecoin partner deals; exchange integrations; E-sports announcement",
       "luma_slug": "token2049-dubai",
       "events": [
-        {
-          "api_id": "evt-8UN9UDbRVF0SkkM",
-          "name": "MENA Blockchain Week 2026 - Official Pass",
-          "start_at": "2026-05-18T10:00:00.000Z",
-          "end_at": "2026-05-24T18:00:00.000Z",
-          "url": "https://lu.ma/MENABCW",
-          "cover_url": "https://images.lumacdn.com/uploads/jv/28cded25-0972-41d1-8a61-a1e4972bde3a.png",
-          "location": "Dubai - United Arab Emirates"
-        },
         {
           "api_id": "evt-N7aIok5arp1ECB9",
           "name": "Tacnode APEX @ Token2049 Dubai",
