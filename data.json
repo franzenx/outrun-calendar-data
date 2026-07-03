@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T08:50:12Z",
+  "last_updated": "2026-07-03T13:44:16Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -580,7 +580,53 @@
       "website": "https://coinfest.asia/",
       "opportunity": "SE Asia + LATAM nomad trader community; grassroots USDT adoption audience; E-sports culture",
       "luma_slug": "coinfest-asia",
-      "events": []
+      "events": [
+        {
+          "api_id": "evt-naRNwTqp9oEFrHs",
+          "name": "Indonesia GTM Session",
+          "start_at": "2026-08-20T07:00:00.000Z",
+          "end_at": "2026-08-21T08:00:00.000Z",
+          "url": "https://lu.ma/coinfest-3rb8",
+          "cover_url": "https://images.lumacdn.com/uploads/wy/c98ac215-db4b-41ba-926a-e961921abfe5.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-ojFgVsrHbRsj8YT",
+          "name": "Tokenization: Which Assets Will Actually Scale in Asia?",
+          "start_at": "2026-08-21T02:00:00.000Z",
+          "end_at": "2026-08-21T09:00:00.000Z",
+          "url": "https://lu.ma/coinfest-vfqi",
+          "cover_url": "https://images.lumacdn.com/uploads/rm/558b7f2c-5633-43d7-a710-411c8007c011.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-DlDkbALaOy5ymiR",
+          "name": "Tokenized Money Market Funds: The Institutional On-Ramp That Actually Makes Sense",
+          "start_at": "2026-08-21T02:00:00.000Z",
+          "end_at": "2026-08-21T09:00:00.000Z",
+          "url": "https://lu.ma/coinfest-xqf1",
+          "cover_url": "https://images.lumacdn.com/uploads/ue/c3bd3d8a-db24-452e-b7f7-fe0ade67f443.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-cifgx1xtlfyUF6h",
+          "name": "Stablecoin Readiness Workshop: What Banks, PSPs and Corporates Need Before Going Live",
+          "start_at": "2026-08-21T02:00:00.000Z",
+          "end_at": "2026-08-21T09:00:00.000Z",
+          "url": "https://lu.ma/coinfest-2e7o",
+          "cover_url": "https://images.lumacdn.com/uploads/wn/4a389ca5-0510-45eb-8189-49b5f800cc03.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-ZBKPThYTPNzyVQL",
+          "name": "Stablecoins in Asia: From Crypto Settlement to Real Corporate Payments",
+          "start_at": "2026-08-21T02:00:00.000Z",
+          "end_at": "2026-08-21T09:00:00.000Z",
+          "url": "https://lu.ma/coinfest-0x9v",
+          "cover_url": "https://images.lumacdn.com/uploads/42/bbe3526d-6498-4aa5-a1a1-bbde3693b782.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        }
+      ]
     },
     {
       "id": "conf-26",
