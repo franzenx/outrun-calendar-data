@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T02:03:11Z",
+  "last_updated": "2026-07-09T09:27:28Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -584,35 +584,44 @@
         {
           "api_id": "evt-naRNwTqp9oEFrHs",
           "name": "Indonesia GTM Session",
-          "start_at": "2026-08-20T07:00:00.000Z",
-          "end_at": "2026-08-21T08:00:00.000Z",
+          "start_at": "2026-08-20T06:00:00.000Z",
+          "end_at": "2026-08-21T07:00:00.000Z",
           "url": "https://lu.ma/indogtm",
           "cover_url": "https://images.lumacdn.com/uploads/wy/c98ac215-db4b-41ba-926a-e961921abfe5.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
-          "api_id": "evt-1JLf5kvToYvsYs8",
-          "name": "India GTM Session",
-          "start_at": "2026-08-20T07:00:00.000Z",
-          "end_at": "2026-08-21T08:00:00.000Z",
-          "url": "https://lu.ma/indiagtm",
-          "cover_url": "https://images.lumacdn.com/uploads/ez/bcba5147-a953-471c-a06e-7c3af44b50f7.jpg",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-qqhv1rHqWi7xxLG",
           "name": "Malaysia GTM Session",
-          "start_at": "2026-08-20T07:00:00.000Z",
-          "end_at": "2026-08-20T08:00:00.000Z",
+          "start_at": "2026-08-20T06:00:00.000Z",
+          "end_at": "2026-08-20T07:00:00.000Z",
           "url": "https://lu.ma/malaysiagtm",
           "cover_url": "https://images.lumacdn.com/uploads/pw/2a790c1b-bb24-4613-8aa6-4aec3ad3ed74.jpg",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-9dX5y8hyWnXGi8s",
+          "name": "Vietnam GTM Session",
+          "start_at": "2026-08-20T06:30:00.000Z",
+          "end_at": "2026-08-20T07:30:00.000Z",
+          "url": "https://lu.ma/vietnamgtm",
+          "cover_url": "https://images.lumacdn.com/uploads/uj/670e3145-f683-43aa-9932-43d45f29327a.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-1JLf5kvToYvsYs8",
+          "name": "India GTM Session",
+          "start_at": "2026-08-20T07:30:00.000Z",
+          "end_at": "2026-08-21T08:30:00.000Z",
+          "url": "https://lu.ma/indiagtm",
+          "cover_url": "https://images.lumacdn.com/uploads/ez/bcba5147-a953-471c-a06e-7c3af44b50f7.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-nlHF7ZPh1B6KnCU",
           "name": "Japan GTM Session",
-          "start_at": "2026-08-20T07:00:00.000Z",
-          "end_at": "2026-08-20T08:00:00.000Z",
+          "start_at": "2026-08-20T08:30:00.000Z",
+          "end_at": "2026-08-20T09:30:00.000Z",
           "url": "https://lu.ma/japangtm",
           "cover_url": "https://images.lumacdn.com/uploads/5c/de54a349-1a12-4199-898c-dd920a9117d6.jpg",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
@@ -620,19 +629,10 @@
         {
           "api_id": "evt-AE0s6DH7pebnIr5",
           "name": "Taiwan GTM Session",
-          "start_at": "2026-08-20T07:00:00.000Z",
-          "end_at": "2026-08-20T08:00:00.000Z",
+          "start_at": "2026-08-20T09:00:00.000Z",
+          "end_at": "2026-08-20T10:00:00.000Z",
           "url": "https://lu.ma/taiwangtm",
           "cover_url": "https://images.lumacdn.com/uploads/vh/cca08cf2-1a0e-43cf-9f13-75c099d249d5.jpg",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-9dX5y8hyWnXGi8s",
-          "name": "Vietnam GTM Session",
-          "start_at": "2026-08-20T07:00:00.000Z",
-          "end_at": "2026-08-20T08:00:00.000Z",
-          "url": "https://lu.ma/vietnamgtm",
-          "cover_url": "https://images.lumacdn.com/uploads/uj/670e3145-f683-43aa-9932-43d45f29327a.jpg",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
@@ -670,6 +670,15 @@
           "url": "https://lu.ma/stablecoinasia",
           "cover_url": "https://images.lumacdn.com/uploads/l5/8522e0fe-843a-4d5a-a1bf-70869cf314a3.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-eiKyfcJoMlNYBUm",
+          "name": "Binance Clubhouse Bali – Official Side Event at Coinfest Asia 2026",
+          "start_at": "2026-08-21T04:00:00.000Z",
+          "end_at": "2026-08-21T13:00:00.000Z",
+          "url": "https://lu.ma/93geox3v",
+          "cover_url": "https://images.lumacdn.com/uploads/gt/e235b0ff-76fb-41a8-8c26-efba418825e8.jpg",
+          "location": "Kabupaten Badung, Indonesia"
         }
       ]
     },
