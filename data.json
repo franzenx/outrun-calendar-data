@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T08:50:36Z",
+  "last_updated": "2026-07-13T14:07:55Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -724,7 +724,35 @@
       "website": "https://koreablockchainweek.com/",
       "opportunity": "APAC exchange integrations; Korean GameFi × E-sports crossover; Upbit/Bithumb BD",
       "luma_slug": "koreablockchainweek",
-      "events": []
+      "events": [
+        {
+          "api_id": "evt-HSyy3FwAufu321U",
+          "name": "CONNECT by Cointelegraph: Seoul Edition",
+          "start_at": "2026-09-29T03:00:00.000Z",
+          "end_at": "2026-09-29T09:00:00.000Z",
+          "url": "https://lu.ma/xxwrhox8",
+          "cover_url": "https://images.lumacdn.com/uploads/mk/fc69fdee-392d-4ee2-990f-55c75eb1f969.jpg",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-ZR9kvg5Gf1VTqvI",
+          "name": "DIGITAL AF • Exhibition & Side Events Space • Korea Blockchain Week",
+          "start_at": "2026-09-29T07:00:00.000Z",
+          "end_at": "2026-10-03T17:00:00.000Z",
+          "url": "https://lu.ma/zecq09tp",
+          "cover_url": "https://images.lumacdn.com/uploads/34/b2ef95b8-8340-4b98-9169-df6262994e81.png",
+          "location": "14-15 Yangjae-dong, Seocho District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-4Ya09DCG0Lsx7ep",
+          "name": "HSC Conference Seoul",
+          "start_at": "2026-10-01T02:00:00.000Z",
+          "end_at": "2026-10-01T08:00:00.000Z",
+          "url": "https://lu.ma/HSC_Seoul",
+          "cover_url": "https://images.lumacdn.com/uploads/82/6dedfb90-30f2-4024-98cb-3fcaa6061e2c.gif",
+          "location": "Novotel Ambassador Seoul Gangnam, 130 Bongeunsa-ro, Gangnam District, Seoul, South Korea"
+        }
+      ]
     },
     {
       "id": "conf-28",
