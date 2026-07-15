@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T07:51:41Z",
+  "last_updated": "2026-07-15T13:14:55Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -672,6 +672,15 @@
           "location": "Kabupaten Badung, Indonesia"
         },
         {
+          "api_id": "evt-9G7sJnBQRWI5rhc",
+          "name": "Tokocrypto Beach Horizon – Official Side Event at Coinfest Asia 2026",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T11:30:00.000Z",
+          "url": "https://lu.ma/2qetiyem",
+          "cover_url": "https://images.lumacdn.com/uploads/i2/c81403d0-5ef2-4948-870c-bca6b5365c33.png",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
           "api_id": "evt-AE0s6DH7pebnIr5",
           "name": "Taiwan GTM Session",
           "start_at": "2026-08-21T07:00:00.000Z",
@@ -758,7 +767,7 @@
           "start_at": "2026-10-01T02:00:00.000Z",
           "end_at": "2026-10-01T08:00:00.000Z",
           "url": "https://lu.ma/HSC_Seoul",
-          "cover_url": "https://images.lumacdn.com/uploads/82/6dedfb90-30f2-4024-98cb-3fcaa6061e2c.gif",
+          "cover_url": "https://images.lumacdn.com/uploads/5l/8d4f9868-1901-42fc-b14c-07aca1243f47.gif",
           "location": "Novotel Ambassador Seoul Gangnam, 130 Bongeunsa-ro, Gangnam District, Seoul, South Korea"
         }
       ]
