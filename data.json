@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T01:47:51Z",
+  "last_updated": "2026-07-16T07:56:54Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -670,6 +670,15 @@
           "url": "https://lu.ma/93geox3v",
           "cover_url": "https://images.lumacdn.com/uploads/gt/e235b0ff-76fb-41a8-8c26-efba418825e8.jpg",
           "location": "Kabupaten Badung, Indonesia"
+        },
+        {
+          "api_id": "evt-Np2mc7aDRO8Y5vN",
+          "name": "FundedXYZ Esports Trading Competition | Coinfest Asia 2026",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T09:00:00.000Z",
+          "url": "https://lu.ma/66mv1ycr",
+          "cover_url": "https://images.lumacdn.com/uploads/sa/bb35351a-4d9d-4fdf-a2b6-7fe714a7cf71.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
           "api_id": "evt-9G7sJnBQRWI5rhc",
