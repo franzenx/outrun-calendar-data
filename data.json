@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T08:09:01Z",
+  "last_updated": "2026-07-21T13:18:24Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -654,39 +654,21 @@
           "location": "Tropical Temptation - Adult Only Beach Club by Wonderspace, Melasti Beach 88, Uluwatu, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
-          "api_id": "evt-ojFgVsrHbRsj8YT",
-          "name": "Tokenization: Which Assets Will Actually Scale in Asia?",
-          "start_at": "2026-08-21T02:00:00.000Z",
-          "end_at": "2026-08-21T09:00:00.000Z",
-          "url": "https://lu.ma/tokenizationasia",
-          "cover_url": "https://images.lumacdn.com/uploads/4z/5338cd00-9349-4064-9063-ebc2f969aace.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-DlDkbALaOy5ymiR",
-          "name": "Tokenized Money Market Funds: The Institutional On-Ramp That Actually Makes Sense",
-          "start_at": "2026-08-21T02:00:00.000Z",
-          "end_at": "2026-08-21T09:00:00.000Z",
-          "url": "https://lu.ma/tokenizedmmf",
-          "cover_url": "https://images.lumacdn.com/uploads/hm/774d51c3-25d7-4025-afc3-631f0c47ef47.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-cifgx1xtlfyUF6h",
-          "name": "Stablecoin Readiness Workshop: What Banks, PSPs and Corporates Need Before Going Live",
-          "start_at": "2026-08-21T02:00:00.000Z",
-          "end_at": "2026-08-21T09:00:00.000Z",
-          "url": "https://lu.ma/stablecoinworkshop",
-          "cover_url": "https://images.lumacdn.com/uploads/n3/30baf866-7165-4f3b-ac13-47912d753bcc.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-ZBKPThYTPNzyVQL",
           "name": "Stablecoins in Asia: From Crypto Settlement to Real Corporate Payments",
           "start_at": "2026-08-21T02:00:00.000Z",
-          "end_at": "2026-08-21T09:00:00.000Z",
+          "end_at": "2026-08-21T03:30:00.000Z",
           "url": "https://lu.ma/stablecoinasia",
           "cover_url": "https://images.lumacdn.com/uploads/l5/8522e0fe-843a-4d5a-a1bf-70869cf314a3.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-ojFgVsrHbRsj8YT",
+          "name": "Tokenization: Which Assets Will Actually Scale in Asia?",
+          "start_at": "2026-08-21T04:00:00.000Z",
+          "end_at": "2026-08-21T05:30:00.000Z",
+          "url": "https://lu.ma/tokenizationasia",
+          "cover_url": "https://images.lumacdn.com/uploads/4z/5338cd00-9349-4064-9063-ebc2f969aace.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
@@ -726,6 +708,15 @@
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-cifgx1xtlfyUF6h",
+          "name": "Stablecoin Readiness Workshop: What Banks, PSPs and Corporates Need Before Going Live",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T07:30:00.000Z",
+          "url": "https://lu.ma/stablecoinworkshop",
+          "cover_url": "https://images.lumacdn.com/uploads/n3/30baf866-7165-4f3b-ac13-47912d753bcc.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-9G7sJnBQRWI5rhc",
           "name": "Tokocrypto Beach Horizon – Official Side Event at Coinfest Asia 2026",
           "start_at": "2026-08-21T06:00:00.000Z",
@@ -750,6 +741,15 @@
           "end_at": "2026-08-21T08:30:00.000Z",
           "url": "https://lu.ma/japangtm",
           "cover_url": "https://images.lumacdn.com/uploads/5c/de54a349-1a12-4199-898c-dd920a9117d6.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-DlDkbALaOy5ymiR",
+          "name": "Tokenized Money Market Funds: The Institutional On-Ramp That Actually Makes Sense",
+          "start_at": "2026-08-21T08:00:00.000Z",
+          "end_at": "2026-08-21T09:30:00.000Z",
+          "url": "https://lu.ma/tokenizedmmf",
+          "cover_url": "https://images.lumacdn.com/uploads/hm/774d51c3-25d7-4025-afc3-631f0c47ef47.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
