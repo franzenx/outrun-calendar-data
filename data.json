@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T08:09:28Z",
+  "last_updated": "2026-07-22T13:22:53Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -741,15 +741,6 @@
           "end_at": "2026-08-21T08:30:00.000Z",
           "url": "https://lu.ma/japangtm",
           "cover_url": "https://images.lumacdn.com/uploads/5c/de54a349-1a12-4199-898c-dd920a9117d6.jpg",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-DlDkbALaOy5ymiR",
-          "name": "Tokenized Money Market Funds: The Institutional On-Ramp That Actually Makes Sense",
-          "start_at": "2026-08-21T08:00:00.000Z",
-          "end_at": "2026-08-21T09:30:00.000Z",
-          "url": "https://lu.ma/tokenizedmmf",
-          "cover_url": "https://images.lumacdn.com/uploads/hm/774d51c3-25d7-4025-afc3-631f0c47ef47.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
