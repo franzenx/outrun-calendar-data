@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T01:55:37Z",
+  "last_updated": "2026-07-23T08:12:39Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -591,24 +591,6 @@
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
-          "api_id": "evt-DdsMDWvHfSxOj04",
-          "name": "Alpha Hunting Masterclass",
-          "start_at": "2026-08-20T06:00:00.000Z",
-          "end_at": "2026-08-20T07:00:00.000Z",
-          "url": "https://lu.ma/alphahuntingmasterclass",
-          "cover_url": "https://images.lumacdn.com/uploads/yz/eb42d0db-9a73-4e9b-a3a4-1712712444a9.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-OeoQzPahM4ypTQe",
-          "name": "Gemini AI Masterclass",
-          "start_at": "2026-08-20T06:00:00.000Z",
-          "end_at": "2026-08-20T07:00:00.000Z",
-          "url": "https://lu.ma/geminiaimasterclass",
-          "cover_url": "https://images.lumacdn.com/uploads/o1/d2afb683-b7b0-4798-9a3f-f655c08a5585.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-vnR3XX1kfSbsScG",
           "name": "HER Alpha Session!",
           "start_at": "2026-08-20T07:00:00.000Z",
@@ -627,12 +609,30 @@
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-DdsMDWvHfSxOj04",
+          "name": "Alpha Hunting Masterclass",
+          "start_at": "2026-08-20T07:00:00.000Z",
+          "end_at": "2026-08-20T08:00:00.000Z",
+          "url": "https://lu.ma/alphahuntingmasterclass",
+          "cover_url": "https://images.lumacdn.com/uploads/yz/eb42d0db-9a73-4e9b-a3a4-1712712444a9.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-qu7qYfcCshW6GvO",
           "name": "Yap to Earn",
           "start_at": "2026-08-20T08:00:00.000Z",
           "end_at": "2026-08-20T09:00:00.000Z",
           "url": "https://lu.ma/yaptoearn",
           "cover_url": "https://images.lumacdn.com/uploads/gw/827b69fb-34ce-4a17-a9c6-1d13dbc28a98.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-OeoQzPahM4ypTQe",
+          "name": "Gemini AI Masterclass",
+          "start_at": "2026-08-20T08:00:00.000Z",
+          "end_at": "2026-08-20T09:00:00.000Z",
+          "url": "https://lu.ma/geminiaimasterclass",
+          "cover_url": "https://images.lumacdn.com/uploads/o1/d2afb683-b7b0-4798-9a3f-f655c08a5585.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
@@ -652,6 +652,15 @@
           "url": "https://lu.ma/s928s2gf",
           "cover_url": "https://images.lumacdn.com/uploads/h1/f1510e70-dfaa-4c67-9982-c6d129918e85.jpg",
           "location": "Tropical Temptation - Adult Only Beach Club by Wonderspace, Melasti Beach 88, Uluwatu, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-rTu1qS9D2RMFpcB",
+          "name": "Builders Who Ship",
+          "start_at": "2026-08-20T11:00:00.000Z",
+          "end_at": "2026-08-20T13:30:00.000Z",
+          "url": "https://lu.ma/builderswhoship",
+          "cover_url": "https://images.lumacdn.com/uploads/ak/f8a8a695-d458-486b-9608-0f481b77c913.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
           "api_id": "evt-ZBKPThYTPNzyVQL",
@@ -679,15 +688,6 @@
           "url": "https://lu.ma/93geox3v",
           "cover_url": "https://images.lumacdn.com/uploads/gt/e235b0ff-76fb-41a8-8c26-efba418825e8.jpg",
           "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-UlMFRmG98KSh65r",
-          "name": "Bitcoin Crash Course",
-          "start_at": "2026-08-21T06:00:00.000Z",
-          "end_at": "2026-08-21T07:00:00.000Z",
-          "url": "https://lu.ma/btccrashcourse",
-          "cover_url": "https://images.lumacdn.com/uploads/hf/b0f42707-7da8-482d-b784-3c635487368f.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
           "api_id": "evt-Np2mc7aDRO8Y5vN",
@@ -726,12 +726,12 @@
           "location": "Kabupaten Badung, Indonesia"
         },
         {
-          "api_id": "evt-AE0s6DH7pebnIr5",
-          "name": "Taiwan GTM Session",
+          "api_id": "evt-UlMFRmG98KSh65r",
+          "name": "Bitcoin Crash Course",
           "start_at": "2026-08-21T07:00:00.000Z",
-          "end_at": "2026-08-21T08:00:00.000Z",
-          "url": "https://lu.ma/taiwangtm",
-          "cover_url": "https://images.lumacdn.com/uploads/vh/cca08cf2-1a0e-43cf-9f13-75c099d249d5.jpg",
+          "end_at": "2026-08-21T07:30:00.000Z",
+          "url": "https://lu.ma/btccrashcourse",
+          "cover_url": "https://images.lumacdn.com/uploads/hf/b0f42707-7da8-482d-b784-3c635487368f.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
