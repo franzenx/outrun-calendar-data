@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T01:29:22Z",
+  "last_updated": "2026-07-30T08:08:20Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -713,7 +713,7 @@
           "start_at": "2026-08-21T04:00:00.000Z",
           "end_at": "2026-08-21T13:00:00.000Z",
           "url": "https://lu.ma/93geox3v",
-          "cover_url": "https://images.lumacdn.com/uploads/gt/e235b0ff-76fb-41a8-8c26-efba418825e8.jpg",
+          "cover_url": "https://images.lumacdn.com/uploads/ge/b8d92754-5769-401c-8cbe-acd18b29da23.jpg",
           "location": "Kabupaten Badung, Indonesia"
         },
         {
@@ -745,11 +745,11 @@
         },
         {
           "api_id": "evt-cifgx1xtlfyUF6h",
-          "name": "Stablecoin Readiness Workshop: What Banks, PSPs and Corporates Need Before Going Live | Powered by ICEx Group",
+          "name": "Stablecoin & The Tokenized World: Is Your Institution Actually Ready to Go Live and Not Miss The Wave | Powered by ICEx Group",
           "start_at": "2026-08-21T06:00:00.000Z",
           "end_at": "2026-08-21T07:30:00.000Z",
-          "url": "https://lu.ma/stablecoinworkshop",
-          "cover_url": "https://images.lumacdn.com/uploads/8r/21dd0220-44e5-4634-9c6a-4e421c445f1c.png",
+          "url": "https://lu.ma/stablecoinandtokenized",
+          "cover_url": "https://images.lumacdn.com/uploads/8d/0e472c32-bb4c-476b-9205-45593a120607.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
@@ -830,7 +830,7 @@
           "start_at": "2026-10-01T02:00:00.000Z",
           "end_at": "2026-10-01T08:00:00.000Z",
           "url": "https://lu.ma/HSC_Seoul",
-          "cover_url": "https://images.lumacdn.com/uploads/zg/20caefd8-c2da-4040-968b-c3e92a2bade3.gif",
+          "cover_url": "https://images.lumacdn.com/uploads/x9/99813a22-6758-405d-9d85-11f0cbd9d0b6.gif",
           "location": "Novotel Ambassador Seoul Gangnam, 130 Bongeunsa-ro, Gangnam District, Seoul, South Korea"
         }
       ]
