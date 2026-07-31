@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T01:56:24Z",
+  "last_updated": "2026-07-31T08:35:37Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -690,6 +690,15 @@
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-ActCvY4J9ASVQH4",
+          "name": "CZR VIP CoinFest Asia Edition",
+          "start_at": "2026-08-20T12:00:00.000Z",
+          "end_at": "2026-08-20T15:00:00.000Z",
+          "url": "https://lu.ma/hz1uqoz4",
+          "cover_url": "https://images.lumacdn.com/uploads/sd/39bc4107-c64b-4a4b-8082-117ec38229bb.jpg",
+          "location": "Bali, Indonesia"
+        },
+        {
           "api_id": "evt-ZBKPThYTPNzyVQL",
           "name": "Stablecoins in Asia: From Crypto Settlement to Real Corporate Payments | Powered by ICEx Group",
           "start_at": "2026-08-21T02:00:00.000Z",
@@ -751,15 +760,6 @@
           "url": "https://lu.ma/stablecoinandtokenized",
           "cover_url": "https://images.lumacdn.com/uploads/8d/0e472c32-bb4c-476b-9205-45593a120607.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-9G7sJnBQRWI5rhc",
-          "name": "Tokocrypto Beach Horizon – Official Side Event at Coinfest Asia 2026",
-          "start_at": "2026-08-21T06:00:00.000Z",
-          "end_at": "2026-08-21T11:30:00.000Z",
-          "url": "https://lu.ma/2qetiyem",
-          "cover_url": "https://images.lumacdn.com/uploads/i2/c81403d0-5ef2-4948-870c-bca6b5365c33.png",
-          "location": "Kabupaten Badung, Indonesia"
         }
       ]
     },
