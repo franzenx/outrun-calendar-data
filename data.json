@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T01:57:38Z",
+  "last_updated": "2026-08-01T08:05:00Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -798,6 +798,33 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
+          "api_id": "evt-O5Q7EdkGi9b5HtD",
+          "name": "Rayls Community Meetup: Seoul",
+          "start_at": "2026-09-28T09:00:00.000Z",
+          "end_at": "2026-09-28T11:30:00.000Z",
+          "url": "https://lu.ma/blzswe27",
+          "cover_url": "https://images.lumacdn.com/uploads/0c/9f42837b-fe68-4149-b759-489d224e60ea.jpg",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-q3qwenQ4H4OrbEL",
+          "name": "Security Night with Zircuit Finance, Quantstamp, and Common Defense | KBW 2026",
+          "start_at": "2026-09-28T10:00:00.000Z",
+          "end_at": "2026-09-28T13:00:00.000Z",
+          "url": "https://lu.ma/SecurityNight",
+          "cover_url": "https://images.lumacdn.com/uploads/2c/a07b9c1e-e40f-46e7-b0e6-ae9ca2f21a36.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-9wGrh1PnxE7KBhv",
+          "name": "KBW2026 Founders & Investors Brunch ✨ (invite only)",
+          "start_at": "2026-09-29T02:00:00.000Z",
+          "end_at": "2026-09-29T05:00:00.000Z",
+          "url": "https://lu.ma/j7lfixyv",
+          "cover_url": "https://images.lumacdn.com/event-covers/bz/215e20ee-0465-4c00-92ed-8ec67b63cb4c.png",
+          "location": "Seoul"
+        },
+        {
           "api_id": "evt-HSyy3FwAufu321U",
           "name": "CONNECT by Cointelegraph: Seoul Edition",
           "start_at": "2026-09-29T03:00:00.000Z",
@@ -807,6 +834,24 @@
           "location": "Seoul, South Korea"
         },
         {
+          "api_id": "evt-SZI6XvDhbmFz2tH",
+          "name": "Onchain Capital & Liquidity: DeFi & AI📍 Seoul, South Korea | 🗓 Sep 29 - Oct 1 | During Korea Blockchain Week",
+          "start_at": "2026-09-29T05:00:00.000Z",
+          "end_at": "2026-09-29T08:00:00.000Z",
+          "url": "https://lu.ma/uz21gg7p",
+          "cover_url": "https://images.lumacdn.com/event-covers/3o/a820b4c8-78e3-4ece-a021-d116c49f2f96.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-dpQDosvxrmEEAlK",
+          "name": "KBW2026 VCs & LPs Cocktail Hour ✨ (invite only)",
+          "start_at": "2026-09-29T06:00:00.000Z",
+          "end_at": "2026-09-29T08:00:00.000Z",
+          "url": "https://lu.ma/j5ij7z8n",
+          "cover_url": "https://images.lumacdn.com/event-covers/28/6035dd76-757a-49f7-a74c-0d13df3890bd.png",
+          "location": "Seoul"
+        },
+        {
           "api_id": "evt-ZR9kvg5Gf1VTqvI",
           "name": "DIGITAL AF • Exhibition & Side Events Space • Korea Blockchain Week",
           "start_at": "2026-09-29T07:00:00.000Z",
@@ -814,6 +859,42 @@
           "url": "https://lu.ma/zecq09tp",
           "cover_url": "https://images.lumacdn.com/uploads/6g/8d389de3-1edb-4ce8-bafd-87420372c6d9.gif",
           "location": "14-15 Yangjae-dong, Seocho District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-a0PGWXfAij4vNVH",
+          "name": "Institutional Onchain: RWAs & Stablecoins📍Seoul, South Korea | 🗓 Sep 29 - Oct 1| During Korea Blockchain Week",
+          "start_at": "2026-09-30T05:00:00.000Z",
+          "end_at": "2026-09-30T06:00:00.000Z",
+          "url": "https://lu.ma/qsfjc56x",
+          "cover_url": "https://images.lumacdn.com/event-covers/8s/a652f630-b805-4c5b-a292-1d13f48faa43.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-USmNC1PxmwCRB7C",
+          "name": "Perps × Institutional: Trading, Liquidity & the Onchain Economy | Seoul | 🗓 30th September | During Korea Blockchain Week",
+          "start_at": "2026-09-30T07:30:00.000Z",
+          "end_at": "2026-09-30T12:00:00.000Z",
+          "url": "https://lu.ma/v6bkeysx",
+          "cover_url": "https://images.lumacdn.com/uploads/oo/832d7821-1880-4f7f-9bc5-da05962b31c8.png",
+          "location": "South Korea"
+        },
+        {
+          "api_id": "evt-uMma490f6FR40ix",
+          "name": "Rayls in Seoul | KBW",
+          "start_at": "2026-09-30T09:00:00.000Z",
+          "end_at": "2026-09-30T12:30:00.000Z",
+          "url": "https://lu.ma/r5p3iwb8",
+          "cover_url": "https://images.lumacdn.com/uploads/0c/9f42837b-fe68-4149-b759-489d224e60ea.jpg",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-lEfHHrrOw3wxB5n",
+          "name": "Quantstamp X Common Defense Gangnam Mixer | KBW 2026",
+          "start_at": "2026-09-30T10:00:00.000Z",
+          "end_at": "2026-09-30T13:00:00.000Z",
+          "url": "https://lu.ma/wslf2frf",
+          "cover_url": "https://images.lumacdn.com/uploads/nt/32a402d5-3787-4773-b57b-f9a58395ade7.png",
+          "location": "Seoul, South Korea"
         },
         {
           "api_id": "evt-4Ya09DCG0Lsx7ep",
