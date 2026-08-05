@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T13:44:38Z",
+  "last_updated": "2026-08-05T19:15:39Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -681,6 +681,15 @@
           "location": "Kabupaten Badung, Indonesia"
         },
         {
+          "api_id": "evt-hgzKdHo7ZGSmhoM",
+          "name": "OSL's Obsession Night",
+          "start_at": "2026-08-19T11:00:00.000Z",
+          "end_at": "2026-08-19T13:00:00.000Z",
+          "url": "https://lu.ma/mho2q7v3",
+          "cover_url": "https://images.lumacdn.com/uploads/8y/1691efdd-06ff-4d5e-b388-bd92ba1c4b12.jpg",
+          "location": "Mïnoo Beach Club, Pantai Melasti Jl. Pengayutan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-VeaU5sstMpFMM75",
           "name": "Compass Chats for Founders, BD, and Investors",
           "start_at": "2026-08-19T23:00:00.000Z",
@@ -741,15 +750,6 @@
           "end_at": "2026-08-20T08:00:00.000Z",
           "url": "https://lu.ma/alphahuntingmasterclass",
           "cover_url": "https://images.lumacdn.com/uploads/yz/eb42d0db-9a73-4e9b-a3a4-1712712444a9.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-qu7qYfcCshW6GvO",
-          "name": "Yap to Earn",
-          "start_at": "2026-08-20T08:00:00.000Z",
-          "end_at": "2026-08-20T08:45:00.000Z",
-          "url": "https://lu.ma/yaptoearn",
-          "cover_url": "https://images.lumacdn.com/uploads/gw/827b69fb-34ce-4a17-a9c6-1d13dbc28a98.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
@@ -885,7 +885,7 @@
           "end_at": "2026-09-30T10:00:00.000Z",
           "url": "https://lu.ma/ceudul8s",
           "cover_url": "https://images.lumacdn.com/uploads/4w/61d0dbaa-552c-4a75-85ea-d7e18b7115d0.png",
-          "location": "SKY31 Convention, 300 Olympic-ro, Songpa District, Seoul, South Korea"
+          "location": "Seoul, South Korea"
         },
         {
           "api_id": "evt-uMma490f6FR40ix",
