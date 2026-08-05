@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T01:45:08Z",
+  "last_updated": "2026-08-05T08:18:53Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -663,6 +663,15 @@
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-4MTbCbEI3UPBR1P",
+          "name": "The OG Night",
+          "start_at": "2026-08-20T09:30:00.000Z",
+          "end_at": "2026-08-20T14:00:00.000Z",
+          "url": "https://lu.ma/mcp6qfip",
+          "cover_url": "https://images.lumacdn.com/uploads/3j/341b3f47-7ded-4a54-bcc5-3d1d305ff129.jpg",
+          "location": "The Tulou Bali by Nakula, 55VH+CVJ, Kutuh, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-DONKL81R3LSYCjk",
           "name": "Zoomex Summer Bay Party: Trade the Tide — Coinfest Asia 2026 Side Event",
           "start_at": "2026-08-20T11:00:00.000Z",
@@ -733,24 +742,6 @@
           "url": "https://lu.ma/whatthehack",
           "cover_url": "https://images.lumacdn.com/uploads/dr/7b6ee75c-319f-44f1-b338-ab82ad83d532.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-cifgx1xtlfyUF6h",
-          "name": "Stablecoin & The Tokenized World: Is Your Institution Actually Ready to Go Live and Not Miss The Wave | Powered by ICEx Group",
-          "start_at": "2026-08-21T06:00:00.000Z",
-          "end_at": "2026-08-21T07:30:00.000Z",
-          "url": "https://lu.ma/stablecoinandtokenized",
-          "cover_url": "https://images.lumacdn.com/uploads/8d/0e472c32-bb4c-476b-9205-45593a120607.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-9G7sJnBQRWI5rhc",
-          "name": "Tokocrypto Beach Horizon – Official Side Event at Coinfest Asia 2026",
-          "start_at": "2026-08-21T06:00:00.000Z",
-          "end_at": "2026-08-21T11:30:00.000Z",
-          "url": "https://lu.ma/2qetiyem",
-          "cover_url": "https://images.lumacdn.com/uploads/i2/c81403d0-5ef2-4948-870c-bca6b5365c33.png",
-          "location": "Kabupaten Badung, Indonesia"
         }
       ]
     },
