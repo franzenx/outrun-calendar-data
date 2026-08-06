@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T08:16:16Z",
+  "last_updated": "2026-08-06T13:42:49Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -708,6 +708,15 @@
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-S6tKLksPwQLJ127",
+          "name": "CFX Seaside Mixer",
+          "start_at": "2026-08-20T05:00:00.000Z",
+          "end_at": "2026-08-20T08:00:00.000Z",
+          "url": "https://lu.ma/3xty8cva",
+          "cover_url": "https://images.lumacdn.com/uploads/6b/196b3784-c00f-410b-97a7-470ce89cd576.png",
+          "location": "White Rock Beach Club, Pantai Melasti, Uluwatu Jl. Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-vnR3XX1kfSbsScG",
           "name": "HER Alpha Session!",
           "start_at": "2026-08-20T06:00:00.000Z",
@@ -742,15 +751,6 @@
           "url": "https://lu.ma/alphahuntingmasterclass",
           "cover_url": "https://images.lumacdn.com/uploads/yz/eb42d0db-9a73-4e9b-a3a4-1712712444a9.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-La3dHaiZHHZdC2i",
-          "name": "Bybit Indonesia | Tether | Pave Bank : Sunset Treasure — Coinfest Asia 2026 Side Event",
-          "start_at": "2026-08-20T08:00:00.000Z",
-          "end_at": "2026-08-20T12:00:00.000Z",
-          "url": "https://lu.ma/rvq8odvd",
-          "cover_url": "https://images.lumacdn.com/uploads/jj/67810b4e-61cd-45e4-a2b2-b06dae61afa6.png",
-          "location": "Magus Warung, Pantai Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia"
         }
       ]
     },
