@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T02:09:37Z",
+  "last_updated": "2026-08-07T07:00:37Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,15 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-XqTqCpINBGN5IBJ",
-          "name": "VC Pitch Competition #7 by Fibonacci Capital and Crypto Executives",
-          "start_at": "2026-08-07T13:00:00.000Z",
-          "end_at": "2026-08-07T14:30:00.000Z",
-          "url": "https://lu.ma/fibonacci-zost",
-          "cover_url": "https://images.lumacdn.com/api-uploads/m0/18c61bb4-4b4b-4109-8c78-0cc321f2d521.png",
-          "location": ""
-        },
-        {
           "api_id": "evt-q1PqoRxNhY1yps9",
           "name": "Building on Web3: Smart Contract Development with Solidity",
           "start_at": "2026-08-18T01:00:00.000Z",
@@ -690,6 +681,15 @@
           "location": "Badung Regency, Indonesia"
         },
         {
+          "api_id": "evt-XWPY46G3wO1ZX4a",
+          "name": "Tokenize Indonesia Brunch by The Beach Networking",
+          "start_at": "2026-08-20T02:00:00.000Z",
+          "end_at": "2026-08-20T04:00:00.000Z",
+          "url": "https://lu.ma/bvimdiatcoinfest",
+          "cover_url": "https://images.lumacdn.com/uploads/le/2bc5023a-a5aa-4c11-b275-e8cfeb7c2146.png",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
           "api_id": "evt-ITX4qbjfTkDUmqv",
           "name": "MET Bali",
           "start_at": "2026-08-20T03:00:00.000Z",
@@ -751,6 +751,15 @@
           "url": "https://lu.ma/alphahuntingmasterclass",
           "cover_url": "https://images.lumacdn.com/uploads/yz/eb42d0db-9a73-4e9b-a3a4-1712712444a9.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-La3dHaiZHHZdC2i",
+          "name": "Bybit Indonesia | Tether | Pave Bank : Sunset Treasure — Coinfest Asia 2026 Side Event",
+          "start_at": "2026-08-20T08:00:00.000Z",
+          "end_at": "2026-08-20T12:00:00.000Z",
+          "url": "https://lu.ma/rvq8odvd",
+          "cover_url": "https://images.lumacdn.com/uploads/jj/67810b4e-61cd-45e4-a2b2-b06dae61afa6.png",
+          "location": "Magus Warung, Pantai Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia"
         }
       ]
     },
