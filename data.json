@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T01:02:00Z",
+  "last_updated": "2026-08-10T07:12:14Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -681,6 +681,15 @@
           "location": "Badung Regency, Indonesia"
         },
         {
+          "api_id": "evt-I3AOVqlVaUJaQlo",
+          "name": "WEEX AI Trading Lounge @ Coinfest Asia 2026",
+          "start_at": "2026-08-20T01:00:00.000Z",
+          "end_at": "2026-08-21T11:00:00.000Z",
+          "url": "https://lu.ma/1lq115fj",
+          "cover_url": "https://images.lumacdn.com/uploads/rq/19e92821-16e7-48cb-8624-d3033bd8d75e.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-XWPY46G3wO1ZX4a",
           "name": "Tokenize Indonesia Brunch by The Beach Networking",
           "start_at": "2026-08-20T02:00:00.000Z",
@@ -696,7 +705,7 @@
           "end_at": "2026-08-22T13:00:00.000Z",
           "url": "https://lu.ma/pkr27xr4",
           "cover_url": "https://images.lumacdn.com/uploads/as/27ba9ed5-32ca-4f05-b820-c7737b455ab3.png",
-          "location": ""
+          "location": "Wildflower, Jl. Langui Toyaning I Gg. Langui No.45, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
           "api_id": "evt-agcw1R5phtuqMkV",
@@ -751,15 +760,6 @@
           "url": "https://lu.ma/alphahuntingmasterclass",
           "cover_url": "https://images.lumacdn.com/uploads/yz/eb42d0db-9a73-4e9b-a3a4-1712712444a9.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-La3dHaiZHHZdC2i",
-          "name": "Bybit Indonesia | Tether | Pave Bank : Sunset Treasure — Coinfest Asia 2026 Side Event",
-          "start_at": "2026-08-20T08:00:00.000Z",
-          "end_at": "2026-08-20T12:00:00.000Z",
-          "url": "https://lu.ma/rvq8odvd",
-          "cover_url": "https://images.lumacdn.com/uploads/jj/67810b4e-61cd-45e4-a2b2-b06dae61afa6.png",
-          "location": "Magus Warung, Pantai Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia"
         }
       ]
     },
