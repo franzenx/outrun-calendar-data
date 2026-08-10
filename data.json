@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T07:12:14Z",
+  "last_updated": "2026-08-10T12:46:09Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -673,7 +673,7 @@
         },
         {
           "api_id": "evt-VeaU5sstMpFMM75",
-          "name": "Compass: Coinfest Participants List - Founders, Decision Makers, and Investors Available",
+          "name": "Compass for Coinfest Asia 2026 - Founders, Decision Makers, and Investors Available",
           "start_at": "2026-08-19T23:00:00.000Z",
           "end_at": "2026-08-21T15:00:00.000Z",
           "url": "https://lu.ma/8hihd4jz",
@@ -886,15 +886,6 @@
           "url": "https://lu.ma/v6bkeysx",
           "cover_url": "https://images.lumacdn.com/uploads/oo/832d7821-1880-4f7f-9bc5-da05962b31c8.png",
           "location": "South Korea"
-        },
-        {
-          "api_id": "evt-RkBt8FS4w25FuPE",
-          "name": "WON Summit : Stablecoin x Web3 Edition | KBW Seoul",
-          "start_at": "2026-09-30T08:00:00.000Z",
-          "end_at": "2026-09-30T10:00:00.000Z",
-          "url": "https://lu.ma/ceudul8s",
-          "cover_url": "https://images.lumacdn.com/uploads/4w/61d0dbaa-552c-4a75-85ea-d7e18b7115d0.png",
-          "location": "Seoul, South Korea"
         },
         {
           "api_id": "evt-uMma490f6FR40ix",
