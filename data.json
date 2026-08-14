@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T12:42:52Z",
+  "last_updated": "2026-08-14T18:41:16Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -807,12 +807,57 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
+          "api_id": "evt-GUVY4YIIy4kb8Pl",
+          "name": "🟡 Yellow Community Meetup | 커뮤니티 밋업",
+          "start_at": "2026-08-21T05:00:00.000Z",
+          "end_at": "2026-08-21T07:30:00.000Z",
+          "url": "https://lu.ma/YellowKr",
+          "cover_url": "https://images.lumacdn.com/uploads/d8/7bb8b982-e60c-4105-84f2-44524b05b07d.png",
+          "location": "Cafe en Travel, 45 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-rsU3cNMfxi9qRZB",
+          "name": "AI Meets the Chart — A Horizon Series Event @KBW",
+          "start_at": "2026-09-28T08:00:00.000Z",
+          "end_at": "2026-09-28T12:00:00.000Z",
+          "url": "https://lu.ma/5mgf0u76",
+          "cover_url": "https://images.lumacdn.com/uploads/p5/69971990-9609-49b7-be31-ba50a578844c.png",
+          "location": "Alver Coffee Gangnam, 34 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
+        },
+        {
           "api_id": "evt-O5Q7EdkGi9b5HtD",
           "name": "Rayls Community Meetup: Seoul",
           "start_at": "2026-09-28T09:00:00.000Z",
           "end_at": "2026-09-28T11:30:00.000Z",
           "url": "https://lu.ma/blzswe27",
           "cover_url": "https://images.lumacdn.com/uploads/0c/9f42837b-fe68-4149-b759-489d224e60ea.jpg",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-QU74WDor7gNaeYC",
+          "name": "Agentic Payments Onchain",
+          "start_at": "2026-09-28T09:00:00.000Z",
+          "end_at": "2026-09-28T14:00:00.000Z",
+          "url": "https://lu.ma/mw84pfjm",
+          "cover_url": "https://images.lumacdn.com/uploads/5r/835ac42d-9ee7-44b2-99af-3cfabdf7eb39.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-tQaz3qZoLer3Obc",
+          "name": "OFF THE RECORD",
+          "start_at": "2026-09-28T09:00:00.000Z",
+          "end_at": "2026-09-28T13:00:00.000Z",
+          "url": "https://lu.ma/0bbma5yj",
+          "cover_url": "https://images.lumacdn.com/uploads/5r/65416a72-7c65-467e-b258-a03e74147540.png",
+          "location": "로컬호스트Web3, 609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-RYncmgqLwUOkZhy",
+          "name": "글로벌 자산 토큰화 및 온체인 자본시장 세미나 & VIP 만찬 | KBW 2026 : Global Financial Institution VIP Seminar/Dinner (Invite-Only)",
+          "start_at": "2026-09-28T09:00:00.000Z",
+          "end_at": "2026-09-28T12:00:00.000Z",
+          "url": "https://lu.ma/i0cqkgyt",
+          "cover_url": "https://images.lumacdn.com/uploads/ck/c5bcde60-8e07-43e7-9fb2-149dad829a4e.png",
           "location": "Seoul, South Korea"
         },
         {
@@ -870,6 +915,24 @@
           "location": "14-15 Yangjae-dong, Seocho District, Seoul, South Korea"
         },
         {
+          "api_id": "evt-1XCx48uyAdwb72y",
+          "name": "Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon",
+          "start_at": "2026-09-29T07:30:00.000Z",
+          "end_at": "2026-09-29T10:30:00.000Z",
+          "url": "https://lu.ma/fop77t0t",
+          "cover_url": "https://images.lumacdn.com/uploads/kq/cfdd63a6-0c4b-4ba1-af8d-6f71a8a202e6.png",
+          "location": "Parnas Tower, 521 Teheran-ro, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-xf0qHgukzEbjKNO",
+          "name": "Solana Summit Korea",
+          "start_at": "2026-09-30T01:30:00.000Z",
+          "end_at": "2026-09-30T08:00:00.000Z",
+          "url": "https://lu.ma/solana-summit-korea-2026",
+          "cover_url": "https://images.lumacdn.com/uploads/t5/63c127c2-6d34-4575-8f5d-c4d66345056f.png",
+          "location": "Seoul, South Korea"
+        },
+        {
           "api_id": "evt-a0PGWXfAij4vNVH",
           "name": "Institutional Onchain: RWAs & Stablecoins📍Seoul, South Korea | 🗓 Sep 29 - Oct 1| During Korea Blockchain Week",
           "start_at": "2026-09-30T05:00:00.000Z",
@@ -906,13 +969,22 @@
           "location": "Seoul, South Korea"
         },
         {
-          "api_id": "evt-4Ya09DCG0Lsx7ep",
-          "name": "HSC Conference Seoul",
-          "start_at": "2026-10-01T02:00:00.000Z",
-          "end_at": "2026-10-01T08:00:00.000Z",
-          "url": "https://lu.ma/HSC_Seoul",
-          "cover_url": "https://images.lumacdn.com/uploads/x9/99813a22-6758-405d-9d85-11f0cbd9d0b6.gif",
-          "location": "Novotel Ambassador Seoul Gangnam, 130 Bongeunsa-ro, Gangnam District, Seoul, South Korea"
+          "api_id": "evt-5oBIKdmJwjmgUoW",
+          "name": "Korea Blockchain Week Networking Rooftop",
+          "start_at": "2026-09-30T10:00:00.000Z",
+          "end_at": "2026-09-30T14:00:00.000Z",
+          "url": "https://lu.ma/to04r60x",
+          "cover_url": "https://images.lumacdn.com/uploads/0y/842f9a4a-434b-4d07-977b-9807ce1a45c5.jpg",
+          "location": "Rooftop Kloud, South Korea, Seoul, Gangnam District, Teheran-ro 25-gil, 10 21 층"
+        },
+        {
+          "api_id": "evt-SjRQeKMUJV5nasP",
+          "name": "Frontier Traders: Seoul Showdown",
+          "start_at": "2026-09-30T11:00:00.000Z",
+          "end_at": "2026-09-30T15:00:00.000Z",
+          "url": "https://lu.ma/frontier-traders-KR",
+          "cover_url": "https://images.lumacdn.com/uploads/vc/c2a62c45-54ac-4d7a-895b-f11cd935cf5d.png",
+          "location": "Seoul, South Korea"
         }
       ]
     },
