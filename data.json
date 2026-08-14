@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T01:08:59Z",
+  "last_updated": "2026-08-14T07:10:05Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -645,6 +645,15 @@
           "location": "Melasti Beach, Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-LOObHzyeMqzuHoB",
+          "name": "BTSE Built For You - Bali",
+          "start_at": "2026-08-19T08:00:00.000Z",
+          "end_at": "2026-08-19T12:00:00.000Z",
+          "url": "https://lu.ma/btse-4v4x",
+          "cover_url": "https://images.lumacdn.com/uploads/u7/9c392a87-852e-4425-9050-da6addad647a.png",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
           "api_id": "evt-OQIRDkJxf6Wnpkj",
           "name": "Bali Onchain 🇮🇩 | During Coinfest 2026",
           "start_at": "2026-08-19T08:00:00.000Z",
@@ -750,15 +759,6 @@
           "end_at": "2026-08-20T07:00:00.000Z",
           "url": "https://lu.ma/indogtm",
           "cover_url": "https://images.lumacdn.com/uploads/wy/c98ac215-db4b-41ba-926a-e961921abfe5.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-qqhv1rHqWi7xxLG",
-          "name": "Malaysia GTM Session",
-          "start_at": "2026-08-20T07:00:00.000Z",
-          "end_at": "2026-08-20T08:00:00.000Z",
-          "url": "https://lu.ma/malaysiagtm",
-          "cover_url": "https://images.lumacdn.com/uploads/pw/2a790c1b-bb24-4613-8aa6-4aec3ad3ed74.jpg",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
