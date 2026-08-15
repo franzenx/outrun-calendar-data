@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T12:18:48Z",
+  "last_updated": "2026-08-15T18:15:18Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -695,7 +695,7 @@
           "start_at": "2026-08-19T23:00:00.000Z",
           "end_at": "2026-08-21T15:00:00.000Z",
           "url": "https://lu.ma/8hihd4jz",
-          "cover_url": "https://images.lumacdn.com/uploads/77/e21a7df8-b920-465b-869a-c0220c13d35d.jpg",
+          "cover_url": "https://images.lumacdn.com/uploads/b4/93339f98-3fb4-4959-8dda-96599923c9b7.jpg",
           "location": "Badung Regency, Indonesia"
         },
         {
@@ -933,6 +933,15 @@
           "location": "Seoul, South Korea"
         },
         {
+          "api_id": "evt-jhSQhXWcVPGAHqv",
+          "name": "Founders & VCs Brunch and Lunch 🥐 KBW 2026",
+          "start_at": "2026-09-30T02:00:00.000Z",
+          "end_at": "2026-09-30T05:00:00.000Z",
+          "url": "https://lu.ma/8pd2nqja",
+          "cover_url": "https://images.lumacdn.com/uploads/zf/0686dd37-4b51-4b3c-b8fb-26bcd0633ed0.png",
+          "location": "Seoul, South Korea"
+        },
+        {
           "api_id": "evt-a0PGWXfAij4vNVH",
           "name": "Institutional Onchain: RWAs & Stablecoins📍Seoul, South Korea | 🗓 Sep 29 - Oct 1| During Korea Blockchain Week",
           "start_at": "2026-09-30T05:00:00.000Z",
@@ -976,15 +985,6 @@
           "url": "https://lu.ma/to04r60x",
           "cover_url": "https://images.lumacdn.com/uploads/0y/842f9a4a-434b-4d07-977b-9807ce1a45c5.jpg",
           "location": "Rooftop Kloud, South Korea, Seoul, Gangnam District, Teheran-ro 25-gil, 10 21 층"
-        },
-        {
-          "api_id": "evt-SjRQeKMUJV5nasP",
-          "name": "Frontier Traders: Seoul Showdown",
-          "start_at": "2026-09-30T11:00:00.000Z",
-          "end_at": "2026-09-30T15:00:00.000Z",
-          "url": "https://lu.ma/frontier-traders-KR",
-          "cover_url": "https://images.lumacdn.com/uploads/vc/c2a62c45-54ac-4d7a-895b-f11cd935cf5d.png",
-          "location": "Seoul, South Korea"
         }
       ]
     },
