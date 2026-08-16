@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T06:23:25Z",
+  "last_updated": "2026-08-16T12:20:17Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -645,6 +645,15 @@
           "location": "Melasti Beach, Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-FV9AGNjyDdyT3S6",
+          "name": "Mopay: The First Look",
+          "start_at": "2026-08-19T08:00:00.000Z",
+          "end_at": "2026-08-19T13:30:00.000Z",
+          "url": "https://lu.ma/xd0x09im",
+          "cover_url": "https://images.lumacdn.com/uploads/sd/a0841fdd-e420-4588-8e3c-28396f4e1e3b.png",
+          "location": "Ulu Cliffhouse, Pecatu, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-LOObHzyeMqzuHoB",
           "name": "BTSE Built For You - Bali",
           "start_at": "2026-08-19T08:00:00.000Z",
@@ -750,15 +759,6 @@
           "end_at": "2026-08-20T07:00:00.000Z",
           "url": "https://lu.ma/heralphasession",
           "cover_url": "https://images.lumacdn.com/uploads/3g/c1f6b942-9fd6-46e8-aaf7-27a9011e2fc9.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-naRNwTqp9oEFrHs",
-          "name": "Indonesia GTM Session",
-          "start_at": "2026-08-20T06:30:00.000Z",
-          "end_at": "2026-08-20T07:00:00.000Z",
-          "url": "https://lu.ma/indogtm",
-          "cover_url": "https://images.lumacdn.com/uploads/wy/c98ac215-db4b-41ba-926a-e961921abfe5.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
