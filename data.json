@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T12:23:45Z",
+  "last_updated": "2026-08-17T18:24:23Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -632,7 +632,7 @@
           "start_at": "2026-08-19T04:00:00.000Z",
           "end_at": "2026-08-19T10:00:00.000Z",
           "url": "https://lu.ma/pitch-fest-Bali2026",
-          "cover_url": "https://images.lumacdn.com/uploads/yp/9544de18-28c4-4013-adbf-8a662db31587.png",
+          "cover_url": "https://images.lumacdn.com/uploads/68/300060b9-f1ca-4027-8be6-94d01a3658db.png",
           "location": "Dewata Padel Jimbaran Bali, Jl. Uluwatu II No.9X, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
@@ -807,15 +807,6 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
-          "api_id": "evt-GUVY4YIIy4kb8Pl",
-          "name": "🟡 Yellow Community Meetup | 커뮤니티 밋업",
-          "start_at": "2026-08-21T05:00:00.000Z",
-          "end_at": "2026-08-21T07:30:00.000Z",
-          "url": "https://lu.ma/YellowKr",
-          "cover_url": "https://images.lumacdn.com/uploads/d8/7bb8b982-e60c-4105-84f2-44524b05b07d.png",
-          "location": "Cafe en Travel, 45 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
-        },
-        {
           "api_id": "evt-rsU3cNMfxi9qRZB",
           "name": "AI Meets the Chart — A Horizon Series Event @KBW",
           "start_at": "2026-09-28T08:00:00.000Z",
@@ -985,6 +976,15 @@
           "url": "https://lu.ma/to04r60x",
           "cover_url": "https://images.lumacdn.com/uploads/0y/842f9a4a-434b-4d07-977b-9807ce1a45c5.jpg",
           "location": "Rooftop Kloud, South Korea, Seoul, Gangnam District, Teheran-ro 25-gil, 10 21 층"
+        },
+        {
+          "api_id": "evt-SjRQeKMUJV5nasP",
+          "name": "Frontier Traders: Seoul Showdown",
+          "start_at": "2026-09-30T11:00:00.000Z",
+          "end_at": "2026-09-30T15:00:00.000Z",
+          "url": "https://lu.ma/frontier-traders-KR",
+          "cover_url": "https://images.lumacdn.com/uploads/vc/c2a62c45-54ac-4d7a-895b-f11cd935cf5d.png",
+          "location": "Seoul, South Korea"
         }
       ]
     },
