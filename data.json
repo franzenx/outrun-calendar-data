@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T12:25:40Z",
+  "last_updated": "2026-08-18T18:23:10Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,24 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-rV8614yFl7wxHW6",
-          "name": "🚀 CryptoHack x BlockU Bali Meetup",
-          "start_at": "2026-08-18T09:00:00.000Z",
-          "end_at": "2026-08-18T14:00:00.000Z",
-          "url": "https://lu.ma/c7xkuz7h",
-          "cover_url": "https://images.lumacdn.com/uploads/26/593914c1-1919-4fcd-8b91-176d22514ef2.png",
-          "location": "Cafe Gemitir Bali, Jl. Nakula No.88, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80119, Indonesia"
-        },
-        {
-          "api_id": "evt-GXLPG05ZRiKSAEd",
-          "name": "Pitch Fest Bali: Cohort Prep",
-          "start_at": "2026-08-18T11:30:00.000Z",
-          "end_at": "2026-08-18T12:30:00.000Z",
-          "url": "https://lu.ma/pitch-fest-Bali-cohort",
-          "cover_url": "https://images.lumacdn.com/uploads/ut/de4038f6-163f-4451-9c78-1de12ee77579.png",
-          "location": ""
-        },
-        {
           "api_id": "evt-BhH0y6Wcswhzurf",
           "name": "COLONY Powered by FundedXyz | Coinfest Asia 2026",
           "start_at": "2026-08-19T00:00:00.000Z",
@@ -623,7 +605,7 @@
           "start_at": "2026-08-19T04:00:00.000Z",
           "end_at": "2026-08-19T10:00:00.000Z",
           "url": "https://lu.ma/pitch-fest-Bali2026",
-          "cover_url": "https://images.lumacdn.com/uploads/68/300060b9-f1ca-4027-8be6-94d01a3658db.png",
+          "cover_url": "https://images.lumacdn.com/uploads/1p/268df6b6-d733-4860-b081-44db9e9eb377.png",
           "location": "Dewata Padel Jimbaran Bali, Jl. Uluwatu II No.9X, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
@@ -759,6 +741,24 @@
           "end_at": "2026-08-20T07:05:00.000Z",
           "url": "https://lu.ma/yaptoearn",
           "cover_url": "https://images.lumacdn.com/uploads/gw/827b69fb-34ce-4a17-a9c6-1d13dbc28a98.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-naRNwTqp9oEFrHs",
+          "name": "Indonesia GTM Session",
+          "start_at": "2026-08-20T06:30:00.000Z",
+          "end_at": "2026-08-20T07:00:00.000Z",
+          "url": "https://lu.ma/indogtm",
+          "cover_url": "https://images.lumacdn.com/uploads/wy/c98ac215-db4b-41ba-926a-e961921abfe5.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-qqhv1rHqWi7xxLG",
+          "name": "Malaysia GTM Session",
+          "start_at": "2026-08-20T07:00:00.000Z",
+          "end_at": "2026-08-20T08:00:00.000Z",
+          "url": "https://lu.ma/malaysiagtm",
+          "cover_url": "https://images.lumacdn.com/uploads/pw/2a790c1b-bb24-4613-8aa6-4aec3ad3ed74.jpg",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
