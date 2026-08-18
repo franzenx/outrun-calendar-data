@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T06:26:36Z",
+  "last_updated": "2026-08-18T12:25:40Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,24 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-h3R2KPByqDj0t8t",
-          "name": "Chain & Chill Bali: Beach Games Festival",
-          "start_at": "2026-08-18T06:00:00.000Z",
-          "end_at": "2026-08-18T11:00:00.000Z",
-          "url": "https://lu.ma/zo44937m",
-          "cover_url": "https://images.lumacdn.com/uploads/dn/dfe33e9d-089c-4244-a487-1a7879a33fb1.jpg",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-ipJPUoqhijeZL6d",
-          "name": "Mastering On Chain Prediction Markets: Advanced Trading & Sentiment Analysis",
-          "start_at": "2026-08-18T08:00:00.000Z",
-          "end_at": "2026-08-18T10:00:00.000Z",
-          "url": "https://lu.ma/77kjth1h",
-          "cover_url": "https://images.lumacdn.com/uploads/5n/9e5869e3-ecdb-44ce-a515-8719ca0ced5c.jpg",
-          "location": "Tropical Nomad Coworking Space, Jl. Subak Canggu No.2, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-rV8614yFl7wxHW6",
           "name": "🚀 CryptoHack x BlockU Bali Meetup",
           "start_at": "2026-08-18T09:00:00.000Z",
@@ -623,7 +605,7 @@
           "start_at": "2026-08-19T00:00:00.000Z",
           "end_at": "2026-08-21T08:00:00.000Z",
           "url": "https://lu.ma/colonycoinfest26",
-          "cover_url": "https://images.lumacdn.com/uploads/ac/34425b8a-088c-4c21-94a1-d4a1f3fb3771.png",
+          "cover_url": "https://images.lumacdn.com/uploads/f8/c83e4b5b-d52f-44dc-8062-62d8bd4503a4.png",
           "location": "Coinfest Asia, 5536+H5W, Ungasan, South Kuta, Badung Regency, Bali, Indonesia"
         },
         {
@@ -660,7 +642,7 @@
           "end_at": "2026-08-19T13:30:00.000Z",
           "url": "https://lu.ma/xd0x09im",
           "cover_url": "https://images.lumacdn.com/uploads/sd/a0841fdd-e420-4588-8e3c-28396f4e1e3b.png",
-          "location": "Ulu Cliffhouse, Pecatu, South Kuta, Badung Regency, Bali 80361, Indonesia"
+          "location": "Badung Regency, Indonesia"
         },
         {
           "api_id": "evt-LOObHzyeMqzuHoB",
@@ -744,6 +726,15 @@
           "location": "Wildflower, Jl. Langui Toyaning I Gg. Langui No.45, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-JW0JG78wJRIAb8c",
+          "name": "Nouns ⌐◨-◨ × AthenaX @ Coinfest Asia 2026",
+          "start_at": "2026-08-20T04:00:00.000Z",
+          "end_at": "2026-08-21T13:00:00.000Z",
+          "url": "https://lu.ma/3aopix8n",
+          "cover_url": "https://images.lumacdn.com/uploads/md/832674b1-a92b-4ed4-a554-5cbc28e4924b.png",
+          "location": "Melasti Beach, Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-agcw1R5phtuqMkV",
           "name": "Indonesia Open House",
           "start_at": "2026-08-20T04:00:00.000Z",
@@ -760,6 +751,15 @@
           "url": "https://lu.ma/3xty8cva",
           "cover_url": "https://images.lumacdn.com/uploads/6b/196b3784-c00f-410b-97a7-470ce89cd576.png",
           "location": "White Rock Beach Club, Pantai Melasti, Uluwatu Jl. Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-qu7qYfcCshW6GvO",
+          "name": "Yap to Earn",
+          "start_at": "2026-08-20T06:20:00.000Z",
+          "end_at": "2026-08-20T07:05:00.000Z",
+          "url": "https://lu.ma/yaptoearn",
+          "cover_url": "https://images.lumacdn.com/uploads/gw/827b69fb-34ce-4a17-a9c6-1d13dbc28a98.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
     },
