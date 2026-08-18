@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T00:41:24Z",
+  "last_updated": "2026-08-18T06:26:36Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,15 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-q1PqoRxNhY1yps9",
-          "name": "Building on Web3: Smart Contract Development with Solidity",
-          "start_at": "2026-08-18T01:00:00.000Z",
-          "end_at": "2026-08-18T05:00:00.000Z",
-          "url": "https://lu.ma/71q0zt25",
-          "cover_url": "https://images.lumacdn.com/uploads/fb/7f0bc763-ec2a-4925-9373-e8499c8c9c2f.jpg",
-          "location": "Institut Teknologi Dan Bisnis Stikom Bali Kampus Jimbaran, Jl. Raya Kampus Udayana No.20, Jimbaran, Badung, Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-h3R2KPByqDj0t8t",
           "name": "Chain & Chill Bali: Beach Games Festival",
           "start_at": "2026-08-18T06:00:00.000Z",
@@ -616,6 +607,24 @@
           "url": "https://lu.ma/c7xkuz7h",
           "cover_url": "https://images.lumacdn.com/uploads/26/593914c1-1919-4fcd-8b91-176d22514ef2.png",
           "location": "Cafe Gemitir Bali, Jl. Nakula No.88, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80119, Indonesia"
+        },
+        {
+          "api_id": "evt-GXLPG05ZRiKSAEd",
+          "name": "Pitch Fest Bali: Cohort Prep",
+          "start_at": "2026-08-18T11:30:00.000Z",
+          "end_at": "2026-08-18T12:30:00.000Z",
+          "url": "https://lu.ma/pitch-fest-Bali-cohort",
+          "cover_url": "https://images.lumacdn.com/uploads/ut/de4038f6-163f-4451-9c78-1de12ee77579.png",
+          "location": ""
+        },
+        {
+          "api_id": "evt-BhH0y6Wcswhzurf",
+          "name": "COLONY Powered by FundedXyz | Coinfest Asia 2026",
+          "start_at": "2026-08-19T00:00:00.000Z",
+          "end_at": "2026-08-21T08:00:00.000Z",
+          "url": "https://lu.ma/colonycoinfest26",
+          "cover_url": "https://images.lumacdn.com/uploads/ac/34425b8a-088c-4c21-94a1-d4a1f3fb3771.png",
+          "location": "Coinfest Asia, 5536+H5W, Ungasan, South Kuta, Badung Regency, Bali, Indonesia"
         },
         {
           "api_id": "evt-oP2VmwvdqTCtv4Y",
@@ -751,15 +760,6 @@
           "url": "https://lu.ma/3xty8cva",
           "cover_url": "https://images.lumacdn.com/uploads/6b/196b3784-c00f-410b-97a7-470ce89cd576.png",
           "location": "White Rock Beach Club, Pantai Melasti, Uluwatu Jl. Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-vnR3XX1kfSbsScG",
-          "name": "HER Alpha Session!",
-          "start_at": "2026-08-20T06:00:00.000Z",
-          "end_at": "2026-08-20T07:00:00.000Z",
-          "url": "https://lu.ma/heralphasession",
-          "cover_url": "https://images.lumacdn.com/uploads/3g/c1f6b942-9fd6-46e8-aaf7-27a9011e2fc9.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
     },
