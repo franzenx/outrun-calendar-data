@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T12:25:46Z",
+  "last_updated": "2026-08-19T18:20:03Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -600,42 +600,6 @@
           "location": "Coinfest Asia, 5536+H5W, Ungasan, South Kuta, Badung Regency, Bali, Indonesia"
         },
         {
-          "api_id": "evt-FV9AGNjyDdyT3S6",
-          "name": "Mopay: The First Look",
-          "start_at": "2026-08-19T08:00:00.000Z",
-          "end_at": "2026-08-19T13:30:00.000Z",
-          "url": "https://lu.ma/xd0x09im",
-          "cover_url": "https://images.lumacdn.com/uploads/sd/a0841fdd-e420-4588-8e3c-28396f4e1e3b.png",
-          "location": "Badung Regency, Indonesia"
-        },
-        {
-          "api_id": "evt-2duf2b8SAQVoSXg",
-          "name": "Derivatives Lounge",
-          "start_at": "2026-08-19T10:00:00.000Z",
-          "end_at": "2026-08-19T13:00:00.000Z",
-          "url": "https://lu.ma/nte23zrh",
-          "cover_url": "https://images.lumacdn.com/uploads/zy/ccf99ed4-3ff8-4661-9a9d-71195c1db768.jpg",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-iQUTu0TGk7Ap4VW",
-          "name": "Bull & Speakers Pre-Networking",
-          "start_at": "2026-08-19T11:00:00.000Z",
-          "end_at": "2026-08-19T14:00:00.000Z",
-          "url": "https://lu.ma/bullprenetworking",
-          "cover_url": "https://images.lumacdn.com/uploads/p0/e458c8c8-9d96-490d-9528-bd0c70250199.jpg",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-hgzKdHo7ZGSmhoM",
-          "name": "OSL's Obsession Night",
-          "start_at": "2026-08-19T11:00:00.000Z",
-          "end_at": "2026-08-19T13:00:00.000Z",
-          "url": "https://lu.ma/mho2q7v3",
-          "cover_url": "https://images.lumacdn.com/uploads/ds/6e3d1900-71a0-4a17-a7a7-efa9aeb12e03.jpg",
-          "location": "Mïnoo Beach Club, Pantai Melasti Jl. Pengayutan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-VeaU5sstMpFMM75",
           "name": "Compass for Coinfest Asia 2026 - Founders, Decision Makers, and Investors Available",
           "start_at": "2026-08-19T23:00:00.000Z",
@@ -696,6 +660,15 @@
           "end_at": "2026-08-20T08:00:00.000Z",
           "url": "https://lu.ma/3xty8cva",
           "cover_url": "https://images.lumacdn.com/uploads/6b/196b3784-c00f-410b-97a7-470ce89cd576.png",
+          "location": "White Rock Beach Club, Pantai Melasti, Uluwatu Jl. Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-lefozkCJc5H1a0b",
+          "name": "ABI LOUNGE | Building Blockchain That Works: Advisory, Talent, and Real-World Assets",
+          "start_at": "2026-08-20T06:00:00.000Z",
+          "end_at": "2026-08-20T08:00:00.000Z",
+          "url": "https://lu.ma/872a4rqh",
+          "cover_url": "https://images.lumacdn.com/uploads/8f/156a86de-b34a-40d6-a938-fae6d92d0eec.jpg",
           "location": "White Rock Beach Club, Pantai Melasti, Uluwatu Jl. Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
@@ -760,6 +733,33 @@
           "url": "https://lu.ma/rvq8odvd",
           "cover_url": "https://images.lumacdn.com/uploads/jj/67810b4e-61cd-45e4-a2b2-b06dae61afa6.png",
           "location": "Magus Warung, Pantai Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia"
+        },
+        {
+          "api_id": "evt-OeoQzPahM4ypTQe",
+          "name": "Gemini AI Masterclass",
+          "start_at": "2026-08-20T08:00:00.000Z",
+          "end_at": "2026-08-20T09:00:00.000Z",
+          "url": "https://lu.ma/geminiaimasterclass",
+          "cover_url": "https://images.lumacdn.com/uploads/o1/d2afb683-b7b0-4798-9a3f-f655c08a5585.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-1JLf5kvToYvsYs8",
+          "name": "India GTM Session",
+          "start_at": "2026-08-20T08:30:00.000Z",
+          "end_at": "2026-08-20T09:30:00.000Z",
+          "url": "https://lu.ma/indiagtm",
+          "cover_url": "https://images.lumacdn.com/uploads/ez/bcba5147-a953-471c-a06e-7c3af44b50f7.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-GIqvnAYYN0WontL",
+          "name": "Meet the OJK Sandbox & Graduates",
+          "start_at": "2026-08-20T08:50:00.000Z",
+          "end_at": "2026-08-20T09:50:00.000Z",
+          "url": "https://lu.ma/ojksandbox",
+          "cover_url": "https://images.lumacdn.com/uploads/ap/7c9345bd-04ec-41d9-87b7-b27496b29004.png",
+          "location": "Badung Regency, Indonesia"
         }
       ]
     },
@@ -807,6 +807,42 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
+          "api_id": "evt-54X2sUNhonXavht",
+          "name": "hoppin house party - Aug",
+          "start_at": "2026-08-28T11:00:00.000Z",
+          "end_at": "2026-08-28T14:00:00.000Z",
+          "url": "https://lu.ma/v026lnj8",
+          "cover_url": "https://images.lumacdn.com/uploads/9g/c98e24a3-966b-4cd4-afc4-1f673a717c20.png",
+          "location": "서울특별시"
+        },
+        {
+          "api_id": "evt-skENMDK06ZUqWkM",
+          "name": "Token Token Avalanche Bakery: RWA & Tokenization",
+          "start_at": "2026-08-29T01:00:00.000Z",
+          "end_at": "2026-08-29T03:30:00.000Z",
+          "url": "https://lu.ma/73ssa8xp",
+          "cover_url": "https://images.lumacdn.com/uploads/xx/223d5ce3-db37-4f20-bdab-4a9621fb1773.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-VCXmJXnNOlVmEtk",
+          "name": "ORIGINSEOUL - DAY 2",
+          "start_at": "2026-09-01T03:00:00.000Z",
+          "end_at": "2026-09-01T14:30:00.000Z",
+          "url": "https://lu.ma/6o84s3nf",
+          "cover_url": "https://images.lumacdn.com/uploads/dr/75e60a57-79c3-4f48-a8fb-07cb9982f302.png",
+          "location": "SKY31 Convention, 300 Olympic-ro, Songpa District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-EOY79Sxm72YvxMa",
+          "name": "ORIGINSEOUL - DAY 3",
+          "start_at": "2026-09-02T03:00:00.000Z",
+          "end_at": "2026-09-02T14:30:00.000Z",
+          "url": "https://lu.ma/vsi2h96g",
+          "cover_url": "https://images.lumacdn.com/uploads/nn/e751d8d2-79a3-42d4-9acc-6231403d64ea.png",
+          "location": "SKY31 Convention, 300 Olympic-ro, Songpa District, Seoul, South Korea"
+        },
+        {
           "api_id": "evt-rsU3cNMfxi9qRZB",
           "name": "AI Meets the Chart — A Horizon Series Event @KBW",
           "start_at": "2026-09-28T08:00:00.000Z",
@@ -822,6 +858,15 @@
           "end_at": "2026-09-28T11:30:00.000Z",
           "url": "https://lu.ma/blzswe27",
           "cover_url": "https://images.lumacdn.com/uploads/0c/9f42837b-fe68-4149-b759-489d224e60ea.jpg",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-mRkHDj9ZGkDCkwd",
+          "name": "VIP Dinner with Quote.Trade at KBW",
+          "start_at": "2026-09-28T09:00:00.000Z",
+          "end_at": "2026-09-28T12:00:00.000Z",
+          "url": "https://lu.ma/ysuvgjfn",
+          "cover_url": "https://images.lumacdn.com/uploads/q5/8cc1dd15-fc50-46cb-a887-11f5bfbe88ff.png",
           "location": "Seoul, South Korea"
         },
         {
@@ -879,6 +924,15 @@
           "location": "Seoul, South Korea"
         },
         {
+          "api_id": "evt-xgUcn4jxnTn3c8N",
+          "name": "Ethreum Korea One Genesis - Build Beyond the Narrative",
+          "start_at": "2026-09-29T04:00:00.000Z",
+          "end_at": "2026-09-29T11:00:00.000Z",
+          "url": "https://lu.ma/0a4zc5a6",
+          "cover_url": "https://images.lumacdn.com/uploads/l0/0babce40-7950-44a3-be4c-446228029799.png",
+          "location": "인포멀스퀘어, 15-1 Seoulsup 4-gil, Seongdong-gu, Seoul, South Korea"
+        },
+        {
           "api_id": "evt-SZI6XvDhbmFz2tH",
           "name": "Onchain Capital & Liquidity: DeFi & AI📍 Seoul, South Korea | 🗓 Sep 29 - Oct 1 | During Korea Blockchain Week",
           "start_at": "2026-09-29T05:00:00.000Z",
@@ -915,75 +969,21 @@
           "location": "Parnas Tower, 521 Teheran-ro, Gangnam District, Seoul, South Korea"
         },
         {
-          "api_id": "evt-xf0qHgukzEbjKNO",
-          "name": "Solana Summit Korea",
-          "start_at": "2026-09-30T01:30:00.000Z",
-          "end_at": "2026-09-30T08:00:00.000Z",
-          "url": "https://lu.ma/solana-summit-korea-2026",
-          "cover_url": "https://images.lumacdn.com/uploads/t5/63c127c2-6d34-4575-8f5d-c4d66345056f.png",
-          "location": "Seoul, South Korea"
+          "api_id": "evt-O1voj2RCZcYypUn",
+          "name": "X to the Future Korea KOL mixer",
+          "start_at": "2026-09-29T08:00:00.000Z",
+          "end_at": "2026-09-29T12:00:00.000Z",
+          "url": "https://lu.ma/uis2ks2j",
+          "cover_url": "https://images.lumacdn.com/event-covers/3f/b13a6568-4696-4f3b-a21a-ad4a74c3b902.png",
+          "location": "Seoul"
         },
         {
-          "api_id": "evt-jhSQhXWcVPGAHqv",
-          "name": "Founders & VCs Brunch and Lunch 🥐 KBW 2026",
-          "start_at": "2026-09-30T02:00:00.000Z",
-          "end_at": "2026-09-30T05:00:00.000Z",
-          "url": "https://lu.ma/8pd2nqja",
-          "cover_url": "https://images.lumacdn.com/uploads/zf/0686dd37-4b51-4b3c-b8fb-26bcd0633ed0.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-a0PGWXfAij4vNVH",
-          "name": "Institutional Onchain: RWAs & Stablecoins📍Seoul, South Korea | 🗓 Sep 29 - Oct 1| During Korea Blockchain Week",
-          "start_at": "2026-09-30T05:00:00.000Z",
-          "end_at": "2026-09-30T06:00:00.000Z",
-          "url": "https://lu.ma/qsfjc56x",
-          "cover_url": "https://images.lumacdn.com/event-covers/8s/a652f630-b805-4c5b-a292-1d13f48faa43.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-USmNC1PxmwCRB7C",
-          "name": "Perps × Institutional: Trading, Liquidity & the Onchain Economy | Seoul | 🗓 30th September | During Korea Blockchain Week",
-          "start_at": "2026-09-30T07:30:00.000Z",
-          "end_at": "2026-09-30T12:00:00.000Z",
-          "url": "https://lu.ma/v6bkeysx",
-          "cover_url": "https://images.lumacdn.com/uploads/oo/832d7821-1880-4f7f-9bc5-da05962b31c8.png",
-          "location": "South Korea"
-        },
-        {
-          "api_id": "evt-uMma490f6FR40ix",
-          "name": "Rayls in Seoul | KBW",
-          "start_at": "2026-09-30T09:00:00.000Z",
-          "end_at": "2026-09-30T12:30:00.000Z",
-          "url": "https://lu.ma/r5p3iwb8",
-          "cover_url": "https://images.lumacdn.com/uploads/0c/9f42837b-fe68-4149-b759-489d224e60ea.jpg",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-lEfHHrrOw3wxB5n",
-          "name": "Quantstamp X Common Defense | Gangnam Mixer | KBW 2026",
-          "start_at": "2026-09-30T10:00:00.000Z",
-          "end_at": "2026-09-30T13:00:00.000Z",
-          "url": "https://lu.ma/wslf2frf",
-          "cover_url": "https://images.lumacdn.com/uploads/nt/32a402d5-3787-4773-b57b-f9a58395ade7.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-5oBIKdmJwjmgUoW",
-          "name": "Korea Blockchain Week Networking Rooftop",
-          "start_at": "2026-09-30T10:00:00.000Z",
-          "end_at": "2026-09-30T14:00:00.000Z",
-          "url": "https://lu.ma/to04r60x",
-          "cover_url": "https://images.lumacdn.com/uploads/0y/842f9a4a-434b-4d07-977b-9807ce1a45c5.jpg",
-          "location": "Rooftop Kloud, South Korea, Seoul, Gangnam District, Teheran-ro 25-gil, 10 21 층"
-        },
-        {
-          "api_id": "evt-SjRQeKMUJV5nasP",
-          "name": "Frontier Traders: Seoul Showdown",
-          "start_at": "2026-09-30T11:00:00.000Z",
-          "end_at": "2026-09-30T15:00:00.000Z",
-          "url": "https://lu.ma/frontier-traders-KR",
-          "cover_url": "https://images.lumacdn.com/uploads/vc/c2a62c45-54ac-4d7a-895b-f11cd935cf5d.png",
+          "api_id": "evt-QWpoNgkVNXCzNXl",
+          "name": "The Private Table: After Dark Gangnam",
+          "start_at": "2026-09-29T10:00:00.000Z",
+          "end_at": "2026-09-29T14:00:00.000Z",
+          "url": "https://lu.ma/TPT_KBW2026",
+          "cover_url": "https://images.lumacdn.com/uploads/hi/3c5896e3-4c4a-4137-9133-0d42bb607dad.png",
           "location": "Seoul, South Korea"
         }
       ]
