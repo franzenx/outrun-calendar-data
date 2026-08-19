@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T18:23:10Z",
+  "last_updated": "2026-08-19T00:41:31Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,15 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-BhH0y6Wcswhzurf",
-          "name": "COLONY Powered by FundedXyz | Coinfest Asia 2026",
-          "start_at": "2026-08-19T00:00:00.000Z",
-          "end_at": "2026-08-21T08:00:00.000Z",
-          "url": "https://lu.ma/colonycoinfest26",
-          "cover_url": "https://images.lumacdn.com/uploads/f8/c83e4b5b-d52f-44dc-8062-62d8bd4503a4.png",
-          "location": "Coinfest Asia, 5536+H5W, Ungasan, South Kuta, Badung Regency, Bali, Indonesia"
-        },
-        {
           "api_id": "evt-oP2VmwvdqTCtv4Y",
           "name": "Connected Capital: Investor Dinner & Brunch • Golf Invitational & Retreat - CoinFest Asia 2026",
           "start_at": "2026-08-19T01:00:00.000Z",
@@ -598,6 +589,15 @@
           "url": "https://lu.ma/cc2026",
           "cover_url": "https://images.lumacdn.com/uploads/xk/755f5cbd-6b0c-4ca3-8a4b-a76bac1b7e18.jpg",
           "location": ""
+        },
+        {
+          "api_id": "evt-BhH0y6Wcswhzurf",
+          "name": "COLONY Powered by FundedXyz | Coinfest Asia 2026",
+          "start_at": "2026-08-19T01:00:00.000Z",
+          "end_at": "2026-08-21T08:00:00.000Z",
+          "url": "https://lu.ma/colonycoinfest26",
+          "cover_url": "https://images.lumacdn.com/uploads/f8/c83e4b5b-d52f-44dc-8062-62d8bd4503a4.png",
+          "location": "Coinfest Asia, 5536+H5W, Ungasan, South Kuta, Badung Regency, Bali, Indonesia"
         },
         {
           "api_id": "evt-IFOoK2QQGml7i0G",
