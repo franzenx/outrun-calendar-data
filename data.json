@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T06:27:16Z",
+  "last_updated": "2026-08-19T12:25:46Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -600,24 +600,6 @@
           "location": "Coinfest Asia, 5536+H5W, Ungasan, South Kuta, Badung Regency, Bali, Indonesia"
         },
         {
-          "api_id": "evt-IFOoK2QQGml7i0G",
-          "name": "Pitch Fest Bali 2026",
-          "start_at": "2026-08-19T04:00:00.000Z",
-          "end_at": "2026-08-19T10:00:00.000Z",
-          "url": "https://lu.ma/pitch-fest-Bali2026",
-          "cover_url": "https://images.lumacdn.com/uploads/1p/268df6b6-d733-4860-b081-44db9e9eb377.png",
-          "location": "Dewata Padel Jimbaran Bali, Jl. Uluwatu II No.9X, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-bVI4hE7BvAiL3NQ",
-          "name": "Upbit Touch The Grass Bali",
-          "start_at": "2026-08-19T05:00:00.000Z",
-          "end_at": "2026-08-19T12:00:00.000Z",
-          "url": "https://lu.ma/70u35hph",
-          "cover_url": "https://images.lumacdn.com/uploads/yf/af420aa8-f37f-4246-9e5b-53603fa2e5f9.jpg",
-          "location": "Melasti Beach, Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-FV9AGNjyDdyT3S6",
           "name": "Mopay: The First Look",
           "start_at": "2026-08-19T08:00:00.000Z",
@@ -625,24 +607,6 @@
           "url": "https://lu.ma/xd0x09im",
           "cover_url": "https://images.lumacdn.com/uploads/sd/a0841fdd-e420-4588-8e3c-28396f4e1e3b.png",
           "location": "Badung Regency, Indonesia"
-        },
-        {
-          "api_id": "evt-LOObHzyeMqzuHoB",
-          "name": "BTSE Built For You - Bali",
-          "start_at": "2026-08-19T08:00:00.000Z",
-          "end_at": "2026-08-19T12:00:00.000Z",
-          "url": "https://lu.ma/btse-4v4x",
-          "cover_url": "https://images.lumacdn.com/uploads/u7/9c392a87-852e-4425-9050-da6addad647a.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-OQIRDkJxf6Wnpkj",
-          "name": "Bali Onchain 🇮🇩 | During Coinfest 2026",
-          "start_at": "2026-08-19T08:00:00.000Z",
-          "end_at": "2026-08-19T12:00:00.000Z",
-          "url": "https://lu.ma/vwxuks6b",
-          "cover_url": "https://images.lumacdn.com/uploads/u6/bc062d2f-f1b8-4405-a04e-2bfe31bae458.png",
-          "location": "Bali, Indonesia"
         },
         {
           "api_id": "evt-2duf2b8SAQVoSXg",
@@ -760,6 +724,42 @@
           "url": "https://lu.ma/malaysiagtm",
           "cover_url": "https://images.lumacdn.com/uploads/pw/2a790c1b-bb24-4613-8aa6-4aec3ad3ed74.jpg",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-DdsMDWvHfSxOj04",
+          "name": "Alpha Hunting Masterclass",
+          "start_at": "2026-08-20T07:00:00.000Z",
+          "end_at": "2026-08-20T08:00:00.000Z",
+          "url": "https://lu.ma/alphahuntingmasterclass",
+          "cover_url": "https://images.lumacdn.com/uploads/yz/eb42d0db-9a73-4e9b-a3a4-1712712444a9.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-D5VsVW5k4zgPnhA",
+          "name": "Inside New Financial Center: Networking Session | Powered by ICEx Group",
+          "start_at": "2026-08-20T07:30:00.000Z",
+          "end_at": "2026-08-20T08:30:00.000Z",
+          "url": "https://lu.ma/denatcoinfest",
+          "cover_url": "https://images.lumacdn.com/uploads/5z/dfcc9565-c7e3-4146-b6d5-fe79fd546e49.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-vnR3XX1kfSbsScG",
+          "name": "HER Alpha Session!",
+          "start_at": "2026-08-20T08:00:00.000Z",
+          "end_at": "2026-08-20T08:45:00.000Z",
+          "url": "https://lu.ma/heralphasession",
+          "cover_url": "https://images.lumacdn.com/uploads/3g/c1f6b942-9fd6-46e8-aaf7-27a9011e2fc9.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-La3dHaiZHHZdC2i",
+          "name": "Bybit Indonesia | Tether | Pave Bank : Sunset Treasure — Coinfest Asia 2026 Side Event",
+          "start_at": "2026-08-20T08:00:00.000Z",
+          "end_at": "2026-08-20T12:00:00.000Z",
+          "url": "https://lu.ma/rvq8odvd",
+          "cover_url": "https://images.lumacdn.com/uploads/jj/67810b4e-61cd-45e4-a2b2-b06dae61afa6.png",
+          "location": "Magus Warung, Pantai Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia"
         }
       ]
     },
