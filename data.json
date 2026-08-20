@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T06:29:07Z",
+  "last_updated": "2026-08-20T12:28:06Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -627,15 +627,6 @@
           "location": "Melasti Beach, Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
-          "api_id": "evt-S6tKLksPwQLJ127",
-          "name": "CFX Seaside Mixer",
-          "start_at": "2026-08-20T05:00:00.000Z",
-          "end_at": "2026-08-20T08:00:00.000Z",
-          "url": "https://lu.ma/3xty8cva",
-          "cover_url": "https://images.lumacdn.com/uploads/6b/196b3784-c00f-410b-97a7-470ce89cd576.png",
-          "location": "White Rock Beach Club, Pantai Melasti, Uluwatu Jl. Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-agcw1R5phtuqMkV",
           "name": "Indonesia Open House",
           "start_at": "2026-08-20T06:00:00.000Z",
@@ -645,105 +636,6 @@
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
-          "api_id": "evt-lefozkCJc5H1a0b",
-          "name": "ABI LOUNGE | Building Blockchain That Works: Advisory, Talent, and Real-World Assets",
-          "start_at": "2026-08-20T06:00:00.000Z",
-          "end_at": "2026-08-20T08:00:00.000Z",
-          "url": "https://lu.ma/872a4rqh",
-          "cover_url": "https://images.lumacdn.com/uploads/8f/156a86de-b34a-40d6-a938-fae6d92d0eec.jpg",
-          "location": "White Rock Beach Club, Pantai Melasti, Uluwatu Jl. Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-qu7qYfcCshW6GvO",
-          "name": "Yap to Earn",
-          "start_at": "2026-08-20T06:20:00.000Z",
-          "end_at": "2026-08-20T07:05:00.000Z",
-          "url": "https://lu.ma/yaptoearn",
-          "cover_url": "https://images.lumacdn.com/uploads/gw/827b69fb-34ce-4a17-a9c6-1d13dbc28a98.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-naRNwTqp9oEFrHs",
-          "name": "Indonesia GTM Session",
-          "start_at": "2026-08-20T06:30:00.000Z",
-          "end_at": "2026-08-20T07:00:00.000Z",
-          "url": "https://lu.ma/indogtm",
-          "cover_url": "https://images.lumacdn.com/uploads/wy/c98ac215-db4b-41ba-926a-e961921abfe5.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-qqhv1rHqWi7xxLG",
-          "name": "Malaysia GTM Session",
-          "start_at": "2026-08-20T07:00:00.000Z",
-          "end_at": "2026-08-20T08:00:00.000Z",
-          "url": "https://lu.ma/malaysiagtm",
-          "cover_url": "https://images.lumacdn.com/uploads/pw/2a790c1b-bb24-4613-8aa6-4aec3ad3ed74.jpg",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-DdsMDWvHfSxOj04",
-          "name": "Alpha Hunting Masterclass",
-          "start_at": "2026-08-20T07:00:00.000Z",
-          "end_at": "2026-08-20T08:00:00.000Z",
-          "url": "https://lu.ma/alphahuntingmasterclass",
-          "cover_url": "https://images.lumacdn.com/uploads/yz/eb42d0db-9a73-4e9b-a3a4-1712712444a9.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-D5VsVW5k4zgPnhA",
-          "name": "Inside New Financial Center: Networking Session | Powered by ICEx Group",
-          "start_at": "2026-08-20T07:30:00.000Z",
-          "end_at": "2026-08-20T08:30:00.000Z",
-          "url": "https://lu.ma/denatcoinfest",
-          "cover_url": "https://images.lumacdn.com/uploads/5z/dfcc9565-c7e3-4146-b6d5-fe79fd546e49.jpg",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-vnR3XX1kfSbsScG",
-          "name": "HER Alpha Session!",
-          "start_at": "2026-08-20T08:00:00.000Z",
-          "end_at": "2026-08-20T08:45:00.000Z",
-          "url": "https://lu.ma/heralphasession",
-          "cover_url": "https://images.lumacdn.com/uploads/3g/c1f6b942-9fd6-46e8-aaf7-27a9011e2fc9.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-La3dHaiZHHZdC2i",
-          "name": "Bybit Indonesia | Tether | Pave Bank : Sunset Treasure — Coinfest Asia 2026 Side Event",
-          "start_at": "2026-08-20T08:00:00.000Z",
-          "end_at": "2026-08-20T12:00:00.000Z",
-          "url": "https://lu.ma/rvq8odvd",
-          "cover_url": "https://images.lumacdn.com/uploads/jj/67810b4e-61cd-45e4-a2b2-b06dae61afa6.png",
-          "location": "Magus Warung, Pantai Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia"
-        },
-        {
-          "api_id": "evt-OeoQzPahM4ypTQe",
-          "name": "Gemini AI Masterclass",
-          "start_at": "2026-08-20T08:00:00.000Z",
-          "end_at": "2026-08-20T09:00:00.000Z",
-          "url": "https://lu.ma/geminiaimasterclass",
-          "cover_url": "https://images.lumacdn.com/uploads/o1/d2afb683-b7b0-4798-9a3f-f655c08a5585.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-1JLf5kvToYvsYs8",
-          "name": "India GTM Session",
-          "start_at": "2026-08-20T08:30:00.000Z",
-          "end_at": "2026-08-20T09:30:00.000Z",
-          "url": "https://lu.ma/indiagtm",
-          "cover_url": "https://images.lumacdn.com/uploads/ez/bcba5147-a953-471c-a06e-7c3af44b50f7.jpg",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-GIqvnAYYN0WontL",
-          "name": "Meet the OJK Sandbox & Graduates",
-          "start_at": "2026-08-20T08:50:00.000Z",
-          "end_at": "2026-08-20T09:50:00.000Z",
-          "url": "https://lu.ma/ojksandbox",
-          "cover_url": "https://images.lumacdn.com/uploads/ap/7c9345bd-04ec-41d9-87b7-b27496b29004.png",
-          "location": "Badung Regency, Indonesia"
-        },
-        {
           "api_id": "evt-RSuug4ZGgoPDjoc",
           "name": "Agentic AI & Web3: Automate Workflows",
           "start_at": "2026-08-20T09:00:00.000Z",
@@ -751,6 +643,114 @@
           "url": "https://lu.ma/1fa499w7",
           "cover_url": "https://images.lumacdn.com/event-covers/vc/7fd184c4-6e1d-41ab-b5b2-5eb6ae4a5121.png",
           "location": "Bali, Indonesia"
+        },
+        {
+          "api_id": "evt-BMVq5tx5yJEFbNZ",
+          "name": "TOKENISED BALI & CONNECTED CAPITAL - VIP & INVESTORS NIGHT",
+          "start_at": "2026-08-20T09:00:00.000Z",
+          "end_at": "2026-08-20T13:00:00.000Z",
+          "url": "https://lu.ma/tokenisedbali",
+          "cover_url": "https://images.lumacdn.com/uploads/b5/a3ae9c15-d616-4f4b-85b8-449e9962e216.png",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
+          "api_id": "evt-18I0Cm8MXoUpzaa",
+          "name": "KAST Golden Hour - Bali",
+          "start_at": "2026-08-20T09:30:00.000Z",
+          "end_at": "2026-08-20T12:30:00.000Z",
+          "url": "https://lu.ma/KASTGoldenHour_Bali",
+          "cover_url": "https://images.lumacdn.com/uploads/6u/020ab7a2-8e53-4195-a01e-59460a9a8e74.png",
+          "location": "Mana Uluwatu Restaurant & Bar, Jl. Pantai Suluban, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-4MTbCbEI3UPBR1P",
+          "name": "The OG Night",
+          "start_at": "2026-08-20T09:30:00.000Z",
+          "end_at": "2026-08-20T14:00:00.000Z",
+          "url": "https://lu.ma/mcp6qfip",
+          "cover_url": "https://images.lumacdn.com/uploads/3j/341b3f47-7ded-4a54-bcc5-3d1d305ff129.jpg",
+          "location": "The Tulou Bali by Nakula, 55VH+CVJ, Kutuh, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-A7BBtnxZ4l8r973",
+          "name": "Base Founders’ Dinner 🍽️",
+          "start_at": "2026-08-20T10:00:00.000Z",
+          "end_at": "2026-08-20T14:00:00.000Z",
+          "url": "https://lu.ma/rnvdey11",
+          "cover_url": "https://images.lumacdn.com/uploads/tw/b35be3f2-a837-416f-b400-badc8da3a988.png",
+          "location": "Timbis Beach Club, Jl. Pantai Pandawa, area Pantai, Timbis, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-DONKL81R3LSYCjk",
+          "name": "Zoomex Summer Bay Party: Trade the Tide — Coinfest Asia 2026 Side Event",
+          "start_at": "2026-08-20T11:00:00.000Z",
+          "end_at": "2026-08-20T15:00:00.000Z",
+          "url": "https://lu.ma/s928s2gf",
+          "cover_url": "https://images.lumacdn.com/uploads/h1/f1510e70-dfaa-4c67-9982-c6d129918e85.jpg",
+          "location": "Tropical Temptation - Adult Only Beach Club by Wonderspace, Melasti Beach 88, Uluwatu, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-rTu1qS9D2RMFpcB",
+          "name": "Builders Who Ship",
+          "start_at": "2026-08-20T11:00:00.000Z",
+          "end_at": "2026-08-20T14:00:00.000Z",
+          "url": "https://lu.ma/builderswhoship",
+          "cover_url": "https://images.lumacdn.com/uploads/ak/f8a8a695-d458-486b-9608-0f481b77c913.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-Iqi9uYBBEY0tY34",
+          "name": "🌙 IDRP Exclusive Evening at Coinfest Asia 2026",
+          "start_at": "2026-08-20T11:00:00.000Z",
+          "end_at": "2026-08-20T13:00:00.000Z",
+          "url": "https://lu.ma/jnx9cx97",
+          "cover_url": "https://images.lumacdn.com/uploads/2a/3ca55228-703e-400e-a43f-a3f8fbd2bf6c.png",
+          "location": "Tanah Uluwatu | Bakery & Grill, Jl. Raya Uluwatu Pecatu No.000, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-73Yan3KPhVrPhoq",
+          "name": "🍾 Alpha Night: Winner’s Celebration & Partner Deck",
+          "start_at": "2026-08-20T11:00:00.000Z",
+          "end_at": "2026-08-20T14:00:00.000Z",
+          "url": "https://lu.ma/rtq9pgu5",
+          "cover_url": "https://images.lumacdn.com/uploads/dx/f80dc15f-5b5c-42a5-bbf0-402ff227a17f.png",
+          "location": ""
+        },
+        {
+          "api_id": "evt-1JsOxlPzy1JV1oZ",
+          "name": "RedotsClub Indonesia: Bali Connect at Coinfest Asia",
+          "start_at": "2026-08-20T11:30:00.000Z",
+          "end_at": "2026-08-20T14:30:00.000Z",
+          "url": "https://lu.ma/tlcquulr",
+          "cover_url": "https://images.lumacdn.com/uploads/e8/7d845bdb-e77d-42b8-b4e1-319b7c11103a.png",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
+          "api_id": "evt-ActCvY4J9ASVQH4",
+          "name": "CZR VIP CoinFest Asia Edition",
+          "start_at": "2026-08-20T12:00:00.000Z",
+          "end_at": "2026-08-20T14:00:00.000Z",
+          "url": "https://lu.ma/hz1uqoz4",
+          "cover_url": "https://images.lumacdn.com/uploads/sd/39bc4107-c64b-4a4b-8082-117ec38229bb.jpg",
+          "location": "Bali, Indonesia"
+        },
+        {
+          "api_id": "evt-Sd5XKJUFjwLRcFr",
+          "name": "The OG Brunch: The Future of Digital Finance",
+          "start_at": "2026-08-21T01:00:00.000Z",
+          "end_at": "2026-08-21T03:00:00.000Z",
+          "url": "https://lu.ma/zugf6nqn",
+          "cover_url": "https://images.lumacdn.com/uploads/i2/3640ae8b-be21-469c-89ba-ca8bb7a21cb3.jpg",
+          "location": "The Tulou Bali by Nakula, 55VH+CVJ, Kutuh, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-z1WguB7cyyuuG6K",
+          "name": "How to Get Your Web3 Project Mentioned in ChatGPT, Perplexity, Gemini & Google AI | AI Visibility Live @ Coinfest Asia 2026",
+          "start_at": "2026-08-21T02:00:00.000Z",
+          "end_at": "2026-08-21T02:45:00.000Z",
+          "url": "https://lu.ma/k8d6ohtg",
+          "cover_url": "https://images.lumacdn.com/uploads/c5/1bd8fcac-88ba-4744-956c-6009030dc458.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
     },
@@ -866,7 +866,7 @@
           "start_at": "2026-09-28T09:00:00.000Z",
           "end_at": "2026-09-28T14:00:00.000Z",
           "url": "https://lu.ma/mw84pfjm",
-          "cover_url": "https://images.lumacdn.com/uploads/5r/835ac42d-9ee7-44b2-99af-3cfabdf7eb39.png",
+          "cover_url": "https://images.lumacdn.com/uploads/yo/48161eb3-d1f8-4e0d-bf55-d87d1a0c2863.png",
           "location": "Seoul, South Korea"
         },
         {
@@ -911,7 +911,7 @@
           "start_at": "2026-09-29T03:00:00.000Z",
           "end_at": "2026-09-29T09:00:00.000Z",
           "url": "https://lu.ma/xxwrhox8",
-          "cover_url": "https://images.lumacdn.com/uploads/mk/fc69fdee-392d-4ee2-990f-55c75eb1f969.jpg",
+          "cover_url": "https://images.lumacdn.com/uploads/y2/d116dad5-332d-4ff8-b299-00f3a8db0c46.jpg",
           "location": "Seoul, South Korea"
         },
         {
