@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T18:20:03Z",
+  "last_updated": "2026-08-20T00:41:28Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -645,6 +645,15 @@
           "location": "Melasti Beach, Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
+          "api_id": "evt-vPwGpgScGNj1A8v",
+          "name": "WalletConnect Pay Bali Pop-Up @ Coinfest",
+          "start_at": "2026-08-20T04:00:00.000Z",
+          "end_at": "2026-08-21T12:00:00.000Z",
+          "url": "https://lu.ma/2k36s1wa",
+          "cover_url": "https://images.lumacdn.com/uploads/8z/2ee33110-46bc-4ae7-a178-b2064c100d41.png",
+          "location": "Melasti Beach, Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
           "api_id": "evt-agcw1R5phtuqMkV",
           "name": "Indonesia Open House",
           "start_at": "2026-08-20T04:00:00.000Z",
@@ -751,15 +760,6 @@
           "url": "https://lu.ma/indiagtm",
           "cover_url": "https://images.lumacdn.com/uploads/ez/bcba5147-a953-471c-a06e-7c3af44b50f7.jpg",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-GIqvnAYYN0WontL",
-          "name": "Meet the OJK Sandbox & Graduates",
-          "start_at": "2026-08-20T08:50:00.000Z",
-          "end_at": "2026-08-20T09:50:00.000Z",
-          "url": "https://lu.ma/ojksandbox",
-          "cover_url": "https://images.lumacdn.com/uploads/ap/7c9345bd-04ec-41d9-87b7-b27496b29004.png",
-          "location": "Badung Regency, Indonesia"
         }
       ]
     },
@@ -866,7 +866,7 @@
           "start_at": "2026-09-28T09:00:00.000Z",
           "end_at": "2026-09-28T12:00:00.000Z",
           "url": "https://lu.ma/ysuvgjfn",
-          "cover_url": "https://images.lumacdn.com/uploads/q5/8cc1dd15-fc50-46cb-a887-11f5bfbe88ff.png",
+          "cover_url": "https://images.lumacdn.com/uploads/7u/46a4d47b-2012-4934-ab3c-a65541dd293d.png",
           "location": "Seoul, South Korea"
         },
         {
