@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T12:28:06Z",
+  "last_updated": "2026-08-20T18:24:13Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,22 +582,13 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-VeaU5sstMpFMM75",
-          "name": "Compass for Coinfest Asia 2026 - Founders, Decision Makers, and Investors Available",
-          "start_at": "2026-08-19T23:00:00.000Z",
-          "end_at": "2026-08-21T15:00:00.000Z",
-          "url": "https://lu.ma/8hihd4jz",
-          "cover_url": "https://images.lumacdn.com/uploads/b4/93339f98-3fb4-4959-8dda-96599923c9b7.jpg",
-          "location": "Badung Regency, Indonesia"
-        },
-        {
-          "api_id": "evt-I3AOVqlVaUJaQlo",
-          "name": "WEEX AI Trading Lounge @ Coinfest Asia 2026",
-          "start_at": "2026-08-20T01:00:00.000Z",
-          "end_at": "2026-08-21T11:00:00.000Z",
-          "url": "https://lu.ma/1lq115fj",
-          "cover_url": "https://images.lumacdn.com/uploads/rq/19e92821-16e7-48cb-8624-d3033bd8d75e.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+          "api_id": "evt-CGNWLNtrR7eYanf",
+          "name": "Interview and Feature With Singapore Blockchain Week and Altcoin - Confest Edition (Bali)",
+          "start_at": "2026-08-20T02:00:00.000Z",
+          "end_at": "2026-08-23T14:00:00.000Z",
+          "url": "https://lu.ma/dzie09wp",
+          "cover_url": "https://images.lumacdn.com/uploads/he/2af0e60a-6921-4ce3-a866-8513dbffe0da.png",
+          "location": "Coinfest Asia, 5536+H5W, Ungasan, South Kuta, Badung Regency, Bali, Indonesia"
         },
         {
           "api_id": "evt-ITX4qbjfTkDUmqv",
@@ -636,103 +627,13 @@
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
-          "api_id": "evt-RSuug4ZGgoPDjoc",
-          "name": "Agentic AI & Web3: Automate Workflows",
-          "start_at": "2026-08-20T09:00:00.000Z",
-          "end_at": "2026-08-20T16:00:00.000Z",
-          "url": "https://lu.ma/1fa499w7",
-          "cover_url": "https://images.lumacdn.com/event-covers/vc/7fd184c4-6e1d-41ab-b5b2-5eb6ae4a5121.png",
-          "location": "Bali, Indonesia"
-        },
-        {
-          "api_id": "evt-BMVq5tx5yJEFbNZ",
-          "name": "TOKENISED BALI & CONNECTED CAPITAL - VIP & INVESTORS NIGHT",
-          "start_at": "2026-08-20T09:00:00.000Z",
-          "end_at": "2026-08-20T13:00:00.000Z",
-          "url": "https://lu.ma/tokenisedbali",
-          "cover_url": "https://images.lumacdn.com/uploads/b5/a3ae9c15-d616-4f4b-85b8-449e9962e216.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-18I0Cm8MXoUpzaa",
-          "name": "KAST Golden Hour - Bali",
-          "start_at": "2026-08-20T09:30:00.000Z",
-          "end_at": "2026-08-20T12:30:00.000Z",
-          "url": "https://lu.ma/KASTGoldenHour_Bali",
-          "cover_url": "https://images.lumacdn.com/uploads/6u/020ab7a2-8e53-4195-a01e-59460a9a8e74.png",
-          "location": "Mana Uluwatu Restaurant & Bar, Jl. Pantai Suluban, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-4MTbCbEI3UPBR1P",
-          "name": "The OG Night",
-          "start_at": "2026-08-20T09:30:00.000Z",
-          "end_at": "2026-08-20T14:00:00.000Z",
-          "url": "https://lu.ma/mcp6qfip",
-          "cover_url": "https://images.lumacdn.com/uploads/3j/341b3f47-7ded-4a54-bcc5-3d1d305ff129.jpg",
-          "location": "The Tulou Bali by Nakula, 55VH+CVJ, Kutuh, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-A7BBtnxZ4l8r973",
-          "name": "Base Founders’ Dinner 🍽️",
-          "start_at": "2026-08-20T10:00:00.000Z",
-          "end_at": "2026-08-20T14:00:00.000Z",
-          "url": "https://lu.ma/rnvdey11",
-          "cover_url": "https://images.lumacdn.com/uploads/tw/b35be3f2-a837-416f-b400-badc8da3a988.png",
-          "location": "Timbis Beach Club, Jl. Pantai Pandawa, area Pantai, Timbis, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-DONKL81R3LSYCjk",
-          "name": "Zoomex Summer Bay Party: Trade the Tide — Coinfest Asia 2026 Side Event",
-          "start_at": "2026-08-20T11:00:00.000Z",
-          "end_at": "2026-08-20T15:00:00.000Z",
-          "url": "https://lu.ma/s928s2gf",
-          "cover_url": "https://images.lumacdn.com/uploads/h1/f1510e70-dfaa-4c67-9982-c6d129918e85.jpg",
-          "location": "Tropical Temptation - Adult Only Beach Club by Wonderspace, Melasti Beach 88, Uluwatu, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-rTu1qS9D2RMFpcB",
-          "name": "Builders Who Ship",
-          "start_at": "2026-08-20T11:00:00.000Z",
-          "end_at": "2026-08-20T14:00:00.000Z",
-          "url": "https://lu.ma/builderswhoship",
-          "cover_url": "https://images.lumacdn.com/uploads/ak/f8a8a695-d458-486b-9608-0f481b77c913.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-Iqi9uYBBEY0tY34",
-          "name": "🌙 IDRP Exclusive Evening at Coinfest Asia 2026",
-          "start_at": "2026-08-20T11:00:00.000Z",
-          "end_at": "2026-08-20T13:00:00.000Z",
-          "url": "https://lu.ma/jnx9cx97",
-          "cover_url": "https://images.lumacdn.com/uploads/2a/3ca55228-703e-400e-a43f-a3f8fbd2bf6c.png",
-          "location": "Tanah Uluwatu | Bakery & Grill, Jl. Raya Uluwatu Pecatu No.000, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-73Yan3KPhVrPhoq",
-          "name": "🍾 Alpha Night: Winner’s Celebration & Partner Deck",
-          "start_at": "2026-08-20T11:00:00.000Z",
-          "end_at": "2026-08-20T14:00:00.000Z",
-          "url": "https://lu.ma/rtq9pgu5",
-          "cover_url": "https://images.lumacdn.com/uploads/dx/f80dc15f-5b5c-42a5-bbf0-402ff227a17f.png",
-          "location": ""
-        },
-        {
-          "api_id": "evt-1JsOxlPzy1JV1oZ",
-          "name": "RedotsClub Indonesia: Bali Connect at Coinfest Asia",
-          "start_at": "2026-08-20T11:30:00.000Z",
-          "end_at": "2026-08-20T14:30:00.000Z",
-          "url": "https://lu.ma/tlcquulr",
-          "cover_url": "https://images.lumacdn.com/uploads/e8/7d845bdb-e77d-42b8-b4e1-319b7c11103a.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-ActCvY4J9ASVQH4",
-          "name": "CZR VIP CoinFest Asia Edition",
-          "start_at": "2026-08-20T12:00:00.000Z",
-          "end_at": "2026-08-20T14:00:00.000Z",
-          "url": "https://lu.ma/hz1uqoz4",
-          "cover_url": "https://images.lumacdn.com/uploads/sd/39bc4107-c64b-4a4b-8082-117ec38229bb.jpg",
-          "location": "Bali, Indonesia"
+          "api_id": "evt-VeaU5sstMpFMM75",
+          "name": "Compass for Coinfest Asia 2026 - Founders, Decision Makers, and Investors Available",
+          "start_at": "2026-08-20T23:00:00.000Z",
+          "end_at": "2026-08-22T15:00:00.000Z",
+          "url": "https://lu.ma/8hihd4jz",
+          "cover_url": "https://images.lumacdn.com/uploads/b4/93339f98-3fb4-4959-8dda-96599923c9b7.jpg",
+          "location": "Badung Regency, Indonesia"
         },
         {
           "api_id": "evt-Sd5XKJUFjwLRcFr",
@@ -750,6 +651,105 @@
           "end_at": "2026-08-21T02:45:00.000Z",
           "url": "https://lu.ma/k8d6ohtg",
           "cover_url": "https://images.lumacdn.com/uploads/c5/1bd8fcac-88ba-4744-956c-6009030dc458.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-ZBKPThYTPNzyVQL",
+          "name": "Stablecoins in Asia: From Crypto Settlement to Real Corporate Payments | Powered by ICEx Group",
+          "start_at": "2026-08-21T02:00:00.000Z",
+          "end_at": "2026-08-21T03:30:00.000Z",
+          "url": "https://lu.ma/stablecoinasia",
+          "cover_url": "https://images.lumacdn.com/uploads/bd/995b8b6b-7aa9-4a47-a60c-9ba4977f1589.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-ojFgVsrHbRsj8YT",
+          "name": "Tokenization: Which Assets Will Actually Scale in Asia? | Powered by ICEx Group",
+          "start_at": "2026-08-21T04:00:00.000Z",
+          "end_at": "2026-08-21T05:30:00.000Z",
+          "url": "https://lu.ma/tokenizationasia",
+          "cover_url": "https://images.lumacdn.com/uploads/ww/340055de-081f-43bc-b36a-e81f7c331c45.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-eiKyfcJoMlNYBUm",
+          "name": "Binance Clubhouse Bali – Official Side Event at Coinfest Asia 2026",
+          "start_at": "2026-08-21T04:00:00.000Z",
+          "end_at": "2026-08-21T09:00:00.000Z",
+          "url": "https://lu.ma/93geox3v",
+          "cover_url": "https://images.lumacdn.com/uploads/ge/b8d92754-5769-401c-8cbe-acd18b29da23.jpg",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
+          "api_id": "evt-Np2mc7aDRO8Y5vN",
+          "name": "FundedXYZ Esports Trading Competition | Coinfest Asia 2026",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T09:00:00.000Z",
+          "url": "https://lu.ma/66mv1ycr",
+          "cover_url": "https://images.lumacdn.com/uploads/db/4ed11ae2-f66f-4eb2-b260-c03e7ca72067.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-FasgrTJfiDO5dge",
+          "name": "Crypto Security in the age of AI Builders",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T08:30:00.000Z",
+          "url": "https://lu.ma/nvv49uzg",
+          "cover_url": "https://images.unsplash.com/photo-1721750887731-a0c76043092d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxPcmNhfGVufDB8fHx8MTc4NzIxNjI2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "location": "Coinfest Asia, 5536+H5W, Ungasan, South Kuta, Badung Regency, Bali, Indonesia"
+        },
+        {
+          "api_id": "evt-Gd6DovWCMe6Ooiq",
+          "name": "What the Hack - Crash Course",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T07:00:00.000Z",
+          "url": "https://lu.ma/whatthehack",
+          "cover_url": "https://images.lumacdn.com/uploads/dr/7b6ee75c-319f-44f1-b338-ab82ad83d532.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-DNpGZ9LsGU4IhtY",
+          "name": "IDRP BEYOND TRANSACTION - OFFICIAL SIDE EVENT COINFEST 2026",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T07:00:00.000Z",
+          "url": "https://lu.ma/0lldlcbl",
+          "cover_url": "https://images.lumacdn.com/uploads/wg/007f144b-0c0f-415f-897e-93f1d5b46955.jpg",
+          "location": "White Rock Beach Club, Pantai Melasti, Uluwatu Jl. Melasti, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-cifgx1xtlfyUF6h",
+          "name": "Stablecoin & The Tokenized World: Is Your Institution Actually Ready to Go Live and Not Miss The Wave | Powered by ICEx Group",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T07:30:00.000Z",
+          "url": "https://lu.ma/stablecoinandtokenized",
+          "cover_url": "https://images.lumacdn.com/uploads/8d/0e472c32-bb4c-476b-9205-45593a120607.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-8CgfRHUL9lZNHCT",
+          "name": "Protocol Camp Cohort 9 | Final Demo Day",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T11:00:00.000Z",
+          "url": "https://lu.ma/77oe17rt",
+          "cover_url": "https://images.lumacdn.com/uploads/44/79574f2c-868c-4192-b2cb-872f6fea6468.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-9G7sJnBQRWI5rhc",
+          "name": "Tokocrypto Beach Horizon – Official Side Event at Coinfest Asia 2026",
+          "start_at": "2026-08-21T06:00:00.000Z",
+          "end_at": "2026-08-21T11:30:00.000Z",
+          "url": "https://lu.ma/2qetiyem",
+          "cover_url": "https://images.lumacdn.com/uploads/i2/c81403d0-5ef2-4948-870c-bca6b5365c33.png",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
+          "api_id": "evt-IKjHf0PJ9JM9uuG",
+          "name": "Mastering AI Trading: Stop Clicking, Start Automating!",
+          "start_at": "2026-08-21T06:10:00.000Z",
+          "end_at": "2026-08-21T06:40:00.000Z",
+          "url": "https://lu.ma/coinfestaitrading",
+          "cover_url": "https://images.lumacdn.com/uploads/hy/a4395188-922b-4217-8138-942ab39074f8.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
@@ -839,7 +839,7 @@
           "start_at": "2026-09-28T08:00:00.000Z",
           "end_at": "2026-09-28T12:00:00.000Z",
           "url": "https://lu.ma/5mgf0u76",
-          "cover_url": "https://images.lumacdn.com/uploads/gs/51586e88-8d68-4781-a8f0-edc4ddb4715e.png",
+          "cover_url": "https://images.lumacdn.com/uploads/3v/bbe6044d-33e9-4814-9e4d-f1925766f0b9.png",
           "location": "Alver Coffee Gangnam, 34 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
         },
         {
