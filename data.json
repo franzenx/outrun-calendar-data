@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T00:44:54Z",
+  "last_updated": "2026-08-21T06:29:53Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,51 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-CGNWLNtrR7eYanf",
-          "name": "Interview and Feature With Singapore Blockchain Week and Altcoin - Confest Edition (Bali)",
-          "start_at": "2026-08-20T02:00:00.000Z",
-          "end_at": "2026-08-23T14:00:00.000Z",
-          "url": "https://lu.ma/dzie09wp",
-          "cover_url": "https://images.lumacdn.com/uploads/he/2af0e60a-6921-4ce3-a866-8513dbffe0da.png",
-          "location": "Coinfest Asia, 5536+H5W, Ungasan, South Kuta, Badung Regency, Bali, Indonesia"
-        },
-        {
-          "api_id": "evt-ITX4qbjfTkDUmqv",
-          "name": "MET Bali",
-          "start_at": "2026-08-20T03:00:00.000Z",
-          "end_at": "2026-08-22T13:00:00.000Z",
-          "url": "https://lu.ma/pkr27xr4",
-          "cover_url": "https://images.lumacdn.com/uploads/as/27ba9ed5-32ca-4f05-b820-c7737b455ab3.png",
-          "location": "Wildflower, Jl. Langui Toyaning I Gg. Langui No.45, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-JW0JG78wJRIAb8c",
-          "name": "Nouns ⌐◨-◨ × AthenaX @ Coinfest Asia 2026",
-          "start_at": "2026-08-20T04:00:00.000Z",
-          "end_at": "2026-08-21T13:00:00.000Z",
-          "url": "https://lu.ma/3aopix8n",
-          "cover_url": "https://images.lumacdn.com/uploads/md/832674b1-a92b-4ed4-a554-5cbc28e4924b.png",
-          "location": "Melasti Beach, Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-vPwGpgScGNj1A8v",
-          "name": "WalletConnect Pay Bali Pop-Up @ Coinfest",
-          "start_at": "2026-08-20T04:00:00.000Z",
-          "end_at": "2026-08-21T12:00:00.000Z",
-          "url": "https://lu.ma/2k36s1wa",
-          "cover_url": "https://images.lumacdn.com/uploads/8z/2ee33110-46bc-4ae7-a178-b2064c100d41.png",
-          "location": "Melasti Beach, Jl. Melasti Ungasan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-agcw1R5phtuqMkV",
-          "name": "Indonesia Open House",
-          "start_at": "2026-08-20T06:00:00.000Z",
-          "end_at": "2026-08-21T11:00:00.000Z",
-          "url": "https://lu.ma/indoopenhouse",
-          "cover_url": "https://images.lumacdn.com/uploads/fy/8717157d-5a17-4749-9c47-8b3ae7142256.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-VeaU5sstMpFMM75",
           "name": "Compass for Coinfest Asia 2026 - Founders, Decision Makers, and Investors Available",
           "start_at": "2026-08-20T23:00:00.000Z",
@@ -634,42 +589,6 @@
           "url": "https://lu.ma/8hihd4jz",
           "cover_url": "https://images.lumacdn.com/uploads/b4/93339f98-3fb4-4959-8dda-96599923c9b7.jpg",
           "location": "Badung Regency, Indonesia"
-        },
-        {
-          "api_id": "evt-Sd5XKJUFjwLRcFr",
-          "name": "The OG Brunch: The Future of Digital Finance",
-          "start_at": "2026-08-21T01:00:00.000Z",
-          "end_at": "2026-08-21T03:00:00.000Z",
-          "url": "https://lu.ma/zugf6nqn",
-          "cover_url": "https://images.lumacdn.com/uploads/i2/3640ae8b-be21-469c-89ba-ca8bb7a21cb3.jpg",
-          "location": "The Tulou Bali by Nakula, 55VH+CVJ, Kutuh, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-z1WguB7cyyuuG6K",
-          "name": "How to Get Your Web3 Project Mentioned in ChatGPT, Perplexity, Gemini & Google AI | AI Visibility Live @ Coinfest Asia 2026",
-          "start_at": "2026-08-21T02:00:00.000Z",
-          "end_at": "2026-08-21T02:45:00.000Z",
-          "url": "https://lu.ma/k8d6ohtg",
-          "cover_url": "https://images.lumacdn.com/uploads/c5/1bd8fcac-88ba-4744-956c-6009030dc458.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-ZBKPThYTPNzyVQL",
-          "name": "Stablecoins in Asia: From Crypto Settlement to Real Corporate Payments | Powered by ICEx Group",
-          "start_at": "2026-08-21T02:00:00.000Z",
-          "end_at": "2026-08-21T03:30:00.000Z",
-          "url": "https://lu.ma/stablecoinasia",
-          "cover_url": "https://images.lumacdn.com/uploads/bd/995b8b6b-7aa9-4a47-a60c-9ba4977f1589.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-ojFgVsrHbRsj8YT",
-          "name": "Tokenization: Which Assets Will Actually Scale in Asia? | Powered by ICEx Group",
-          "start_at": "2026-08-21T04:00:00.000Z",
-          "end_at": "2026-08-21T05:30:00.000Z",
-          "url": "https://lu.ma/tokenizationasia",
-          "cover_url": "https://images.lumacdn.com/uploads/ww/340055de-081f-43bc-b36a-e81f7c331c45.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         },
         {
           "api_id": "evt-eiKyfcJoMlNYBUm",
@@ -691,7 +610,7 @@
         },
         {
           "api_id": "evt-FasgrTJfiDO5dge",
-          "name": "Crypto Security in the age of AI Builders",
+          "name": "Crypto Security in the age of AI Builders by ORCA Security",
           "start_at": "2026-08-21T06:00:00.000Z",
           "end_at": "2026-08-21T08:30:00.000Z",
           "url": "https://lu.ma/nvv49uzg",
@@ -750,6 +669,87 @@
           "end_at": "2026-08-21T06:40:00.000Z",
           "url": "https://lu.ma/coinfestaitrading",
           "cover_url": "https://images.lumacdn.com/uploads/hy/a4395188-922b-4217-8138-942ab39074f8.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-Ei6Squz90Ewix5E",
+          "name": "Singapore Unlocked: License, Launch, Expand",
+          "start_at": "2026-08-21T06:50:00.000Z",
+          "end_at": "2026-08-21T07:35:00.000Z",
+          "url": "https://lu.ma/sgunlocked",
+          "cover_url": "https://images.lumacdn.com/uploads/g1/998189d0-6c12-40ca-861e-816a6365f5ba.png",
+          "location": "Badung Regency, Indonesia"
+        },
+        {
+          "api_id": "evt-UlMFRmG98KSh65r",
+          "name": "Bitcoin Crash Course",
+          "start_at": "2026-08-21T07:00:00.000Z",
+          "end_at": "2026-08-21T07:30:00.000Z",
+          "url": "https://lu.ma/btccrashcourse",
+          "cover_url": "https://images.lumacdn.com/uploads/hf/b0f42707-7da8-482d-b784-3c635487368f.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-nlHF7ZPh1B6KnCU",
+          "name": "Japan GTM Session",
+          "start_at": "2026-08-21T07:30:00.000Z",
+          "end_at": "2026-08-21T08:30:00.000Z",
+          "url": "https://lu.ma/japangtm",
+          "cover_url": "https://images.lumacdn.com/uploads/5c/de54a349-1a12-4199-898c-dd920a9117d6.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-DlDkbALaOy5ymiR",
+          "name": "Tokenized Money Market Funds: The Institutional On-Ramp That Actually Makes Sense | Powered by ICEx Group",
+          "start_at": "2026-08-21T08:00:00.000Z",
+          "end_at": "2026-08-21T09:30:00.000Z",
+          "url": "https://lu.ma/tokenizedmmf",
+          "cover_url": "https://images.lumacdn.com/uploads/ga/4082e6ae-4fe1-4351-a7f8-1e7adcc645de.png",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-0u9caFHwUgSNqNq",
+          "name": "GATE ZONE inside Coinfest: iWEB3 - THE LEADERSHIP SHIFT",
+          "start_at": "2026-08-21T08:00:00.000Z",
+          "end_at": "2026-08-21T13:00:00.000Z",
+          "url": "https://lu.ma/ez0knh53",
+          "cover_url": "https://images.lumacdn.com/uploads/xq/26521894-24e0-4ba0-a5be-f8a9f57deb40.png",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
+          "api_id": "evt-Wl2R883yHs1VFje",
+          "name": "LP Night Shift BALI!",
+          "start_at": "2026-08-21T08:00:00.000Z",
+          "end_at": "2026-08-21T22:00:00.000Z",
+          "url": "https://lu.ma/8oi7jv71",
+          "cover_url": "https://images.lumacdn.com/uploads/1m/6f2b258c-f7f3-478a-900b-d0340f5d64e8.png",
+          "location": "Wildflower, Jl. Langui Toyaning I Gg. Langui No.45, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-8DhoGUeBnFOChTj",
+          "name": "Night Market, Onchain by Bitget Wallet",
+          "start_at": "2026-08-21T08:00:00.000Z",
+          "end_at": "2026-08-21T13:00:00.000Z",
+          "url": "https://lu.ma/u4u4andd",
+          "cover_url": "https://images.lumacdn.com/uploads/7k/31e76a9c-6646-4778-9242-11b179cfcb8d.png",
+          "location": "Wildflower, Jl. Langui Toyaning I Gg. Langui No.45, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-t5rAo9oSX63FpCI",
+          "name": "Quantum Genesis & Future of DeFi",
+          "start_at": "2026-08-21T08:10:00.000Z",
+          "end_at": "2026-08-21T08:40:00.000Z",
+          "url": "https://lu.ma/ethjktdefi",
+          "cover_url": "https://images.lumacdn.com/uploads/fn/55b766f0-25d8-494a-bc01-b399e3196dbf.jpg",
+          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
+        },
+        {
+          "api_id": "evt-eFp4x2uQQCgx7Yn",
+          "name": "Mastering DLMM",
+          "start_at": "2026-08-21T08:30:00.000Z",
+          "end_at": "2026-08-21T10:00:00.000Z",
+          "url": "https://lu.ma/masteringdlmm",
+          "cover_url": "https://images.lumacdn.com/uploads/du/de751d8d-e26b-45f6-a5eb-db3311337bb1.png",
           "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
         }
       ]
