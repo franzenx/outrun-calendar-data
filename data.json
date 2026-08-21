@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T12:27:15Z",
+  "last_updated": "2026-08-21T18:23:14Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -591,15 +591,6 @@
           "location": "Badung Regency, Indonesia"
         },
         {
-          "api_id": "evt-0u9caFHwUgSNqNq",
-          "name": "GATE ZONE inside Coinfest: iWEB3 - THE LEADERSHIP SHIFT",
-          "start_at": "2026-08-21T08:00:00.000Z",
-          "end_at": "2026-08-21T13:00:00.000Z",
-          "url": "https://lu.ma/ez0knh53",
-          "cover_url": "https://images.lumacdn.com/uploads/xq/26521894-24e0-4ba0-a5be-f8a9f57deb40.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
           "api_id": "evt-Wl2R883yHs1VFje",
           "name": "LP Night Shift BALI!",
           "start_at": "2026-08-21T08:00:00.000Z",
@@ -609,33 +600,6 @@
           "location": "Wildflower, Jl. Langui Toyaning I Gg. Langui No.45, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
         },
         {
-          "api_id": "evt-8DhoGUeBnFOChTj",
-          "name": "Night Market, Onchain by Bitget Wallet",
-          "start_at": "2026-08-21T08:00:00.000Z",
-          "end_at": "2026-08-21T13:00:00.000Z",
-          "url": "https://lu.ma/u4u4andd",
-          "cover_url": "https://images.lumacdn.com/uploads/7k/31e76a9c-6646-4778-9242-11b179cfcb8d.png",
-          "location": "Wildflower, Jl. Langui Toyaning I Gg. Langui No.45, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-YPkJ1t62UV7Kfo1",
-          "name": "VivaReel × Wan3.0 Private Dinner · Bali",
-          "start_at": "2026-08-21T09:00:00.000Z",
-          "end_at": "2026-08-21T12:30:00.000Z",
-          "url": "https://lu.ma/pmtg7mx7",
-          "cover_url": "https://images.lumacdn.com/uploads/ib/a9610ac6-a94a-49e6-9b95-1eba11d36f60.jpg",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-CccSePmAHUqXA5G",
-          "name": "Sunset Networking Party @ Binance Clubhouse Bali",
-          "start_at": "2026-08-21T10:00:00.000Z",
-          "end_at": "2026-08-21T13:00:00.000Z",
-          "url": "https://lu.ma/92dky5k3",
-          "cover_url": "https://images.lumacdn.com/uploads/rn/0e3e3ba4-6018-4375-9651-4666128a5ab7.jpg",
-          "location": "Mïnoo Beach Club, Pantai Melasti Jl. Pengayutan, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
           "api_id": "evt-EYnEVMvXVAXmC7F",
           "name": "Crypto Turtles Villa Party",
           "start_at": "2026-08-21T11:00:00.000Z",
@@ -643,51 +607,6 @@
           "url": "https://lu.ma/y5eoe244",
           "cover_url": "https://images.lumacdn.com/uploads/mk/03dfb3ea-93da-4e57-88ae-8a566033cbbd.png",
           "location": "Bali, Indonesia"
-        },
-        {
-          "api_id": "evt-tT9gwhPbBeBDWEm",
-          "name": "Investors Dinner by X Capital",
-          "start_at": "2026-08-21T11:00:00.000Z",
-          "end_at": "2026-08-21T15:00:00.000Z",
-          "url": "https://lu.ma/6f30ta5s",
-          "cover_url": "https://images.lumacdn.com/gallery-images/sb/ca196165-c588-4b7a-83e7-7dbd526f83fc.png",
-          "location": ""
-        },
-        {
-          "api_id": "evt-1YQafH35QG9HpJ4",
-          "name": "Whiskey & Whales @COINFEST ASIA 🇮🇩 2026",
-          "start_at": "2026-08-21T11:00:00.000Z",
-          "end_at": "2026-08-21T14:00:00.000Z",
-          "url": "https://lu.ma/dx88awg6",
-          "cover_url": "https://images.lumacdn.com/uploads/gq/b27b9f98-5f63-4d80-8166-a8ec0b637d8a.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-c6yrHZNIc9U7bXs",
-          "name": "Coinfest Asia Official After Party",
-          "start_at": "2026-08-21T12:00:00.000Z",
-          "end_at": "2026-08-21T15:00:00.000Z",
-          "url": "https://lu.ma/coinfestafterparty",
-          "cover_url": "https://images.lumacdn.com/uploads/ky/1895d596-2530-4a79-ac72-5659207ee01f.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-KyonZFRgNph1XH2",
-          "name": "Future of Web3 Infrastructure & Global Payments Hosted by Shivacha Technologies & ZorianPay",
-          "start_at": "2026-08-21T12:30:00.000Z",
-          "end_at": "2026-08-21T13:30:00.000Z",
-          "url": "https://lu.ma/4krn7hmt",
-          "cover_url": "https://images.lumacdn.com/uploads/as/08de40a2-ee2b-4518-b076-b0af95f852f7.png",
-          "location": "Coinfest Asia, 5524+QR, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-XqTqCpINBGN5IBJ",
-          "name": "VC Pitch Competition #7 by Fibonacci Capital and Crypto Executives",
-          "start_at": "2026-08-21T13:00:00.000Z",
-          "end_at": "2026-08-21T14:30:00.000Z",
-          "url": "https://lu.ma/fibonacci-zost",
-          "cover_url": "https://images.lumacdn.com/api-uploads/m0/18c61bb4-4b4b-4109-8c78-0cc321f2d521.png",
-          "location": ""
         },
         {
           "api_id": "evt-rFQ2qviBoM93XSM",
@@ -750,7 +669,7 @@
           "end_at": "2026-08-22T12:30:00.000Z",
           "url": "https://lu.ma/jwpxj19i",
           "cover_url": "https://images.lumacdn.com/uploads/cn/86beb6a4-bbf4-464a-9397-a4004bf27abb.png",
-          "location": "Kabupaten Badung, Indonesia"
+          "location": "Cuca Restaurant, Jl. Yoga Perkanthi, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia"
         },
         {
           "api_id": "evt-a5B9GGpCApXewAb",
@@ -760,6 +679,87 @@
           "url": "https://lu.ma/yqob2kjy",
           "cover_url": "https://images.lumacdn.com/uploads/7k/43e0f5b4-0b67-462d-b809-57ff7742248a.png",
           "location": "Karma Kandara, Jl. Villa Kandara Banjar Wijaya Kusuma Ungasan Benoa Kuta Sel. Banjar Wijaya Kusuma, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80362, Indonesia"
+        },
+        {
+          "api_id": "evt-TTaEnYElrkzCDH9",
+          "name": "MeetMoney Bali: Stablecoin, Payments and Banking [Invite-only]",
+          "start_at": "2026-08-22T11:00:00.000Z",
+          "end_at": "2026-08-22T14:00:00.000Z",
+          "url": "https://lu.ma/9ehj34uz",
+          "cover_url": "https://images.lumacdn.com/uploads/c1/05b0d03e-31bc-463d-931a-20f7f3bc038b.png",
+          "location": "KU DE TA, Jl. Kayu Aya No.9, Seminyak, Kec. Kuta, Kabupaten Badung, Bali, Indonesia"
+        },
+        {
+          "api_id": "evt-LGJius9Au5x4LzZ",
+          "name": "TEIZAZA BALI {Tropical Thunder}",
+          "start_at": "2026-08-22T11:30:00.000Z",
+          "end_at": "2026-08-22T17:30:00.000Z",
+          "url": "https://lu.ma/74np88rm",
+          "cover_url": "https://images.lumacdn.com/uploads/qq/adb97bb9-c09d-40b2-9736-62a73c46985c.jpg",
+          "location": "Morabito Art Villa Beach, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali, Indonesia"
+        },
+        {
+          "api_id": "evt-wLfMtj6ctMdUYoU",
+          "name": "TEIZAZA VIP DINNER",
+          "start_at": "2026-08-22T11:30:00.000Z",
+          "end_at": "2026-08-22T13:00:00.000Z",
+          "url": "https://lu.ma/0n98u537",
+          "cover_url": "https://images.lumacdn.com/uploads/54/8f3b8176-5499-49e5-9280-7d2c16462232.jpg",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
+          "api_id": "evt-PpO4brbdm8FZZXO",
+          "name": "The Crypto Social, Bali 🇮🇩",
+          "start_at": "2026-08-23T04:30:00.000Z",
+          "end_at": "2026-08-23T09:00:00.000Z",
+          "url": "https://lu.ma/539s0rdy",
+          "cover_url": "https://images.lumacdn.com/uploads/xc/8dbce37b-8e17-44f5-9826-71345f2264d6.png",
+          "location": "Kabupaten Badung, Indonesia"
+        },
+        {
+          "api_id": "evt-NZMZfZ4OhO3CKpv",
+          "name": "Padel & Pool at the VHouse - an official side event of Coinfest Asia",
+          "start_at": "2026-08-23T06:00:00.000Z",
+          "end_at": "2026-08-23T08:00:00.000Z",
+          "url": "https://lu.ma/TBE-VH-PadelPool",
+          "cover_url": "https://images.lumacdn.com/uploads/un/1210491c-60a0-42c3-9093-7f3efecba87b.png",
+          "location": "Badung Regency, Indonesia"
+        },
+        {
+          "api_id": "evt-HRHFmwzLQOXK1RD",
+          "name": "Sundown Mixer at the VHouse - an official side event of Coinfest Asia",
+          "start_at": "2026-08-23T08:00:00.000Z",
+          "end_at": "2026-08-23T14:00:00.000Z",
+          "url": "https://lu.ma/TBE-VHouse26-1",
+          "cover_url": "https://images.lumacdn.com/uploads/an/8642c997-6421-422e-9694-beae1ac6863d.png",
+          "location": "Badung Regency, Indonesia"
+        },
+        {
+          "api_id": "evt-RSuug4ZGgoPDjoc",
+          "name": "Agentic AI & Web3: Automate Workflows",
+          "start_at": "2026-08-23T09:00:00.000Z",
+          "end_at": "2026-08-23T16:00:00.000Z",
+          "url": "https://lu.ma/1fa499w7",
+          "cover_url": "https://images.lumacdn.com/event-covers/vc/7fd184c4-6e1d-41ab-b5b2-5eb6ae4a5121.png",
+          "location": "Bali, Indonesia"
+        },
+        {
+          "api_id": "evt-3ks4lX5HO0wEbG2",
+          "name": "TBV Demo Day at the VHouse - an official side event of Coinfest Asia",
+          "start_at": "2026-08-24T08:00:00.000Z",
+          "end_at": "2026-08-24T12:00:00.000Z",
+          "url": "https://lu.ma/TBE-VHouse26-2",
+          "cover_url": "https://images.lumacdn.com/uploads/t1/af252c9a-718a-4dbc-a735-4f9c8f2b830b.png",
+          "location": "Badung Regency, Indonesia"
+        },
+        {
+          "api_id": "evt-L1LWbkkZL3NDbFg",
+          "name": "Pool Party at the VHouse - an official side event of Coinfest Asia",
+          "start_at": "2026-08-27T07:00:00.000Z",
+          "end_at": "2026-08-27T12:00:00.000Z",
+          "url": "https://lu.ma/TBE-VHouse26-3",
+          "cover_url": "https://images.lumacdn.com/uploads/lx/40b196d9-9669-4b9c-b583-c79aff7932fe.png",
+          "location": "Badung Regency, Indonesia"
         }
       ]
     },
