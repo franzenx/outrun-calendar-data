@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T18:23:14Z",
+  "last_updated": "2026-08-22T00:41:50Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -581,33 +581,6 @@
       "opportunity": "SE Asia + LATAM nomad trader community; grassroots USDT adoption audience; E-sports culture",
       "luma_slug": "coinfest-asia",
       "events": [
-        {
-          "api_id": "evt-VeaU5sstMpFMM75",
-          "name": "Compass for Coinfest Asia 2026 - Founders, Decision Makers, and Investors Available",
-          "start_at": "2026-08-20T23:00:00.000Z",
-          "end_at": "2026-08-22T15:00:00.000Z",
-          "url": "https://lu.ma/8hihd4jz",
-          "cover_url": "https://images.lumacdn.com/uploads/b4/93339f98-3fb4-4959-8dda-96599923c9b7.jpg",
-          "location": "Badung Regency, Indonesia"
-        },
-        {
-          "api_id": "evt-Wl2R883yHs1VFje",
-          "name": "LP Night Shift BALI!",
-          "start_at": "2026-08-21T08:00:00.000Z",
-          "end_at": "2026-08-21T22:00:00.000Z",
-          "url": "https://lu.ma/8oi7jv71",
-          "cover_url": "https://images.lumacdn.com/uploads/1m/6f2b258c-f7f3-478a-900b-d0340f5d64e8.png",
-          "location": "Wildflower, Jl. Langui Toyaning I Gg. Langui No.45, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-EYnEVMvXVAXmC7F",
-          "name": "Crypto Turtles Villa Party",
-          "start_at": "2026-08-21T11:00:00.000Z",
-          "end_at": "2026-08-21T19:00:00.000Z",
-          "url": "https://lu.ma/y5eoe244",
-          "cover_url": "https://images.lumacdn.com/uploads/mk/03dfb3ea-93da-4e57-88ae-8a566033cbbd.png",
-          "location": "Bali, Indonesia"
-        },
         {
           "api_id": "evt-rFQ2qviBoM93XSM",
           "name": "CRYPTO TRADING WORKSHOP | How Smart Money Finds Opportunities Before Everyone | Blockcircle Day | Coinfest 2026",
