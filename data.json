@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T06:23:03Z",
+  "last_updated": "2026-08-22T12:20:04Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,33 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-1GpFfKimXCQeOWS",
-          "name": "VivaReel × Wan3.0 AI Creator Festival 2026 · Bali",
-          "start_at": "2026-08-22T05:30:00.000Z",
-          "end_at": "2026-08-22T10:00:00.000Z",
-          "url": "https://lu.ma/6q7yy19a",
-          "cover_url": "https://images.lumacdn.com/uploads/3o/fb366e86-3c41-424d-b920-b454071f629c.jpg",
-          "location": "Mulia Resort - Nusa Dua, Bali, Kawasan Sawangan, Jl. Raya Nusa Dua Selatan, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
-        },
-        {
-          "api_id": "evt-gnlULJWiVQAMxqd",
-          "name": "INSTITUTIONAL CRYPTO TRADING WORKSHOP: Follow Smart Money & Whales using Insider, Political, and Prediction Alpha | Coinfest 2026",
-          "start_at": "2026-08-22T07:00:00.000Z",
-          "end_at": "2026-08-22T08:00:00.000Z",
-          "url": "https://lu.ma/lodbl5d5",
-          "cover_url": "https://images.lumacdn.com/uploads/g2/151e4fbc-3385-492d-82ca-9819b9881836.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-VIoUFpjPAvzHCcW",
-          "name": "INSTITUTIONAL CRYPTO TRADING WORKSHOP: Systematic Trading Strategy Design and Execution at Scale | COMPANIES ONLY | Coinfest 2026",
-          "start_at": "2026-08-22T08:00:00.000Z",
-          "end_at": "2026-08-22T09:00:00.000Z",
-          "url": "https://lu.ma/0zfdp3jc",
-          "cover_url": "https://images.lumacdn.com/uploads/h5/986725d6-a253-4773-88d2-aae0cd40eef8.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
           "api_id": "evt-4Oaaw9tHRF0EA51",
           "name": "OKX Private Night",
           "start_at": "2026-08-22T09:00:00.000Z",
@@ -616,15 +589,6 @@
           "url": "https://lu.ma/jwpxj19i",
           "cover_url": "https://images.lumacdn.com/uploads/cn/86beb6a4-bbf4-464a-9397-a4004bf27abb.png",
           "location": "Cuca Restaurant, Jl. Yoga Perkanthi, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia"
-        },
-        {
-          "api_id": "evt-a5B9GGpCApXewAb",
-          "name": "VC Roundtable- WEB3 Paddock",
-          "start_at": "2026-08-22T10:00:00.000Z",
-          "end_at": "2026-08-22T11:00:00.000Z",
-          "url": "https://lu.ma/yqob2kjy",
-          "cover_url": "https://images.lumacdn.com/uploads/7k/43e0f5b4-0b67-462d-b809-57ff7742248a.png",
-          "location": "Karma Kandara, Jl. Villa Kandara Banjar Wijaya Kusuma Ungasan Benoa Kuta Sel. Banjar Wijaya Kusuma, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80362, Indonesia"
         },
         {
           "api_id": "evt-LGJius9Au5x4LzZ",
@@ -686,7 +650,7 @@
           "start_at": "2026-08-24T08:00:00.000Z",
           "end_at": "2026-08-24T12:00:00.000Z",
           "url": "https://lu.ma/TBE-VHouse26-2",
-          "cover_url": "https://images.lumacdn.com/uploads/t1/af252c9a-718a-4dbc-a735-4f9c8f2b830b.png",
+          "cover_url": "https://images.lumacdn.com/uploads/1z/e22a8439-2ad6-4ef8-8919-86158966aeea.png",
           "location": "Badung Regency, Indonesia"
         },
         {
