@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T00:41:50Z",
+  "last_updated": "2026-08-22T06:23:03Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,33 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-rFQ2qviBoM93XSM",
-          "name": "CRYPTO TRADING WORKSHOP | How Smart Money Finds Opportunities Before Everyone | Blockcircle Day | Coinfest 2026",
-          "start_at": "2026-08-22T03:00:00.000Z",
-          "end_at": "2026-08-22T04:00:00.000Z",
-          "url": "https://lu.ma/xd6n6ccs",
-          "cover_url": "https://images.lumacdn.com/uploads/td/56bdde0e-2c6d-4234-9de4-14679afc9168.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-nDeHx9KCr1Vkkjy",
-          "name": "CRYPTO TRADING WORKSHOP | On Fundamental, Technical, Sentiment, and Quantitative Analysis with Blockcircle | Coinfest 2026",
-          "start_at": "2026-08-22T04:00:00.000Z",
-          "end_at": "2026-08-22T05:00:00.000Z",
-          "url": "https://lu.ma/hknvx0vs",
-          "cover_url": "https://images.lumacdn.com/uploads/g8/9c66954f-b740-48ba-8b4b-61ccb2812fc2.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-nEhUfLyEE0GiWyC",
-          "name": "PREDICTION MARKETS WORKSHOP | How To Leverage Prediction Market Alpha to Track Whales with Blockcircle | Coinfest 2026",
-          "start_at": "2026-08-22T05:00:00.000Z",
-          "end_at": "2026-08-22T06:00:00.000Z",
-          "url": "https://lu.ma/vvypahv3",
-          "cover_url": "https://images.lumacdn.com/uploads/s9/f34dcd5e-cc4d-48c9-8b95-0d1424ca7377.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
           "api_id": "evt-1GpFfKimXCQeOWS",
           "name": "VivaReel × Wan3.0 AI Creator Festival 2026 · Bali",
           "start_at": "2026-08-22T05:30:00.000Z",
@@ -652,15 +625,6 @@
           "url": "https://lu.ma/yqob2kjy",
           "cover_url": "https://images.lumacdn.com/uploads/7k/43e0f5b4-0b67-462d-b809-57ff7742248a.png",
           "location": "Karma Kandara, Jl. Villa Kandara Banjar Wijaya Kusuma Ungasan Benoa Kuta Sel. Banjar Wijaya Kusuma, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80362, Indonesia"
-        },
-        {
-          "api_id": "evt-TTaEnYElrkzCDH9",
-          "name": "MeetMoney Bali: Stablecoin, Payments and Banking [Invite-only]",
-          "start_at": "2026-08-22T11:00:00.000Z",
-          "end_at": "2026-08-22T14:00:00.000Z",
-          "url": "https://lu.ma/9ehj34uz",
-          "cover_url": "https://images.lumacdn.com/uploads/c1/05b0d03e-31bc-463d-931a-20f7f3bc038b.png",
-          "location": "KU DE TA, Jl. Kayu Aya No.9, Seminyak, Kec. Kuta, Kabupaten Badung, Bali, Indonesia"
         },
         {
           "api_id": "evt-LGJius9Au5x4LzZ",
