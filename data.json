@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T12:20:04Z",
+  "last_updated": "2026-08-22T18:15:44Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,33 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-4Oaaw9tHRF0EA51",
-          "name": "OKX Private Night",
-          "start_at": "2026-08-22T09:00:00.000Z",
-          "end_at": "2026-08-22T12:30:00.000Z",
-          "url": "https://lu.ma/jwpxj19i",
-          "cover_url": "https://images.lumacdn.com/uploads/cn/86beb6a4-bbf4-464a-9397-a4004bf27abb.png",
-          "location": "Cuca Restaurant, Jl. Yoga Perkanthi, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia"
-        },
-        {
-          "api_id": "evt-LGJius9Au5x4LzZ",
-          "name": "TEIZAZA BALI {Tropical Thunder}",
-          "start_at": "2026-08-22T11:30:00.000Z",
-          "end_at": "2026-08-22T17:30:00.000Z",
-          "url": "https://lu.ma/74np88rm",
-          "cover_url": "https://images.lumacdn.com/uploads/qq/adb97bb9-c09d-40b2-9736-62a73c46985c.jpg",
-          "location": "Morabito Art Villa Beach, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali, Indonesia"
-        },
-        {
-          "api_id": "evt-wLfMtj6ctMdUYoU",
-          "name": "TEIZAZA VIP DINNER",
-          "start_at": "2026-08-22T11:30:00.000Z",
-          "end_at": "2026-08-22T13:00:00.000Z",
-          "url": "https://lu.ma/0n98u537",
-          "cover_url": "https://images.lumacdn.com/uploads/54/8f3b8176-5499-49e5-9280-7d2c16462232.jpg",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
           "api_id": "evt-PpO4brbdm8FZZXO",
           "name": "The Crypto Social, Bali 🇮🇩",
           "start_at": "2026-08-23T04:30:00.000Z",
@@ -708,40 +681,22 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
-          "api_id": "evt-54X2sUNhonXavht",
-          "name": "hoppin house party - Aug",
-          "start_at": "2026-08-28T11:00:00.000Z",
-          "end_at": "2026-08-28T14:00:00.000Z",
-          "url": "https://lu.ma/v026lnj8",
-          "cover_url": "https://images.lumacdn.com/uploads/9g/c98e24a3-966b-4cd4-afc4-1f673a717c20.png",
-          "location": "서울특별시"
+          "api_id": "evt-jPTiJaHRHGvM0lt",
+          "name": "Namsan Hike with T1gers",
+          "start_at": "2026-09-26T01:00:00.000Z",
+          "end_at": "2026-09-26T04:00:00.000Z",
+          "url": "https://lu.ma/oc5uk7rc",
+          "cover_url": "https://images.lumacdn.com/uploads/m9/4f62874d-f122-42c8-b4f3-64b95d57f84f.png",
+          "location": "National Theater of Korea, Seoul, 59 Jangchungdan-ro, Jung District, Seoul, South Korea"
         },
         {
-          "api_id": "evt-skENMDK06ZUqWkM",
-          "name": "Token Token Avalanche Bakery: RWA & Tokenization",
-          "start_at": "2026-08-29T01:00:00.000Z",
-          "end_at": "2026-08-29T03:30:00.000Z",
-          "url": "https://lu.ma/73ssa8xp",
-          "cover_url": "https://images.lumacdn.com/uploads/xx/223d5ce3-db37-4f20-bdab-4a9621fb1773.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-VCXmJXnNOlVmEtk",
-          "name": "ORIGINSEOUL - DAY 2",
-          "start_at": "2026-09-01T03:00:00.000Z",
-          "end_at": "2026-09-01T14:30:00.000Z",
-          "url": "https://lu.ma/6o84s3nf",
-          "cover_url": "https://images.lumacdn.com/uploads/dr/75e60a57-79c3-4f48-a8fb-07cb9982f302.png",
-          "location": "SKY31 Convention, 300 Olympic-ro, Songpa District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-EOY79Sxm72YvxMa",
-          "name": "ORIGINSEOUL - DAY 3",
-          "start_at": "2026-09-02T03:00:00.000Z",
-          "end_at": "2026-09-02T14:30:00.000Z",
-          "url": "https://lu.ma/vsi2h96g",
-          "cover_url": "https://images.lumacdn.com/uploads/nn/e751d8d2-79a3-42d4-9acc-6231403d64ea.png",
-          "location": "SKY31 Convention, 300 Olympic-ro, Songpa District, Seoul, South Korea"
+          "api_id": "evt-fI8J2mVEuQJFabl",
+          "name": "The Forum | KBW Edition",
+          "start_at": "2026-09-28T03:00:00.000Z",
+          "end_at": "2026-09-28T10:00:00.000Z",
+          "url": "https://lu.ma/g3i29je0",
+          "cover_url": "https://images.lumacdn.com/uploads/bi/9e2d63cb-d13b-4d7e-baa7-00667e5f040d.png",
+          "location": "Gangnam District, Seoul, South Korea"
         },
         {
           "api_id": "evt-rsU3cNMfxi9qRZB",
@@ -852,6 +807,15 @@
           "location": "Seoul"
         },
         {
+          "api_id": "evt-wTT79BY2YwCR05o",
+          "name": "Builders Meet 🇰🇷 | During KBW 2026",
+          "start_at": "2026-09-29T07:00:00.000Z",
+          "end_at": "2026-09-29T10:30:00.000Z",
+          "url": "https://lu.ma/cnp7d806",
+          "cover_url": "https://images.lumacdn.com/uploads/zh/3667dd49-f53b-4aab-9998-5a851de258bb.png",
+          "location": "Seoul, South Korea"
+        },
+        {
           "api_id": "evt-ZR9kvg5Gf1VTqvI",
           "name": "DIGITAL AF • Exhibition & Side Events Space • Korea Blockchain Week",
           "start_at": "2026-09-29T07:00:00.000Z",
@@ -877,6 +841,15 @@
           "url": "https://lu.ma/uis2ks2j",
           "cover_url": "https://images.lumacdn.com/event-covers/3f/b13a6568-4696-4f3b-a21a-ad4a74c3b902.png",
           "location": "Seoul"
+        },
+        {
+          "api_id": "evt-VIM54MQw0mInW1g",
+          "name": "WalletConnect Pay Korea Pop-Up @ KBW",
+          "start_at": "2026-09-29T09:00:00.000Z",
+          "end_at": "2026-09-29T13:00:00.000Z",
+          "url": "https://lu.ma/u017n5o6",
+          "cover_url": "https://images.lumacdn.com/uploads/of/7d552c08-08c8-4a8c-826e-85d3d4fd74f8.png",
+          "location": "Seoul, South Korea"
         },
         {
           "api_id": "evt-QWpoNgkVNXCzNXl",
