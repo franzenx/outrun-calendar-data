@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T06:24:42Z",
+  "last_updated": "2026-08-23T12:20:36Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -581,24 +581,6 @@
       "opportunity": "SE Asia + LATAM nomad trader community; grassroots USDT adoption audience; E-sports culture",
       "luma_slug": "coinfest-asia",
       "events": [
-        {
-          "api_id": "evt-PpO4brbdm8FZZXO",
-          "name": "The Crypto Social, Bali 🇮🇩",
-          "start_at": "2026-08-23T04:30:00.000Z",
-          "end_at": "2026-08-23T09:00:00.000Z",
-          "url": "https://lu.ma/539s0rdy",
-          "cover_url": "https://images.lumacdn.com/uploads/xc/8dbce37b-8e17-44f5-9826-71345f2264d6.png",
-          "location": "Kabupaten Badung, Indonesia"
-        },
-        {
-          "api_id": "evt-NZMZfZ4OhO3CKpv",
-          "name": "Padel & Pool at the VHouse - an official side event of Coinfest Asia",
-          "start_at": "2026-08-23T06:00:00.000Z",
-          "end_at": "2026-08-23T08:00:00.000Z",
-          "url": "https://lu.ma/TBE-VH-PadelPool",
-          "cover_url": "https://images.lumacdn.com/uploads/un/1210491c-60a0-42c3-9093-7f3efecba87b.png",
-          "location": "Badung Regency, Indonesia"
-        },
         {
           "api_id": "evt-HRHFmwzLQOXK1RD",
           "name": "Sundown Mixer at the VHouse - an official side event of Coinfest Asia",
