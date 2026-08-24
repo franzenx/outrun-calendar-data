@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T06:37:37Z",
+  "last_updated": "2026-08-24T12:28:40Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,15 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-3ks4lX5HO0wEbG2",
-          "name": "TBV Demo Day at the VHouse - an official side event of Coinfest Asia",
-          "start_at": "2026-08-24T08:00:00.000Z",
-          "end_at": "2026-08-24T12:00:00.000Z",
-          "url": "https://lu.ma/TBE-VHouse26-2",
-          "cover_url": "https://images.lumacdn.com/uploads/d1/e8439ecc-a7e5-436b-9c88-c8556d78fb9c.jpg",
-          "location": "Badung Regency, Indonesia"
-        },
-        {
           "api_id": "evt-L1LWbkkZL3NDbFg",
           "name": "Pool Party at the VHouse - an official side event of Coinfest Asia",
           "start_at": "2026-08-27T07:00:00.000Z",
@@ -598,6 +589,15 @@
           "url": "https://lu.ma/TBE-VHouse26-3",
           "cover_url": "https://images.lumacdn.com/uploads/lx/40b196d9-9669-4b9c-b583-c79aff7932fe.png",
           "location": "Badung Regency, Indonesia"
+        },
+        {
+          "api_id": "evt-RSuug4ZGgoPDjoc",
+          "name": "Agentic AI & Web3: Automate Workflows",
+          "start_at": "2026-09-02T09:00:00.000Z",
+          "end_at": "2026-09-02T16:00:00.000Z",
+          "url": "https://lu.ma/1fa499w7",
+          "cover_url": "https://images.lumacdn.com/event-covers/vc/7fd184c4-6e1d-41ab-b5b2-5eb6ae4a5121.png",
+          "location": "Bali, Indonesia"
         }
       ]
     },
