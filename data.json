@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T05:52:37Z",
+  "last_updated": "2026-08-27T17:07:52Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -582,15 +582,6 @@
       "luma_slug": "coinfest-asia",
       "events": [
         {
-          "api_id": "evt-L1LWbkkZL3NDbFg",
-          "name": "Pool Party at the VHouse - an official side event of Coinfest Asia",
-          "start_at": "2026-08-27T07:00:00.000Z",
-          "end_at": "2026-08-27T12:00:00.000Z",
-          "url": "https://lu.ma/TBE-VHouse26-3",
-          "cover_url": "https://images.lumacdn.com/uploads/lx/40b196d9-9669-4b9c-b583-c79aff7932fe.png",
-          "location": "Badung Regency, Indonesia"
-        },
-        {
           "api_id": "evt-RSuug4ZGgoPDjoc",
           "name": "Agentic AI & Web3: Automate Workflows",
           "start_at": "2026-09-02T09:00:00.000Z",
@@ -704,7 +695,7 @@
           "start_at": "2026-09-28T09:00:00.000Z",
           "end_at": "2026-09-28T13:00:00.000Z",
           "url": "https://lu.ma/0bbma5yj",
-          "cover_url": "https://images.lumacdn.com/uploads/5r/65416a72-7c65-467e-b258-a03e74147540.png",
+          "cover_url": "https://images.lumacdn.com/uploads/h4/3414a7ac-5416-43f8-b3f2-5c617243c950.png",
           "location": "로컬호스트Web3, 609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea"
         },
         {
