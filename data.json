@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T01:20:08Z",
+  "last_updated": "2026-08-29T11:59:17Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -654,6 +654,15 @@
           "location": "Gangnam District, Seoul, South Korea"
         },
         {
+          "api_id": "evt-1fh2uVJ4WaFFtVm",
+          "name": "🦠Perp-Dex Day with ReboundX",
+          "start_at": "2026-09-28T07:00:00.000Z",
+          "end_at": "2026-09-28T11:00:00.000Z",
+          "url": "https://lu.ma/fbbbu498",
+          "cover_url": "https://images.lumacdn.com/uploads/m9/8ae4276e-2893-491e-a687-90c142feb0c2.png",
+          "location": "Seoul, South Korea"
+        },
+        {
           "api_id": "evt-rsU3cNMfxi9qRZB",
           "name": "AI Meets the Chart — A Horizon Series Event @KBW",
           "start_at": "2026-09-28T08:00:00.000Z",
@@ -661,6 +670,15 @@
           "url": "https://lu.ma/5mgf0u76",
           "cover_url": "https://images.lumacdn.com/uploads/s2/04b227a9-992f-407e-9288-7c853380ab65.jpg",
           "location": "Alver Coffee Gangnam, 34 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-EqGSo0Mko3vKmAh",
+          "name": "KBW 2026 Private Yacht Soirée - Epoch 1",
+          "start_at": "2026-09-28T08:00:00.000Z",
+          "end_at": "2026-09-28T12:30:00.000Z",
+          "url": "https://lu.ma/Yachtepoch1",
+          "cover_url": "https://images.lumacdn.com/uploads/ps/4b7e2188-0887-48bb-8306-69f7bbab1f25.png",
+          "location": ""
         },
         {
           "api_id": "evt-O5Q7EdkGi9b5HtD",
@@ -796,24 +814,6 @@
           "url": "https://lu.ma/uis2ks2j",
           "cover_url": "https://images.lumacdn.com/event-covers/3f/b13a6568-4696-4f3b-a21a-ad4a74c3b902.png",
           "location": "Seoul"
-        },
-        {
-          "api_id": "evt-VIM54MQw0mInW1g",
-          "name": "WalletConnect Pay Korea Pop-Up @ KBW",
-          "start_at": "2026-09-29T09:00:00.000Z",
-          "end_at": "2026-09-29T13:00:00.000Z",
-          "url": "https://lu.ma/u017n5o6",
-          "cover_url": "https://images.lumacdn.com/uploads/of/7d552c08-08c8-4a8c-826e-85d3d4fd74f8.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-atTBehDKbR2vUJU",
-          "name": "Stabull Dinner | KBW 2026",
-          "start_at": "2026-09-29T09:30:00.000Z",
-          "end_at": "2026-09-29T14:00:00.000Z",
-          "url": "https://lu.ma/f4ucwh96",
-          "cover_url": "https://images.lumacdn.com/uploads/vu/a8462bd4-ff3a-455f-88e2-dbf8aec6e700.png",
-          "location": "Seoul, South Korea"
         }
       ]
     },
