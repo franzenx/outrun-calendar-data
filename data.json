@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T02:09:42Z",
+  "last_updated": "2026-09-03T10:25:00Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -654,6 +654,15 @@
           "location": "Gangnam District, Seoul, South Korea"
         },
         {
+          "api_id": "evt-BpxdvuZDoZTzjDE",
+          "name": "Crypto House Seoul '26",
+          "start_at": "2026-09-28T05:00:00.000Z",
+          "end_at": "2026-09-28T08:00:00.000Z",
+          "url": "https://lu.ma/r6iwcjcl",
+          "cover_url": "https://images.lumacdn.com/uploads/hb/d4948898-7ea1-4125-8194-0bd88a612809.png",
+          "location": "위워크 선릉 2호점, 427 Teheran-ro, Gangnam District, Seoul, South Korea"
+        },
+        {
           "api_id": "evt-1fh2uVJ4WaFFtVm",
           "name": "🦠Perp-Dex Day with ReboundX",
           "start_at": "2026-09-28T07:00:00.000Z",
@@ -798,22 +807,13 @@
           "location": "14-15 Yangjae-dong, Seocho District, Seoul, South Korea"
         },
         {
-          "api_id": "evt-1XCx48uyAdwb72y",
-          "name": "Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon",
-          "start_at": "2026-09-29T07:30:00.000Z",
-          "end_at": "2026-09-29T10:30:00.000Z",
-          "url": "https://lu.ma/fop77t0t",
-          "cover_url": "https://images.lumacdn.com/uploads/kq/cfdd63a6-0c4b-4ba1-af8d-6f71a8a202e6.png",
-          "location": "Parnas Tower, 521 Teheran-ro, Gangnam District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-O1voj2RCZcYypUn",
-          "name": "X to the Future Korea KOL mixer",
-          "start_at": "2026-09-29T08:00:00.000Z",
-          "end_at": "2026-09-29T12:00:00.000Z",
-          "url": "https://lu.ma/uis2ks2j",
-          "cover_url": "https://images.lumacdn.com/event-covers/3f/b13a6568-4696-4f3b-a21a-ad4a74c3b902.png",
-          "location": "Seoul"
+          "api_id": "evt-n1gnLoeBo3iJhT8",
+          "name": "🃏 ReboundX in Wonderland ♥️",
+          "start_at": "2026-09-29T07:00:00.000Z",
+          "end_at": "2026-09-29T12:30:00.000Z",
+          "url": "https://lu.ma/9db984wd",
+          "cover_url": "https://images.lumacdn.com/uploads/fh/c03cb739-21d0-4018-b1aa-3035f20e50d0.png",
+          "location": "Seoul, South Korea"
         }
       ]
     },
