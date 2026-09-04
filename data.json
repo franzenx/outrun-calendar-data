@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T02:06:10Z",
+  "last_updated": "2026-09-04T10:11:52Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -744,6 +744,15 @@
           "location": "Seoul, South Korea"
         },
         {
+          "api_id": "evt-32HIBF354xmBcOn",
+          "name": "GWDC 2026 KOREA",
+          "start_at": "2026-09-29T01:00:00.000Z",
+          "end_at": "2026-09-30T10:00:00.000Z",
+          "url": "https://lu.ma/cp87au4f",
+          "cover_url": "https://images.lumacdn.com/uploads/xa/b351573a-f6a0-4153-a2c3-a953ad1e30d4.png",
+          "location": "aT Center, South Korea, Seoul, Seocho District, Gangnam-daero, 27 aT센터"
+        },
+        {
           "api_id": "evt-9wGrh1PnxE7KBhv",
           "name": "KBW2026 Founders & Investors Brunch ✨ (invite only)",
           "start_at": "2026-09-29T02:00:00.000Z",
@@ -769,15 +778,6 @@
           "url": "https://lu.ma/0a4zc5a6",
           "cover_url": "https://images.lumacdn.com/uploads/l0/0babce40-7950-44a3-be4c-446228029799.png",
           "location": "인포멀스퀘어, 15-1 Seoulsup 4-gil, Seongdong-gu, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-SZI6XvDhbmFz2tH",
-          "name": "Onchain Capital & Liquidity: DeFi & AI📍 Seoul, South Korea | 🗓 Sep 29 - Oct 1 | During Korea Blockchain Week",
-          "start_at": "2026-09-29T05:00:00.000Z",
-          "end_at": "2026-09-29T08:00:00.000Z",
-          "url": "https://lu.ma/uz21gg7p",
-          "cover_url": "https://images.lumacdn.com/event-covers/3o/a820b4c8-78e3-4ece-a021-d116c49f2f96.png",
-          "location": "Seoul, South Korea"
         },
         {
           "api_id": "evt-dpQDosvxrmEEAlK",
