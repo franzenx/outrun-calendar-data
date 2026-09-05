@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T20:03:20Z",
+  "last_updated": "2026-09-05T02:06:21Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -645,6 +645,15 @@
           "location": "National Theater of Korea, Seoul, 59 Jangchungdan-ro, Jung District, Seoul, South Korea"
         },
         {
+          "api_id": "evt-Yb0AtbeIGLz0AFE",
+          "name": "The Bridge Summit",
+          "start_at": "2026-09-28T00:00:00.000Z",
+          "end_at": "2026-09-28T08:30:00.000Z",
+          "url": "https://lu.ma/80q0842z",
+          "cover_url": "https://images.lumacdn.com/uploads/y7/f242555a-3c7f-4568-920f-d6945aedb0df.jpg",
+          "location": "Josun Palace, A Luxury Collection Hotel, Seoul Gangnam, Teheran-ro, 231 Gangnam District, Seoul, South Korea"
+        },
+        {
           "api_id": "evt-fI8J2mVEuQJFabl",
           "name": "The Forum | KBW Edition",
           "start_at": "2026-09-28T03:00:00.000Z",
@@ -805,15 +814,6 @@
           "url": "https://lu.ma/zecq09tp",
           "cover_url": "https://images.lumacdn.com/uploads/6g/8d389de3-1edb-4ce8-bafd-87420372c6d9.gif",
           "location": "14-15 Yangjae-dong, Seocho District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-n1gnLoeBo3iJhT8",
-          "name": "🃏 ReboundX in Wonderland ♥️",
-          "start_at": "2026-09-29T07:00:00.000Z",
-          "end_at": "2026-09-29T12:30:00.000Z",
-          "url": "https://lu.ma/9db984wd",
-          "cover_url": "https://images.lumacdn.com/uploads/fh/c03cb739-21d0-4018-b1aa-3035f20e50d0.png",
-          "location": "Seoul, South Korea"
         }
       ]
     },
