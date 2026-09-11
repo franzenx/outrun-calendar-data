@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T20:14:47Z",
+  "last_updated": "2026-09-11T02:09:04Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -645,6 +645,15 @@
           "location": "National Theater of Korea, Seoul, 59 Jangchungdan-ro, Jung District, Seoul, South Korea"
         },
         {
+          "api_id": "evt-3BDRA4s3Ye0ie3o",
+          "name": "Tangem House — Seoul @ KBW2026",
+          "start_at": "2026-09-27T09:00:00.000Z",
+          "end_at": "2026-09-27T13:30:00.000Z",
+          "url": "https://lu.ma/mwwro11j",
+          "cover_url": "https://images.lumacdn.com/uploads/5v/8cf2c047-1655-4ad9-a8f4-01e0d48ab0e3.png",
+          "location": "Hashed (new office), 20f, 374 Gangnam-daero, Gangnam District, Seoul, South Korea"
+        },
+        {
           "api_id": "evt-Yb0AtbeIGLz0AFE",
           "name": "The Bridge Summit",
           "start_at": "2026-09-28T00:00:00.000Z",
@@ -668,7 +677,7 @@
           "start_at": "2026-09-28T05:00:00.000Z",
           "end_at": "2026-09-28T08:00:00.000Z",
           "url": "https://lu.ma/r6iwcjcl",
-          "cover_url": "https://images.lumacdn.com/uploads/hb/d4948898-7ea1-4125-8194-0bd88a612809.png",
+          "cover_url": "https://images.lumacdn.com/uploads/l6/cf1f7414-3f13-427f-9e5e-3abf1b21d23b.png",
           "location": "위워크 선릉 2호점, 427 Teheran-ro, Gangnam District, Seoul, South Korea"
         },
         {
@@ -805,15 +814,6 @@
           "url": "https://lu.ma/cnp7d806",
           "cover_url": "https://images.lumacdn.com/uploads/zh/3667dd49-f53b-4aab-9998-5a851de258bb.png",
           "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-ZR9kvg5Gf1VTqvI",
-          "name": "DIGITAL AF! • United Art & Tech",
-          "start_at": "2026-09-29T07:00:00.000Z",
-          "end_at": "2026-10-02T17:00:00.000Z",
-          "url": "https://lu.ma/zecq09tp",
-          "cover_url": "https://images.lumacdn.com/uploads/6g/8d389de3-1edb-4ce8-bafd-87420372c6d9.gif",
-          "location": "14-15 Yangjae-dong, Seocho District, Seoul, South Korea"
         }
       ]
     },
