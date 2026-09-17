@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T15:54:57Z",
+  "last_updated": "2026-09-17T20:46:26Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -753,6 +753,15 @@
           "location": "Seoul, South Korea"
         },
         {
+          "api_id": "evt-QWpoNgkVNXCzNXl",
+          "name": "The Private Table: After Dark Gangnam",
+          "start_at": "2026-09-28T10:00:00.000Z",
+          "end_at": "2026-09-28T14:00:00.000Z",
+          "url": "https://lu.ma/TPT_KBW2026",
+          "cover_url": "https://images.lumacdn.com/uploads/hi/3c5896e3-4c4a-4137-9133-0d42bb607dad.png",
+          "location": "Seoul, South Korea"
+        },
+        {
           "api_id": "evt-q3qwenQ4H4OrbEL",
           "name": "Security Night with Zircuit Finance, Quantstamp, and Common Defense | KBW 2026",
           "start_at": "2026-09-28T10:00:00.000Z",
@@ -805,15 +814,6 @@
           "url": "https://lu.ma/j5ij7z8n",
           "cover_url": "https://images.lumacdn.com/event-covers/28/6035dd76-757a-49f7-a74c-0d13df3890bd.png",
           "location": "Seoul"
-        },
-        {
-          "api_id": "evt-wTT79BY2YwCR05o",
-          "name": "Builders Meet 🇰🇷 | During KBW 2026",
-          "start_at": "2026-09-29T07:00:00.000Z",
-          "end_at": "2026-09-29T10:30:00.000Z",
-          "url": "https://lu.ma/cnp7d806",
-          "cover_url": "https://images.lumacdn.com/uploads/zh/3667dd49-f53b-4aab-9998-5a851de258bb.png",
-          "location": "Seoul, South Korea"
         }
       ]
     },
