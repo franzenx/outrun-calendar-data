@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T09:58:48Z",
+  "last_updated": "2026-09-19T15:03:42Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -636,15 +636,6 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
-          "api_id": "evt-twFQWMS9y76h6Av",
-          "name": "Demo Day - AI x Blockchain Hackathon: Blockthon 2026",
-          "start_at": "2026-09-19T09:00:00.000Z",
-          "end_at": "2026-09-19T12:30:00.000Z",
-          "url": "https://lu.ma/rwqrakby",
-          "cover_url": "https://images.lumacdn.com/uploads/up/61e9e716-d315-49f8-9927-ba8c7f0379f4.png",
-          "location": "DSRV, 73 Teheran-ro 19-gil, Gangnam District, Seoul, South Korea"
-        },
-        {
           "api_id": "evt-jPTiJaHRHGvM0lt",
           "name": "Namsan Hike with T1gers",
           "start_at": "2026-09-26T01:00:00.000Z",
@@ -814,6 +805,15 @@
           "url": "https://lu.ma/j7lfixyv",
           "cover_url": "https://images.lumacdn.com/event-covers/bz/215e20ee-0465-4c00-92ed-8ec67b63cb4c.png",
           "location": "Seoul"
+        },
+        {
+          "api_id": "evt-HSyy3FwAufu321U",
+          "name": "CONNECT by Cointelegraph: Seoul Edition",
+          "start_at": "2026-09-29T03:00:00.000Z",
+          "end_at": "2026-09-29T09:00:00.000Z",
+          "url": "https://lu.ma/xxwrhox8",
+          "cover_url": "https://images.lumacdn.com/uploads/0h/ea874bb3-72e1-4669-b36d-3bd1b03b69cd.jpg",
+          "location": "Seoul, South Korea"
         }
       ]
     },
