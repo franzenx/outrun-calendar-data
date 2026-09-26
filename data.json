@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T02:38:39Z",
+  "last_updated": "2026-09-26T10:31:54Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -636,15 +636,6 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
-          "api_id": "evt-jPTiJaHRHGvM0lt",
-          "name": "Namsan Hike with T1gers",
-          "start_at": "2026-09-26T01:00:00.000Z",
-          "end_at": "2026-09-26T04:00:00.000Z",
-          "url": "https://lu.ma/oc5uk7rc",
-          "cover_url": "https://images.lumacdn.com/uploads/m9/4f62874d-f122-42c8-b4f3-64b95d57f84f.png",
-          "location": "National Theater of Korea, Seoul, 59 Jangchungdan-ro, Jung District, Seoul, South Korea"
-        },
-        {
           "api_id": "evt-3BDRA4s3Ye0ie3o",
           "name": "Tangem House — Seoul @ KBW2026",
           "start_at": "2026-09-27T09:00:00.000Z",
@@ -661,15 +652,6 @@
           "url": "https://lu.ma/80q0842z",
           "cover_url": "https://images.lumacdn.com/uploads/rw/489f1e8d-02c5-476b-87ad-086eb90a57b9.jpg",
           "location": "Josun Palace, A Luxury Collection Hotel, Seoul Gangnam, Teheran-ro, 231 Gangnam District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-fI8J2mVEuQJFabl",
-          "name": "The Forum | KBW Edition",
-          "start_at": "2026-09-28T03:00:00.000Z",
-          "end_at": "2026-09-28T10:00:00.000Z",
-          "url": "https://lu.ma/g3i29je0",
-          "cover_url": "https://images.lumacdn.com/uploads/bi/9e2d63cb-d13b-4d7e-baa7-00667e5f040d.png",
-          "location": "Gangnam District, Seoul, South Korea"
         },
         {
           "api_id": "evt-asNDJTVLIYa54Fa",
@@ -814,6 +796,24 @@
           "url": "https://lu.ma/xxwrhox8",
           "cover_url": "https://images.lumacdn.com/uploads/0h/ea874bb3-72e1-4669-b36d-3bd1b03b69cd.jpg",
           "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-xgUcn4jxnTn3c8N",
+          "name": "Ethereum Korea One Genesis - Build Beyond the Narrative",
+          "start_at": "2026-09-29T04:00:00.000Z",
+          "end_at": "2026-09-29T11:00:00.000Z",
+          "url": "https://lu.ma/0a4zc5a6",
+          "cover_url": "https://images.lumacdn.com/uploads/id/af7362be-7c66-48f1-b215-6c333b2ebe52.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-TTvYRB3CHcQ09Hd",
+          "name": "온도랑 불타기 | Bullish with Ondo",
+          "start_at": "2026-09-29T05:00:00.000Z",
+          "end_at": "2026-09-29T11:00:00.000Z",
+          "url": "https://lu.ma/BullishwithOndo",
+          "cover_url": "https://images.lumacdn.com/uploads/g0/695da473-92ff-4512-b1e5-93d5810c93b1.png",
+          "location": "Lion Seoul, 125-16 Cheongdam-dong, Gangnam District, Seoul, South Korea"
         }
       ]
     },
