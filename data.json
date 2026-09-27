@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T02:38:01Z",
+  "last_updated": "2026-09-27T11:03:47Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -699,15 +699,6 @@
           "location": "Seoul, South Korea"
         },
         {
-          "api_id": "evt-O5Q7EdkGi9b5HtD",
-          "name": "Rayls Community Meetup: Seoul",
-          "start_at": "2026-09-28T09:00:00.000Z",
-          "end_at": "2026-09-28T11:30:00.000Z",
-          "url": "https://lu.ma/blzswe27",
-          "cover_url": "https://images.lumacdn.com/uploads/0c/9f42837b-fe68-4149-b759-489d224e60ea.jpg",
-          "location": "Seoul, South Korea"
-        },
-        {
           "api_id": "evt-mRkHDj9ZGkDCkwd",
           "name": "VIP Dinner with Quote.Trade at KBW",
           "start_at": "2026-09-28T09:00:00.000Z",
@@ -814,6 +805,15 @@
           "url": "https://lu.ma/BullishwithOndo",
           "cover_url": "https://images.lumacdn.com/uploads/g0/695da473-92ff-4512-b1e5-93d5810c93b1.png",
           "location": "Lion Seoul, 125-16 Cheongdam-dong, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-wmq2kmNbLigFSF6",
+          "name": "Pickleball Day @KBW with KAST x Pudgy Penguins",
+          "start_at": "2026-09-29T05:00:00.000Z",
+          "end_at": "2026-09-29T09:00:00.000Z",
+          "url": "https://lu.ma/KASTxPudgy_PickleballKBW",
+          "cover_url": "https://images.lumacdn.com/uploads/93/55e059a7-7f6d-4a48-aa35-1dd013dab8c4.png",
+          "location": "Spomotive, South Korea, Seoul, Seocho District, Gomurae-ro, 18 4 B2"
         }
       ]
     },
