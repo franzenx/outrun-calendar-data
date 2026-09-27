@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T11:03:47Z",
+  "last_updated": "2026-09-27T16:03:48Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -636,15 +636,6 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
-          "api_id": "evt-3BDRA4s3Ye0ie3o",
-          "name": "Tangem House — Seoul @ KBW2026",
-          "start_at": "2026-09-27T09:00:00.000Z",
-          "end_at": "2026-09-27T13:30:00.000Z",
-          "url": "https://lu.ma/mwwro11j",
-          "cover_url": "https://images.lumacdn.com/uploads/5v/8cf2c047-1655-4ad9-a8f4-01e0d48ab0e3.png",
-          "location": "Hashed (new office), 20f, 374 Gangnam-daero, Gangnam District, Seoul, South Korea"
-        },
-        {
           "api_id": "evt-Yb0AtbeIGLz0AFE",
           "name": "The Bridge Summit",
           "start_at": "2026-09-28T00:00:00.000Z",
@@ -767,7 +758,7 @@
           "start_at": "2026-09-29T01:00:00.000Z",
           "end_at": "2026-09-30T10:00:00.000Z",
           "url": "https://lu.ma/cp87au4f",
-          "cover_url": "https://images.lumacdn.com/uploads/vy/ef70d848-a122-45bf-896d-3d7f71b40366.jpg",
+          "cover_url": "https://images.lumacdn.com/uploads/lh/6107e563-17dd-4f31-80c8-5157639a4f7e.gif",
           "location": "aT Center, South Korea, Seoul, Seocho District, Gangnam-daero, 27 aT센터"
         },
         {
@@ -813,7 +804,16 @@
           "end_at": "2026-09-29T09:00:00.000Z",
           "url": "https://lu.ma/KASTxPudgy_PickleballKBW",
           "cover_url": "https://images.lumacdn.com/uploads/93/55e059a7-7f6d-4a48-aa35-1dd013dab8c4.png",
-          "location": "Spomotive, South Korea, Seoul, Seocho District, Gomurae-ro, 18 4 B2"
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-kNHIuk3cLzCnweE",
+          "name": "The New Financial Era: Seoul",
+          "start_at": "2026-09-29T05:00:00.000Z",
+          "end_at": "2026-09-29T08:00:00.000Z",
+          "url": "https://lu.ma/joyfaycq",
+          "cover_url": "https://images.lumacdn.com/uploads/7c/02a9bdfd-ff86-478d-891b-0d4e5ce34e58.png",
+          "location": "Seoul, South Korea"
         }
       ]
     },
