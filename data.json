@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T12:24:41Z",
+  "last_updated": "2026-09-28T22:46:49Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -636,60 +636,6 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
-          "api_id": "evt-EqGSo0Mko3vKmAh",
-          "name": "KBW 2026 Private Yacht Soirée - Epoch 1",
-          "start_at": "2026-09-28T08:00:00.000Z",
-          "end_at": "2026-09-28T12:30:00.000Z",
-          "url": "https://lu.ma/Yachtepoch1",
-          "cover_url": "https://images.lumacdn.com/uploads/ps/4b7e2188-0887-48bb-8306-69f7bbab1f25.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-QU74WDor7gNaeYC",
-          "name": "Agentic Payments Onchain",
-          "start_at": "2026-09-28T09:00:00.000Z",
-          "end_at": "2026-09-28T14:00:00.000Z",
-          "url": "https://lu.ma/mw84pfjm",
-          "cover_url": "https://images.lumacdn.com/uploads/cc/6799d6f2-ee45-4b5a-a47c-c3fd4164895b.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-tQaz3qZoLer3Obc",
-          "name": "OFF THE RECORD",
-          "start_at": "2026-09-28T09:00:00.000Z",
-          "end_at": "2026-09-28T13:00:00.000Z",
-          "url": "https://lu.ma/0bbma5yj",
-          "cover_url": "https://images.lumacdn.com/uploads/h4/3414a7ac-5416-43f8-b3f2-5c617243c950.png",
-          "location": "로컬호스트Web3, 609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-QWpoNgkVNXCzNXl",
-          "name": "The Private KOL Table: After Dark Gangnam",
-          "start_at": "2026-09-28T10:00:00.000Z",
-          "end_at": "2026-09-28T12:30:00.000Z",
-          "url": "https://lu.ma/TPT_KBW2026",
-          "cover_url": "https://images.lumacdn.com/uploads/hi/3c5896e3-4c4a-4137-9133-0d42bb607dad.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-q3qwenQ4H4OrbEL",
-          "name": "Security Night with Zircuit Finance, Quantstamp, and Common Defense | KBW 2026",
-          "start_at": "2026-09-28T10:00:00.000Z",
-          "end_at": "2026-09-28T13:00:00.000Z",
-          "url": "https://lu.ma/SecurityNight",
-          "cover_url": "https://images.lumacdn.com/uploads/2c/a07b9c1e-e40f-46e7-b0e6-ae9ca2f21a36.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-aDA7VOjTYAtVG3C",
-          "name": "Signal & Sound",
-          "start_at": "2026-09-28T11:00:00.000Z",
-          "end_at": "2026-09-28T14:00:00.000Z",
-          "url": "https://lu.ma/wniw1qxs",
-          "cover_url": "https://images.lumacdn.com/uploads/hy/88d5153b-e298-4799-b46c-93f64e984c5f.png",
-          "location": "Seoul, South Korea"
-        },
-        {
           "api_id": "evt-32HIBF354xmBcOn",
           "name": "GWDC 2026 KOREA",
           "start_at": "2026-09-29T01:00:00.000Z",
@@ -814,6 +760,60 @@
           "url": "https://lu.ma/mbhofe9t",
           "cover_url": "https://images.lumacdn.com/uploads/6z/3774ab28-ed2f-443a-b914-c4887ee706b4.png",
           "location": "Dreamplus Gangnam, 311 Gangnam-daero, Seocho District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-L7tVzuViqbGAbOk",
+          "name": "Invite Only - KBW Korean BBQ & DrinksQ by RedStone, Zenith, Figure and Credora",
+          "start_at": "2026-09-29T08:30:00.000Z",
+          "end_at": "2026-09-29T12:30:00.000Z",
+          "url": "https://lu.ma/3wk6i1l1",
+          "cover_url": "https://images.lumacdn.com/uploads/f4/e7471e1b-2e9e-4304-a585-9108cf7afca6.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-rkxY3mShQ8q2zSD",
+          "name": "BLOCKFESTA VIP NIGHT | KBW2026 Edition",
+          "start_at": "2026-09-29T09:00:00.000Z",
+          "end_at": "2026-09-29T12:30:00.000Z",
+          "url": "https://lu.ma/zcitdnu8",
+          "cover_url": "https://images.lumacdn.com/uploads/qm/a5f5b9d7-56fe-4286-817f-296843535402.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-MnqiITGjFG67DtY",
+          "name": "APYX Yieldmaxxing KBW Happy Hour",
+          "start_at": "2026-09-29T09:00:00.000Z",
+          "end_at": "2026-09-29T13:00:00.000Z",
+          "url": "https://lu.ma/7nqix5pw",
+          "cover_url": "https://images.lumacdn.com/uploads/1u/1c3364e3-9baf-4ef2-a216-7be39b20028b.jpg",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-37ZE0FrA1FHuwxM",
+          "name": "Tokenizing K-Pop: WAVIST Night 🍹",
+          "start_at": "2026-09-29T09:00:00.000Z",
+          "end_at": "2026-09-29T13:00:00.000Z",
+          "url": "https://lu.ma/ee54irda",
+          "cover_url": "https://images.lumacdn.com/uploads/mg/0880f258-07c1-4161-8847-9f3bdd7d0d14.jpg",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-yRdzfSgopteZnCQ",
+          "name": "Seoul Index",
+          "start_at": "2026-09-29T09:30:00.000Z",
+          "end_at": "2026-09-29T13:30:00.000Z",
+          "url": "https://lu.ma/0f9doy66",
+          "cover_url": "https://images.lumacdn.com/uploads/q2/e8895352-5d48-488c-8d80-534a08ca5bce.png",
+          "location": "People the Terrace, 13 Dosan-daero 81-gil, 청담동 Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-VIM54MQw0mInW1g",
+          "name": "WalletConnect Pay x DCENT Korea Pop-Up @ KBW",
+          "start_at": "2026-09-29T09:30:00.000Z",
+          "end_at": "2026-09-29T12:30:00.000Z",
+          "url": "https://lu.ma/u017n5o6",
+          "cover_url": "https://images.lumacdn.com/uploads/60/9adedd8a-33d3-460b-b36f-800b9b1b2cbf.png",
+          "location": "서울특별시, South Korea"
         }
       ]
     },
