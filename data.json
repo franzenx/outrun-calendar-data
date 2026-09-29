@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T03:23:13Z",
+  "last_updated": "2026-09-29T11:50:00Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -645,78 +645,6 @@
           "location": "aT Center, South Korea, Seoul, Seocho District, Gangnam-daero, 27 aT센터"
         },
         {
-          "api_id": "evt-9wGrh1PnxE7KBhv",
-          "name": "KBW2026 Founders & Investors Brunch ✨ (invite only)",
-          "start_at": "2026-09-29T02:00:00.000Z",
-          "end_at": "2026-09-29T05:00:00.000Z",
-          "url": "https://lu.ma/j7lfixyv",
-          "cover_url": "https://images.lumacdn.com/event-covers/bz/215e20ee-0465-4c00-92ed-8ec67b63cb4c.png",
-          "location": "Seoul"
-        },
-        {
-          "api_id": "evt-HSyy3FwAufu321U",
-          "name": "CONNECT by Cointelegraph: Seoul Edition",
-          "start_at": "2026-09-29T03:00:00.000Z",
-          "end_at": "2026-09-29T09:00:00.000Z",
-          "url": "https://lu.ma/xxwrhox8",
-          "cover_url": "https://images.lumacdn.com/uploads/0h/ea874bb3-72e1-4669-b36d-3bd1b03b69cd.jpg",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-xgUcn4jxnTn3c8N",
-          "name": "Ethereum Korea One Genesis - Build Beyond the Narrative",
-          "start_at": "2026-09-29T04:00:00.000Z",
-          "end_at": "2026-09-29T11:00:00.000Z",
-          "url": "https://lu.ma/0a4zc5a6",
-          "cover_url": "https://images.lumacdn.com/uploads/id/af7362be-7c66-48f1-b215-6c333b2ebe52.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-TTvYRB3CHcQ09Hd",
-          "name": "온도랑 불타기 | Bullish with Ondo",
-          "start_at": "2026-09-29T05:00:00.000Z",
-          "end_at": "2026-09-29T11:00:00.000Z",
-          "url": "https://lu.ma/BullishwithOndo",
-          "cover_url": "https://images.lumacdn.com/uploads/g0/695da473-92ff-4512-b1e5-93d5810c93b1.png",
-          "location": "Lion Seoul, 125-16 Cheongdam-dong, Gangnam District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-wmq2kmNbLigFSF6",
-          "name": "Pickleball Day @KBW with KAST x Pudgy Penguins",
-          "start_at": "2026-09-29T05:00:00.000Z",
-          "end_at": "2026-09-29T09:00:00.000Z",
-          "url": "https://lu.ma/KASTxPudgy_PickleballKBW",
-          "cover_url": "https://images.lumacdn.com/uploads/93/55e059a7-7f6d-4a48-aa35-1dd013dab8c4.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-kNHIuk3cLzCnweE",
-          "name": "The New Financial Era: Seoul",
-          "start_at": "2026-09-29T05:00:00.000Z",
-          "end_at": "2026-09-29T08:00:00.000Z",
-          "url": "https://lu.ma/joyfaycq",
-          "cover_url": "https://images.lumacdn.com/uploads/7c/02a9bdfd-ff86-478d-891b-0d4e5ce34e58.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-dpQDosvxrmEEAlK",
-          "name": "KBW2026 VCs & LPs Cocktail Hour ✨ (invite only)",
-          "start_at": "2026-09-29T06:00:00.000Z",
-          "end_at": "2026-09-29T08:00:00.000Z",
-          "url": "https://lu.ma/j5ij7z8n",
-          "cover_url": "https://images.lumacdn.com/event-covers/28/6035dd76-757a-49f7-a74c-0d13df3890bd.png",
-          "location": "Seoul"
-        },
-        {
-          "api_id": "evt-wTT79BY2YwCR05o",
-          "name": "Builders Meet 🇰🇷 | During KBW 2026",
-          "start_at": "2026-09-29T07:00:00.000Z",
-          "end_at": "2026-09-29T10:30:00.000Z",
-          "url": "https://lu.ma/cnp7d806",
-          "cover_url": "https://images.lumacdn.com/uploads/zh/3667dd49-f53b-4aab-9998-5a851de258bb.png",
-          "location": "Seoul, South Korea"
-        },
-        {
           "api_id": "evt-fWZd9TLvUqGKh9Z",
           "name": "🇰🇷 New Friendship Tech Seoul | KBW 2026",
           "start_at": "2026-09-29T07:00:00.000Z",
@@ -742,15 +670,6 @@
           "url": "https://lu.ma/9db984wd",
           "cover_url": "https://images.lumacdn.com/uploads/fh/c03cb739-21d0-4018-b1aa-3035f20e50d0.png",
           "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-1XCx48uyAdwb72y",
-          "name": "Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon",
-          "start_at": "2026-09-29T07:30:00.000Z",
-          "end_at": "2026-09-29T10:30:00.000Z",
-          "url": "https://lu.ma/fop77t0t",
-          "cover_url": "https://images.lumacdn.com/uploads/kq/cfdd63a6-0c4b-4ba1-af8d-6f71a8a202e6.png",
-          "location": "Parnas Tower, 521 Teheran-ro, Gangnam District, Seoul, South Korea"
         },
         {
           "api_id": "evt-cyhWhiPKGKLIRXB",
@@ -814,6 +733,87 @@
           "url": "https://lu.ma/u017n5o6",
           "cover_url": "https://images.lumacdn.com/uploads/60/9adedd8a-33d3-460b-b36f-800b9b1b2cbf.png",
           "location": "서울특별시, South Korea"
+        },
+        {
+          "api_id": "evt-atTBehDKbR2vUJU",
+          "name": "Stabull Dinner | KBW 2026",
+          "start_at": "2026-09-29T09:30:00.000Z",
+          "end_at": "2026-09-29T14:00:00.000Z",
+          "url": "https://lu.ma/f4ucwh96",
+          "cover_url": "https://images.lumacdn.com/uploads/vu/a8462bd4-ff3a-455f-88e2-dbf8aec6e700.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-gAQIDxiLKENVEbq",
+          "name": "Liquidity Evening by Turtle",
+          "start_at": "2026-09-29T09:30:00.000Z",
+          "end_at": "2026-09-29T13:00:00.000Z",
+          "url": "https://lu.ma/lunar-wbcs",
+          "cover_url": "https://images.lumacdn.com/uploads/7h/96ecf91c-5224-499b-bda0-971ee792131d.png",
+          "location": "L7 Gangnam, 415 Teheran-ro, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-fyKKf0PhDErUcoK",
+          "name": "The Capital Table: An Institutional Dinner",
+          "start_at": "2026-09-29T09:30:00.000Z",
+          "end_at": "2026-09-29T13:00:00.000Z",
+          "url": "https://lu.ma/etd6v91o",
+          "cover_url": "https://images.lumacdn.com/uploads/vu/bfad018a-f6c6-45a6-b6bc-f58f52eb8f4a.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-e0C6ZAJfGCtgoJG",
+          "name": "Grill & Connect: Conflux Korea Meetup",
+          "start_at": "2026-09-29T10:00:00.000Z",
+          "end_at": "2026-09-29T13:00:00.000Z",
+          "url": "https://lu.ma/x86j8hv5",
+          "cover_url": "https://images.lumacdn.com/uploads/fv/dd4cb619-5e92-4a7d-9d1a-5adb8e964873.jpg",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-sXHrCeW8NNBDPg5",
+          "name": "THE LOCAL: Pints-as-a-Service in Seoul for founders, funders & friends.",
+          "start_at": "2026-09-29T10:00:00.000Z",
+          "end_at": "2026-09-29T16:00:00.000Z",
+          "url": "https://lu.ma/8jrm86vk",
+          "cover_url": "https://images.lumacdn.com/uploads/p3/6116ca68-70cd-4722-a649-a982ba32cb01.gif",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-HRBQSIAGGF7Xfl1",
+          "name": "[Private seminar] South Korea's crypto tax implementation in 2027",
+          "start_at": "2026-09-29T10:00:00.000Z",
+          "end_at": "2026-09-29T12:00:00.000Z",
+          "url": "https://lu.ma/zug37y0d",
+          "cover_url": "https://images.lumacdn.com/uploads/sx/3449c9ac-1596-45d4-84f7-c8bbf4213e1e.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-ipIjN6iXMBssDhQ",
+          "name": "Seoul & Settlement: KBW Cross-border Payments Night",
+          "start_at": "2026-09-29T10:00:00.000Z",
+          "end_at": "2026-09-29T13:00:00.000Z",
+          "url": "https://lu.ma/8dheox73",
+          "cover_url": "https://images.lumacdn.com/uploads/03/52c34f28-2d56-49db-b37d-5754381734be.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-mpZWeE39argV8bA",
+          "name": "DWF Labs Haus: KBW2026 🇰🇷",
+          "start_at": "2026-09-29T10:00:00.000Z",
+          "end_at": "2026-09-29T14:00:00.000Z",
+          "url": "https://lu.ma/DWFLabsHaus-KBW2026",
+          "cover_url": "https://images.lumacdn.com/uploads/1r/abd56d21-3766-4b8b-a1f9-58ff52ffaab7.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-RHHqmDQ19l4G4BR",
+          "name": "Genzio Media House @ KBW 2026",
+          "start_at": "2026-09-30T00:00:00.000Z",
+          "end_at": "2026-10-01T08:00:00.000Z",
+          "url": "https://lu.ma/4xr7tygd",
+          "cover_url": "https://images.lumacdn.com/uploads/7e/b51b5ec7-26bc-4859-87b1-e614a950de96.png",
+          "location": "Walkerhill Hotels & Resorts, 177 Walkerhill-ro, Gwangjang-dong, Gwangjin District, Seoul, South Korea"
         }
       ]
     },
