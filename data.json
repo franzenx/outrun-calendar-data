@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T17:16:32Z",
+  "last_updated": "2026-09-30T21:41:03Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -645,15 +645,6 @@
           "location": "Walkerhill Hotels & Resorts, 177 Walkerhill-ro, Gwangjang-dong, Gwangjin District, Seoul, South Korea"
         },
         {
-          "api_id": "evt-FHEOnLxSFQKCiBV",
-          "name": "Hack VC - KBW Afterparty ft. Bridge34",
-          "start_at": "2026-09-30T13:30:00.000Z",
-          "end_at": "2026-09-30T18:00:00.000Z",
-          "url": "https://lu.ma/hack-k1fk",
-          "cover_url": "https://images.lumacdn.com/uploads/s3/83f5d08c-12dc-4f75-b579-10246ee47f0c.png",
-          "location": "Soap Seoul, 217 Itaewon-ro, Yongsan District, Seoul, South Korea"
-        },
-        {
           "api_id": "evt-B10f3UOXBEobq5f",
           "name": "Asia stablecoin conference VIP kick-off Breakfast",
           "start_at": "2026-10-01T00:00:00.000Z",
@@ -813,6 +804,15 @@
           "end_at": "2026-10-01T11:30:00.000Z",
           "url": "https://lu.ma/lunar-z7m7",
           "cover_url": "https://images.lumacdn.com/uploads/m3/4f5567d7-6538-4edc-b540-b5665e84d0e9.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-HgyuCdfx8gIWle2",
+          "name": "Bridge Seoul 2026 VIP Dinner",
+          "start_at": "2026-10-01T09:30:00.000Z",
+          "end_at": "2026-10-01T14:30:00.000Z",
+          "url": "https://lu.ma/c7bu8cqk",
+          "cover_url": "https://images.lumacdn.com/uploads/ga/5078c0f9-f7bc-45b4-b083-a39df773dc10.png",
           "location": "Seoul, South Korea"
         }
       ]
