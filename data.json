@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T11:36:51Z",
+  "last_updated": "2026-09-30T17:16:32Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -645,150 +645,6 @@
           "location": "Walkerhill Hotels & Resorts, 177 Walkerhill-ro, Gwangjang-dong, Gwangjin District, Seoul, South Korea"
         },
         {
-          "api_id": "evt-K1x9BrE2Ya68ESn",
-          "name": "BAYC 성수 브랜드 팝업",
-          "start_at": "2026-09-30T03:00:00.000Z",
-          "end_at": "2026-10-04T10:00:00.000Z",
-          "url": "https://lu.ma/0a0g9am0",
-          "cover_url": "https://images.lumacdn.com/uploads/29/07ba8232-dde5-4812-ae0d-c4e5cf970f6e.jpg",
-          "location": "4 Yeonmujang 7ga-gil, Seongdong-gu, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-1jb4yVONq8RXGzb",
-          "name": "Proof Of Liquidity: Seoul Edition by Yield Network, Monad Foundation, APYX, Frankencoin, Ember, and Zama",
-          "start_at": "2026-09-30T07:00:00.000Z",
-          "end_at": "2026-09-30T12:00:00.000Z",
-          "url": "https://lu.ma/50jiymfq",
-          "cover_url": "https://images.lumacdn.com/uploads/xy/f320fddf-46fc-4ecf-b69a-e1f05fe6ca77.jpg",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-USmNC1PxmwCRB7C",
-          "name": "Perps × Institutional: Trading, Liquidity & the Onchain Economy | Seoul | 🗓 30th September | During Korea Blockchain Week",
-          "start_at": "2026-09-30T07:30:00.000Z",
-          "end_at": "2026-09-30T12:00:00.000Z",
-          "url": "https://lu.ma/v6bkeysx",
-          "cover_url": "https://images.lumacdn.com/uploads/oo/832d7821-1880-4f7f-9bc5-da05962b31c8.png",
-          "location": "South Korea"
-        },
-        {
-          "api_id": "evt-w40eYknWMUtdKe0",
-          "name": "Stellar Night Seoul ✨",
-          "start_at": "2026-09-30T08:00:00.000Z",
-          "end_at": "2026-09-30T12:00:00.000Z",
-          "url": "https://lu.ma/rx85jwn8",
-          "cover_url": "https://images.lumacdn.com/uploads/sc/966ad518-793b-4e26-a34b-d03e62975948.jpg",
-          "location": "Spaceshare Samseong COEX Center, South Korea, Seoul, Gangnam District, Yeongdong-daero 96-gil, 20 지하 1층"
-        },
-        {
-          "api_id": "evt-rMXADT4HwJJeXD3",
-          "name": "Get Entangled with Quip Network 🦋 | Korea Blockchain Week 2026",
-          "start_at": "2026-09-30T09:00:00.000Z",
-          "end_at": "2026-09-30T13:00:00.000Z",
-          "url": "https://lu.ma/ut4s2v7m",
-          "cover_url": "https://images.lumacdn.com/uploads/yj/6b56fa88-6380-41f0-8bab-b9e1afac3f67.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-uMma490f6FR40ix",
-          "name": "Rayls in Seoul | KBW",
-          "start_at": "2026-09-30T09:00:00.000Z",
-          "end_at": "2026-09-30T12:30:00.000Z",
-          "url": "https://lu.ma/r5p3iwb8",
-          "cover_url": "https://images.lumacdn.com/uploads/0c/9f42837b-fe68-4149-b759-489d224e60ea.jpg",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-AEzoqovwvywzBDU",
-          "name": "BitGo x OP Labs x Plan G - Networking Drinks Seoul",
-          "start_at": "2026-09-30T09:00:00.000Z",
-          "end_at": "2026-09-30T13:00:00.000Z",
-          "url": "https://lu.ma/wnhqbxad",
-          "cover_url": "https://images.lumacdn.com/uploads/6z/9b01cb92-afd0-4137-a4b6-940f7a3f8ea6.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-yj1CNkjaBwyoJzH",
-          "name": "Token Hour at KBW, by Hydra X, Hypernative and Canton Foundation",
-          "start_at": "2026-09-30T09:00:00.000Z",
-          "end_at": "2026-09-30T12:00:00.000Z",
-          "url": "https://lu.ma/hypern-ssv0",
-          "cover_url": "https://images.lumacdn.com/uploads/q9/9bd20742-75c0-4d61-94c3-074aa906440f.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-Ij3P27vNG9lmyjf",
-          "name": "OURBIT KBW After Hours VIP Party",
-          "start_at": "2026-09-30T09:00:00.000Z",
-          "end_at": "2026-09-30T14:00:00.000Z",
-          "url": "https://lu.ma/rkxifw17",
-          "cover_url": "https://images.lumacdn.com/uploads/xc/61bfe8ee-4422-4e08-8833-7133ae7371d1.png",
-          "location": "Avécque, South Korea, Seoul, Gangnam District, 823 1층"
-        },
-        {
-          "api_id": "evt-lEfHHrrOw3wxB5n",
-          "name": "Quantstamp X Common Defense | Gangnam Mixer | KBW 2026",
-          "start_at": "2026-09-30T10:00:00.000Z",
-          "end_at": "2026-09-30T13:00:00.000Z",
-          "url": "https://lu.ma/wslf2frf",
-          "cover_url": "https://images.lumacdn.com/uploads/nt/32a402d5-3787-4773-b57b-f9a58395ade7.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-zFxh5b4z7zKyHNC",
-          "name": "🌉 Bridging the European🇪🇺🇩🇪 and Asian Markets is coming back to Korea Blockchain Week 2026! 🇰🇷",
-          "start_at": "2026-09-30T10:00:00.000Z",
-          "end_at": "2026-09-30T14:59:00.000Z",
-          "url": "https://lu.ma/uy4s7f0z",
-          "cover_url": "https://images.lumacdn.com/gallery-images/5b/6f4db18a-9894-426f-a7a6-aff127533ff7.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-qWKSTRzg4Y2cFE0",
-          "name": "Seoul On Chain: By BONK, EVG, REXY and o1.exchange",
-          "start_at": "2026-09-30T10:00:00.000Z",
-          "end_at": "2026-09-30T13:00:00.000Z",
-          "url": "https://lu.ma/3kt0wnsh",
-          "cover_url": "https://images.lumacdn.com/uploads/87/986b0947-ff8d-489f-b454-a9868457ccf8.jpg",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-mar48KmEuuMCwLe",
-          "name": "RWA & Tokenization: An Evening of Ideas",
-          "start_at": "2026-09-30T10:30:00.000Z",
-          "end_at": "2026-09-30T14:30:00.000Z",
-          "url": "https://lu.ma/xnsfjf8b",
-          "cover_url": "https://images.lumacdn.com/uploads/na/7d9c4c38-2225-453d-a8a5-0754f7ba1877.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-SjRQeKMUJV5nasP",
-          "name": "Frontier Traders: Seoul Showdown",
-          "start_at": "2026-09-30T11:00:00.000Z",
-          "end_at": "2026-09-30T15:00:00.000Z",
-          "url": "https://lu.ma/frontier-traders-KR",
-          "cover_url": "https://images.lumacdn.com/uploads/cp/2d8e86b3-059a-4bcd-afe7-f92f0fd63314.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-1b1bEqcAVG1nLNB",
-          "name": "Gangnam Night",
-          "start_at": "2026-09-30T11:00:00.000Z",
-          "end_at": "2026-09-30T14:00:00.000Z",
-          "url": "https://lu.ma/krsbyvk6",
-          "cover_url": "https://images.lumacdn.com/uploads/g2/cc014b89-4767-4a75-a8dd-e8fde70367df.png",
-          "location": "The AMC Tower, 222 Bongeunsa-ro, Gangnam District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-NJphoAgBuOgrfBx",
-          "name": "PROS Never Sleep | KBW 2026",
-          "start_at": "2026-09-30T12:30:00.000Z",
-          "end_at": "2026-09-30T17:00:00.000Z",
-          "url": "https://lu.ma/2wm2b3ck",
-          "cover_url": "https://images.lumacdn.com/uploads/8d/c4030a11-0e62-45d2-a9c4-17729dd90cab.png",
-          "location": "People the Terrace, 13 Dosan-daero 81-gil, 청담동 Gangnam District, Seoul, South Korea"
-        },
-        {
           "api_id": "evt-FHEOnLxSFQKCiBV",
           "name": "Hack VC - KBW Afterparty ft. Bridge34",
           "start_at": "2026-09-30T13:30:00.000Z",
@@ -814,6 +670,150 @@
           "url": "https://lu.ma/dblx9nwo",
           "cover_url": "https://images.lumacdn.com/uploads/qh/af7ccd85-1813-40ab-9953-5d1febb78ea7.png",
           "location": "10 Gukjegeumyung-ro, Yeongdeungpo District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-4Ya09DCG0Lsx7ep",
+          "name": "HSC Conference Seoul",
+          "start_at": "2026-10-01T01:00:00.000Z",
+          "end_at": "2026-10-01T09:00:00.000Z",
+          "url": "https://lu.ma/HSC_Seoul",
+          "cover_url": "https://images.lumacdn.com/uploads/wz/02cfc47e-443d-4da8-b962-7dfb11623f15.gif",
+          "location": "Novotel Ambassador Seoul Gangnam, 130 Bongeunsa-ro, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-Yc4IGEQ8uynsqOC",
+          "name": "The Seoul Table - Institutional Lunch",
+          "start_at": "2026-10-01T02:00:00.000Z",
+          "end_at": "2026-10-01T05:00:00.000Z",
+          "url": "https://lu.ma/5tjt4qme",
+          "cover_url": "https://images.lumacdn.com/uploads/fk/675aff6e-19e4-4d86-abf8-b7d425a61ec7.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-cg9SJM5s6lpglnW",
+          "name": "Talk: Korea Blockchain Week",
+          "start_at": "2026-10-01T02:55:00.000Z",
+          "end_at": "2026-10-01T03:15:00.000Z",
+          "url": "https://lu.ma/e7grnb8b",
+          "cover_url": "https://images.lumacdn.com/uploads/ys/a95d784d-6ef1-4252-838d-b4fb15c0f996.png",
+          "location": "Walkerhill Hotels & Resorts, 177 Walkerhill-ro, Gwangjang-dong, Gwangjin District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-K1x9BrE2Ya68ESn",
+          "name": "BAYC 성수 브랜드 팝업",
+          "start_at": "2026-10-01T04:00:00.000Z",
+          "end_at": "2026-10-04T11:00:00.000Z",
+          "url": "https://lu.ma/0a0g9am0",
+          "cover_url": "https://images.lumacdn.com/uploads/29/07ba8232-dde5-4812-ae0d-c4e5cf970f6e.jpg",
+          "location": "4 Yeonmujang 7ga-gil, Seongdong-gu, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-0tGtt4IHlfV6P6D",
+          "name": "Bridge Seoul 2026",
+          "start_at": "2026-10-01T04:00:00.000Z",
+          "end_at": "2026-10-01T09:00:00.000Z",
+          "url": "https://lu.ma/ho64m7rb",
+          "cover_url": "https://images.lumacdn.com/uploads/ba/f4206e0c-7e20-48cb-a1f4-fbef64045d6e.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-aq9OMDPxpkfltyb",
+          "name": "Seoul On Chain",
+          "start_at": "2026-10-01T05:00:00.000Z",
+          "end_at": "2026-10-01T10:00:00.000Z",
+          "url": "https://lu.ma/mcfqg53e",
+          "cover_url": "https://images.lumacdn.com/uploads/3r/e57d5fa3-4e65-4ff4-a609-4e6d6d9a7957.png",
+          "location": "Alver Coffee Gangnam, 34 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-7d66e1f31P1x32T",
+          "name": "SANC Nine @ KBW 서울",
+          "start_at": "2026-10-01T05:00:00.000Z",
+          "end_at": "2026-10-01T09:00:00.000Z",
+          "url": "https://lu.ma/1p9onaut",
+          "cover_url": "https://images.lumacdn.com/uploads/tg/53311505-26b3-4280-b251-7f47f8d3d5c5.png",
+          "location": "로컬호스트Web3, 609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-9ElkAZcGYpr1db6",
+          "name": "QFEX × Superform | Seoul Traders Mixer",
+          "start_at": "2026-10-01T07:00:00.000Z",
+          "end_at": "2026-10-01T11:00:00.000Z",
+          "url": "https://lu.ma/kvnf6yhj",
+          "cover_url": "https://images.lumacdn.com/uploads/ln/b86630ba-99fb-4464-ab73-a97acea1f391.png",
+          "location": "Belgium, South Korea, Seoul, Gangnam District, 서울 길 20 지하 1 층"
+        },
+        {
+          "api_id": "evt-TfpxY3jBF6BFVdI",
+          "name": "THE TRADING FLOOR — KBW 2026",
+          "start_at": "2026-10-01T08:00:00.000Z",
+          "end_at": "2026-10-01T14:59:00.000Z",
+          "url": "https://lu.ma/b0p1kudt",
+          "cover_url": "https://images.lumacdn.com/uploads/dl/315c23a4-6004-48cf-abac-49cf53cb42b2.png",
+          "location": "식스나잇 sixnight.seoul, South Korea, Seoul, Gangnam District, Eonju-ro 174-gil, 13 지하 1층"
+        },
+        {
+          "api_id": "evt-nx98HVvY4epdkuc",
+          "name": "On-ChAIn Night [KBW highlighted side event]",
+          "start_at": "2026-10-01T08:00:00.000Z",
+          "end_at": "2026-10-01T11:00:00.000Z",
+          "url": "https://lu.ma/n61tjj9r",
+          "cover_url": "https://images.lumacdn.com/uploads/p9/953e6b21-01c0-457a-9df0-ff2b596b08d9.png",
+          "location": "SAC Art Hall, 534 Samseong-ro, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-edXknfDENqmdZEP",
+          "name": "House of AI @ KBW 2026",
+          "start_at": "2026-10-01T08:00:00.000Z",
+          "end_at": "2026-10-01T12:00:00.000Z",
+          "url": "https://lu.ma/house_of_ai_kbw2026",
+          "cover_url": "https://images.lumacdn.com/uploads/3b/8c0e12fb-1018-439e-a92d-0e6a1393212e.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-XAJs6JY2DlKyhvl",
+          "name": "EASYCON SEOUL 🇰🇷: On-Chain + Social Intelligence Workshop & Community Night",
+          "start_at": "2026-10-01T08:30:00.000Z",
+          "end_at": "2026-10-01T12:30:00.000Z",
+          "url": "https://lu.ma/EASYSeoul2026",
+          "cover_url": "https://images.lumacdn.com/uploads/9f/e7cd7805-650d-46c2-a898-c74ae91f305c.jpg",
+          "location": "Cafe en Travel, 45 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-KhqaolVTIrnU2wk",
+          "name": "My Own Access: The Future of Borderless Wealth & Lifestyle",
+          "start_at": "2026-10-01T09:00:00.000Z",
+          "end_at": "2026-10-01T13:00:00.000Z",
+          "url": "https://lu.ma/4izv95gx",
+          "cover_url": "https://images.lumacdn.com/uploads/7g/8d1a2db4-9c6b-41d2-8de7-9a3c47cc9a1f.jpg",
+          "location": "Grand Hyatt Seoul, 322 Sowol-ro, Yongsan District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-WbOH6Tum2Frqoo0",
+          "name": "Private Rooftop Soiree @KBW",
+          "start_at": "2026-10-01T09:00:00.000Z",
+          "end_at": "2026-10-01T12:00:00.000Z",
+          "url": "https://lu.ma/ykv9o7xu",
+          "cover_url": "https://images.lumacdn.com/uploads/i8/5e521d8d-417a-4374-a317-10620dba011a.jpg",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-3cr5o1kAo5Gu50b",
+          "name": "Founders Table VIP Dinner presented by PYTH x Stratosphere",
+          "start_at": "2026-10-01T09:00:00.000Z",
+          "end_at": "2026-10-01T12:00:00.000Z",
+          "url": "https://lu.ma/iugcc6mo",
+          "cover_url": "https://images.lumacdn.com/uploads/0d/a4ec67c7-4400-48a4-837d-0d2ed13f76de.png",
+          "location": "Samwon Garden, 835 Eonju-ro, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-GaUluxkQSdrEoV0",
+          "name": "Liquidity Table by Turtle with Compound",
+          "start_at": "2026-10-01T09:30:00.000Z",
+          "end_at": "2026-10-01T11:30:00.000Z",
+          "url": "https://lu.ma/lunar-z7m7",
+          "cover_url": "https://images.lumacdn.com/uploads/m3/4f5567d7-6538-4edc-b540-b5665e84d0e9.png",
+          "location": "Seoul, South Korea"
         }
       ]
     },
