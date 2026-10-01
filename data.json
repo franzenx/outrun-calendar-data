@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T12:05:45Z",
+  "last_updated": "2026-10-01T22:08:45Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -645,96 +645,6 @@
           "location": "4 Yeonmujang 7ga-gil, Seongdong-gu, Seoul, South Korea"
         },
         {
-          "api_id": "evt-TfpxY3jBF6BFVdI",
-          "name": "THE TRADING FLOOR — KBW 2026",
-          "start_at": "2026-10-01T08:00:00.000Z",
-          "end_at": "2026-10-01T14:59:00.000Z",
-          "url": "https://lu.ma/b0p1kudt",
-          "cover_url": "https://images.lumacdn.com/uploads/dl/315c23a4-6004-48cf-abac-49cf53cb42b2.png",
-          "location": "식스나잇 sixnight.seoul, South Korea, Seoul, Gangnam District, Eonju-ro 174-gil, 13 지하 1층"
-        },
-        {
-          "api_id": "evt-XAJs6JY2DlKyhvl",
-          "name": "EASYCON SEOUL 🇰🇷: On-Chain + Social Intelligence Workshop & Community Night",
-          "start_at": "2026-10-01T08:30:00.000Z",
-          "end_at": "2026-10-01T12:30:00.000Z",
-          "url": "https://lu.ma/EASYSeoul2026",
-          "cover_url": "https://images.lumacdn.com/uploads/9f/e7cd7805-650d-46c2-a898-c74ae91f305c.jpg",
-          "location": "Cafe en Travel, 45 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-KhqaolVTIrnU2wk",
-          "name": "My Own Access: The Future of Borderless Wealth & Lifestyle",
-          "start_at": "2026-10-01T09:00:00.000Z",
-          "end_at": "2026-10-01T13:00:00.000Z",
-          "url": "https://lu.ma/4izv95gx",
-          "cover_url": "https://images.lumacdn.com/uploads/7g/8d1a2db4-9c6b-41d2-8de7-9a3c47cc9a1f.jpg",
-          "location": "Grand Hyatt Seoul, 322 Sowol-ro, Yongsan District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-HgyuCdfx8gIWle2",
-          "name": "Bridge Seoul 2026 VIP Dinner",
-          "start_at": "2026-10-01T09:30:00.000Z",
-          "end_at": "2026-10-01T14:30:00.000Z",
-          "url": "https://lu.ma/c7bu8cqk",
-          "cover_url": "https://images.lumacdn.com/uploads/ga/5078c0f9-f7bc-45b4-b083-a39df773dc10.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-8i1EeiHQfNnruB4",
-          "name": "Satoshi Dinner Club Seoul powered by ALPHEA",
-          "start_at": "2026-10-01T10:00:00.000Z",
-          "end_at": "2026-10-01T13:00:00.000Z",
-          "url": "https://lu.ma/w9w5k8ku",
-          "cover_url": "https://images.lumacdn.com/uploads/da/8ce645bc-222a-4ab6-b3de-a511c7fb382d.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-0kMfVAtrgQ0GoF9",
-          "name": "[Shinhan] HARVEST:New Rails",
-          "start_at": "2026-10-01T10:00:00.000Z",
-          "end_at": "2026-10-01T13:00:00.000Z",
-          "url": "https://lu.ma/2b8a36t4",
-          "cover_url": "https://images.lumacdn.com/uploads/jo/a1f79024-b691-4e67-8079-10b8798825b5.png",
-          "location": "SEOUL BREWERY SEONGSU, South Korea, Seoul, Seongdong-gu, 성수2가제1동 310-53"
-        },
-        {
-          "api_id": "evt-ToucHS4BqrUd5LN",
-          "name": "KBW Creators Night",
-          "start_at": "2026-10-01T10:00:00.000Z",
-          "end_at": "2026-10-01T14:00:00.000Z",
-          "url": "https://lu.ma/s035gxat",
-          "cover_url": "https://images.lumacdn.com/uploads/xu/80e85f79-57cb-4dec-bb01-3d94a24eb6db.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-eX9BW3ljFABgGen",
-          "name": "KBW VIP Mixer w/ Stellar, Exodus & OSL Group",
-          "start_at": "2026-10-01T10:30:00.000Z",
-          "end_at": "2026-10-01T14:00:00.000Z",
-          "url": "https://lu.ma/x1fve74y",
-          "cover_url": "https://images.lumacdn.com/uploads/99/c5b5c116-c2ec-4b73-ad80-fc831bd4de14.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-yhgSO4gDV8GKfNC",
-          "name": "RaveDAO Presents BADDIEJUICE at Soap Seoul",
-          "start_at": "2026-10-01T12:00:00.000Z",
-          "end_at": "2026-10-01T17:00:00.000Z",
-          "url": "https://lu.ma/z0h15i8u",
-          "cover_url": "https://images.lumacdn.com/uploads/ks/92882887-473d-4ef3-a281-7775f4734b92.png",
-          "location": "Soap Seoul, 217 Itaewon-ro, Yongsan District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-0SNlQky9ZFrbUYT",
-          "name": "ORBS X PEAR BBQ",
-          "start_at": "2026-10-01T12:00:00.000Z",
-          "end_at": "2026-10-01T15:00:00.000Z",
-          "url": "https://lu.ma/tltah97s",
-          "cover_url": "https://images.lumacdn.com/uploads/cv/bf712e17-2f0b-496a-ae81-1a333ed6f93e.jpg",
-          "location": "Seoul, South Korea"
-        },
-        {
           "api_id": "evt-6b3hxLHHG23bo2O",
           "name": "Pulsar Money // Coffee Meetup @ KBW with ZeroDev",
           "start_at": "2026-10-02T02:00:00.000Z",
@@ -805,6 +715,24 @@
           "url": "https://lu.ma/amy4nwf0",
           "cover_url": "https://images.lumacdn.com/uploads/qb/43ad9ef3-bede-4e23-9a83-afc0d10d9ba8.png",
           "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-CPGBQQg8jgI8SLc",
+          "name": "XRP Seoul 2026 VIP Afterparty",
+          "start_at": "2026-10-03T09:30:00.000Z",
+          "end_at": "2026-10-03T13:00:00.000Z",
+          "url": "https://lu.ma/q0wmg82n",
+          "cover_url": "https://images.lumacdn.com/uploads/h1/a34f3148-933d-4dae-bb16-3b4988b3e4c8.png",
+          "location": "JJ Mahoney's, 322 Sowol-ro, 한남동 Yongsan District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-5I3vezpRHD0bJ1z",
+          "name": "Univ Connect: Aidenteti Crew",
+          "start_at": "2026-10-17T05:00:00.000Z",
+          "end_at": "2026-10-17T07:00:00.000Z",
+          "url": "https://lu.ma/f95ppglk",
+          "cover_url": "https://images.lumacdn.com/uploads/90/ce8dda2e-ef07-47b2-8409-5894cc16d096.png",
+          "location": "South Korea, Seoul, Yongsan District, Cheongpa-ro, 77 서울용산시제품제작소 2층, 3층"
         }
       ]
     },
