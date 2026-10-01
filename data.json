@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T21:41:03Z",
+  "last_updated": "2026-10-01T03:12:40Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -636,24 +636,6 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
-          "api_id": "evt-RHHqmDQ19l4G4BR",
-          "name": "Genzio Media House @ KBW 2026",
-          "start_at": "2026-09-30T00:00:00.000Z",
-          "end_at": "2026-10-01T08:00:00.000Z",
-          "url": "https://lu.ma/4xr7tygd",
-          "cover_url": "https://images.lumacdn.com/uploads/7e/b51b5ec7-26bc-4859-87b1-e614a950de96.png",
-          "location": "Walkerhill Hotels & Resorts, 177 Walkerhill-ro, Gwangjang-dong, Gwangjin District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-B10f3UOXBEobq5f",
-          "name": "Asia stablecoin conference VIP kick-off Breakfast",
-          "start_at": "2026-10-01T00:00:00.000Z",
-          "end_at": "2026-10-01T02:30:00.000Z",
-          "url": "https://lu.ma/the-4ial",
-          "cover_url": "https://images.lumacdn.com/uploads/1d/6ecf7865-e818-4260-8712-35859bd1fe9a.png",
-          "location": "Seoul, South Korea"
-        },
-        {
           "api_id": "evt-7FdB8zgg9xSUVIW",
           "name": "BLOCKFESTA 2026 | During Korea Blockchain Week",
           "start_at": "2026-10-01T01:00:00.000Z",
@@ -813,6 +795,24 @@
           "end_at": "2026-10-01T14:30:00.000Z",
           "url": "https://lu.ma/c7bu8cqk",
           "cover_url": "https://images.lumacdn.com/uploads/ga/5078c0f9-f7bc-45b4-b083-a39df773dc10.png",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-r5WaE5Gl07U1Snm",
+          "name": "Four Pillars Research Challenge 2026 Awards Ceremony",
+          "start_at": "2026-10-01T10:00:00.000Z",
+          "end_at": "2026-10-01T12:00:00.000Z",
+          "url": "https://lu.ma/fy078hev",
+          "cover_url": "https://images.lumacdn.com/uploads/ll/cf4eef4b-640a-42bc-afd1-12c785555909.png",
+          "location": "Hashed (new office), 20f, 374 Gangnam-daero, Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-8i1EeiHQfNnruB4",
+          "name": "Satoshi Dinner Club Seoul powered by ALPHEA",
+          "start_at": "2026-10-01T10:00:00.000Z",
+          "end_at": "2026-10-01T13:00:00.000Z",
+          "url": "https://lu.ma/w9w5k8ku",
+          "cover_url": "https://images.lumacdn.com/uploads/da/8ce645bc-222a-4ab6-b3de-a511c7fb382d.png",
           "location": "Seoul, South Korea"
         }
       ]
