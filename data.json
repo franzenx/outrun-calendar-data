@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T03:14:12Z",
+  "last_updated": "2026-10-02T11:36:43Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -635,69 +635,6 @@
       "opportunity": "APAC exchange integrations; Korean GameFi × E-sports crossover; Upbit/Bithumb BD",
       "luma_slug": "koreablockchainweek",
       "events": [
-        {
-          "api_id": "evt-K1x9BrE2Ya68ESn",
-          "name": "BAYC 성수 브랜드 팝업",
-          "start_at": "2026-10-01T04:00:00.000Z",
-          "end_at": "2026-10-04T11:00:00.000Z",
-          "url": "https://lu.ma/0a0g9am0",
-          "cover_url": "https://images.lumacdn.com/uploads/29/07ba8232-dde5-4812-ae0d-c4e5cf970f6e.jpg",
-          "location": "4 Yeonmujang 7ga-gil, Seongdong-gu, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-6b3hxLHHG23bo2O",
-          "name": "Pulsar Money // Coffee Meetup @ KBW with ZeroDev",
-          "start_at": "2026-10-02T02:00:00.000Z",
-          "end_at": "2026-10-02T05:00:00.000Z",
-          "url": "https://lu.ma/l39eajj2",
-          "cover_url": "https://images.lumacdn.com/uploads/pz/e9634cac-563a-412c-b4fb-fffb2262095e.png",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-0P2iHO6bCg8fLA2",
-          "name": "Consumer Crypto Day @ KBW 2026 | Hosted by Fluent & Four Pillars",
-          "start_at": "2026-10-02T03:00:00.000Z",
-          "end_at": "2026-10-02T06:30:00.000Z",
-          "url": "https://lu.ma/1j1oxie8",
-          "cover_url": "https://images.lumacdn.com/uploads/n1/93ed1889-1fc0-46de-9cbf-7911b4e30327.jpg",
-          "location": "JBK 컨벤션홀, 619 Bongeunsa-ro, 삼성1동 Gangnam District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-mUJUjztnBYNJjby",
-          "name": "StarkMart Seoul",
-          "start_at": "2026-10-02T03:00:00.000Z",
-          "end_at": "2026-10-02T06:00:00.000Z",
-          "url": "https://lu.ma/StarkMart2026",
-          "cover_url": "https://images.lumacdn.com/uploads/n2/5630f274-5f18-4f52-bf1f-23e801f5e2a7.jpg",
-          "location": "609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-FegaoCKDBwpoI1k",
-          "name": "BNB Seoul",
-          "start_at": "2026-10-02T05:00:00.000Z",
-          "end_at": "2026-10-02T10:00:00.000Z",
-          "url": "https://lu.ma/99ipn3wu",
-          "cover_url": "https://images.lumacdn.com/uploads/ht/73638536-5759-419d-a4b5-02fcbf4b1a82.jpg",
-          "location": "Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-iZqPyiqaY411BbI",
-          "name": "Trader Gathering",
-          "start_at": "2026-10-02T06:00:00.000Z",
-          "end_at": "2026-10-02T09:00:00.000Z",
-          "url": "https://lu.ma/r86vvn9s",
-          "cover_url": "https://images.lumacdn.com/uploads/3t/9581d9d9-b42d-451a-bf31-e83a30970abb.png",
-          "location": "Alver Coffee Gangnam, 34 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
-        },
-        {
-          "api_id": "evt-RPwTInkRkbN6POE",
-          "name": "Enter the Night: with Midnight Korea",
-          "start_at": "2026-10-02T08:00:00.000Z",
-          "end_at": "2026-10-02T11:00:00.000Z",
-          "url": "https://lu.ma/zwb1a9m1",
-          "cover_url": "https://images.lumacdn.com/uploads/tl/69990f29-652b-4130-a63d-b278a6050910.png",
-          "location": "Seoul, South Korea"
-        },
         {
           "api_id": "evt-fAv74ZkfSozAZDZ",
           "name": "XRPfi Night Seoul",
