@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T22:08:45Z",
+  "last_updated": "2026-10-02T03:14:12Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -654,15 +654,6 @@
           "location": "Seoul, South Korea"
         },
         {
-          "api_id": "evt-mUJUjztnBYNJjby",
-          "name": "StarkMart Seoul",
-          "start_at": "2026-10-02T02:00:00.000Z",
-          "end_at": "2026-10-02T06:00:00.000Z",
-          "url": "https://lu.ma/StarkMart2026",
-          "cover_url": "https://images.lumacdn.com/uploads/n2/5630f274-5f18-4f52-bf1f-23e801f5e2a7.jpg",
-          "location": "609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea"
-        },
-        {
           "api_id": "evt-0P2iHO6bCg8fLA2",
           "name": "Consumer Crypto Day @ KBW 2026 | Hosted by Fluent & Four Pillars",
           "start_at": "2026-10-02T03:00:00.000Z",
@@ -670,6 +661,15 @@
           "url": "https://lu.ma/1j1oxie8",
           "cover_url": "https://images.lumacdn.com/uploads/n1/93ed1889-1fc0-46de-9cbf-7911b4e30327.jpg",
           "location": "JBK 컨벤션홀, 619 Bongeunsa-ro, 삼성1동 Gangnam District, Seoul, South Korea"
+        },
+        {
+          "api_id": "evt-mUJUjztnBYNJjby",
+          "name": "StarkMart Seoul",
+          "start_at": "2026-10-02T03:00:00.000Z",
+          "end_at": "2026-10-02T06:00:00.000Z",
+          "url": "https://lu.ma/StarkMart2026",
+          "cover_url": "https://images.lumacdn.com/uploads/n2/5630f274-5f18-4f52-bf1f-23e801f5e2a7.jpg",
+          "location": "609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea"
         },
         {
           "api_id": "evt-FegaoCKDBwpoI1k",
