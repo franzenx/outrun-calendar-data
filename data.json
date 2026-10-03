@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T10:50:20Z",
+  "last_updated": "2026-10-03T15:26:29Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -635,15 +635,6 @@
       "opportunity": "APAC exchange integrations; Korean GameFi × E-sports crossover; Upbit/Bithumb BD",
       "luma_slug": "koreablockchainweek",
       "events": [
-        {
-          "api_id": "evt-CPGBQQg8jgI8SLc",
-          "name": "XRP Seoul 2026 VIP Afterparty",
-          "start_at": "2026-10-03T09:30:00.000Z",
-          "end_at": "2026-10-03T13:00:00.000Z",
-          "url": "https://lu.ma/q0wmg82n",
-          "cover_url": "https://images.lumacdn.com/uploads/h1/a34f3148-933d-4dae-bb16-3b4988b3e4c8.png",
-          "location": "JJ Mahoney's, 322 Sowol-ro, 한남동 Yongsan District, Seoul, South Korea"
-        },
         {
           "api_id": "evt-5I3vezpRHD0bJ1z",
           "name": "Univ Connect: Aidenteti Crew",
