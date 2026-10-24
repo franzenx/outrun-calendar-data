@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T02:36:09Z",
+  "last_updated": "2026-10-24T10:00:18Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -636,13 +636,13 @@
       "luma_slug": "koreablockchainweek",
       "events": [
         {
-          "api_id": "evt-5I3vezpRHD0bJ1z",
-          "name": "Univ Connect: Aidenteti Crew",
-          "start_at": "2026-10-17T05:00:00.000Z",
-          "end_at": "2026-10-17T07:00:00.000Z",
-          "url": "https://lu.ma/f95ppglk",
-          "cover_url": "https://images.lumacdn.com/uploads/90/ce8dda2e-ef07-47b2-8409-5894cc16d096.png",
-          "location": "South Korea, Seoul, Yongsan District, Cheongpa-ro, 77 서울용산시제품제작소 2층, 3층"
+          "api_id": "evt-Q9UcA3RhIEKRx03",
+          "name": "Yellow Korea Meetup #3 — XRP & AI Coffee Chat",
+          "start_at": "2026-10-28T10:00:00.000Z",
+          "end_at": "2026-10-28T13:00:00.000Z",
+          "url": "https://lu.ma/yellowkr3",
+          "cover_url": "https://images.lumacdn.com/uploads/u0/cdb20c22-2202-488b-8838-015e9338f2fd.png",
+          "location": "Cafe en Travel, 45 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea"
         }
       ]
     },
