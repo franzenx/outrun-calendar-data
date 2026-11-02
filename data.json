@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T03:31:41Z",
+  "last_updated": "2026-11-02T14:15:46Z",
   "source": "Tradedar Events Calendar 2026 — 100 Top Events",
   "conferences": [
     {
@@ -320,13 +320,13 @@
       "luma_slug": "parisblockchainweek",
       "events": [
         {
-          "api_id": "evt-A8C5mdhWHWSzC9A",
-          "name": "INDIGO x $NRG x RASA - Paris Eiffel Tower Edition: Music by BLOND:ISH",
-          "start_at": "2026-04-17T17:00:00.000Z",
-          "end_at": "2026-04-17T21:00:00.000Z",
-          "url": "https://lu.ma/m9uqp6fg",
-          "cover_url": "https://images.lumacdn.com/event-covers/os/e322e55c-7c95-4906-a1b4-1b0daa35edc2.jpg",
-          "location": "Eiffel Tower, Av. Gustave Eiffel, 75007 Paris, France"
+          "api_id": "evt-msBrABU5CNEIeKz",
+          "name": "Signal Week 2027 (formerly Paris Blockchain Week)",
+          "start_at": "2027-07-06T06:00:00.000Z",
+          "end_at": "2027-07-07T18:00:00.000Z",
+          "url": "https://lu.ma/hb9gsas5",
+          "cover_url": "https://images.lumacdn.com/uploads/fa/2bb89f33-297e-46d0-8e3d-5f4a415f0076.png",
+          "location": "Palais des Congrès de Paris, 2 Pl de la Pte Maillot, 75017 Paris, France"
         }
       ]
     },
